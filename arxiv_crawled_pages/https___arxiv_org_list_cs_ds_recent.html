@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>  <title>Data Structures and Algorithms  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/browse/0.3.4/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/browse/0.3.4/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/browse/0.3.4/images/icons/favicon-16x16.png">
+  <link rel="manifest" href="/static/browse/0.3.4/images/icons/site.webmanifest">
+  <link rel="mask-icon" href="/static/browse/0.3.4/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/arXiv.css?v=20240722" />
+  <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20200611" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
+  <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" /></script>
+  <script src="/static/browse/0.3.4/js/mathjaxToggle.min.js" type="text/javascript"></script>
+  <script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</head>
+
+<body  class="with-cu-identity">
+  
+  <div class="flex-wrap-footer">
+    <header>
+      <a href="#content" class="is-sr-only">Skip to main content</a>
+      <!-- start desktop header -->
+      <div class="columns is-vcentered is-hidden-mobile" id="cu-identity">
+        <div class="column" id="cu-logo">
+          <a href="https://www.cornell.edu/"><img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University" /></a>
+        </div><div class="column banner-minimal forum">
+            <!-- /from July 7 at 1:00 AM to Sept 2 at 1:00 AM --><p>Grab your spot at the free arXiv Accessibility Forum</p>
+            <a href="https://accessibility2024.arxiv.org/schedule" target="_blank">Forum Schedule</a>
+
+            <!-- /from Sept 2 at 1:00 AM to Sept 13 at 11:30PM --></div><div class="column" id="support-ack">
+          <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors. <a href="https://info.arxiv.org/about/donate.html">Donate</a></span>
+        </div>
+      </div>
+
+      <div id="header" class="is-hidden-mobile">
+<a aria-hidden="true" href="{url_path('ignore_me')}"></a>
+<div class="header-breadcrumbs">
+  <a href="/"><img src="/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg" alt="arxiv logo" style="height:40px;"/></a> <span>&gt;</span>
+  <a href="/list/cs.DS/recent">cs.DS</a>
+  </div>
+          <div class="search-block level-right">
+    <form class="level-item mini-search" method="GET" action="https://arxiv.org/search">
+      <div class="field has-addons">
+        <div class="control">
+          <input class="input is-small" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+          <p class="help"><a href="https://info.arxiv.org/help">Help</a> | <a href="https://arxiv.org/search/advanced">Advanced Search</a></p>
+        </div>
+        <div class="control">
+          <div class="select is-small">
+            <select name="searchtype" aria-label="Field to search">
+              <option value="all" selected="selected">All fields</option>
+              <option value="title">Title</option>
+              <option value="author">Author</option>
+              <option value="abstract">Abstract</option>
+              <option value="comments">Comments</option>
+              <option value="journal_ref">Journal reference</option>
+              <option value="acm_class">ACM classification</option>
+              <option value="msc_class">MSC classification</option>
+              <option value="report_num">Report number</option>
+              <option value="paper_id">arXiv identifier</option>
+              <option value="doi">DOI</option>
+              <option value="orcid">ORCID</option>
+              <option value="author_id">arXiv author ID</option>
+              <option value="help">Help pages</option>
+              <option value="full_text">Full text</option>
+            </select>
+          </div>
+        </div>
+        <input type="hidden" name="source" value="header">
+        <button class="button is-small is-cul-darker">Search</button>
+      </div>
+    </form>
+  </div>
+     </div><!-- /end desktop header -->
+
+      <div class="mobile-header">
+        <div class="columns is-mobile">
+          <div class="column logo-arxiv"><a href="https://arxiv.org/"><img src="/static/browse/0.3.4/images/arxiv-logomark-small-white.svg" alt="arXiv logo" style="height:60px;" /></a></div>
+          <div class="column logo-cornell"><a href="https://www.cornell.edu/">
+            <picture>
+              <source media="(min-width: 501px)"
+                srcset="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg  400w"
+                sizes="400w" />
+              <source srcset="/static/browse/0.3.4/images/icons/cu/cornell_seal_simple_black.svg 2x" />
+              <img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University Logo" />
+            </picture>
+          </a></div>
+          <div class="column nav" id="toggle-container" role="menubar">
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-white"><title>open search</title><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <form class="mobile-search-form" method="GET" action="https://arxiv.org/search">
+                <div class="field has-addons">
+                  <input class="input" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+                  <input type="hidden" name="source" value="header">
+                  <input type="hidden" name="searchtype" value="all">
+                  <button class="button">GO</button>
+                </div>
+              </form>
+            </div>
+
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-white" role="menu"><title>open navigation menu</title><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/ ></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <nav class="mobile-menu" aria-labelledby="mobilemenulabel">
+                <h2 id="mobilemenulabel">quick links</h2>
+                <ul>
+                    <li><a href="https://arxiv.org/login">Login</a></li>
+                    <li><a href="https://info.arxiv.org/help">Help Pages</a></li>
+                    <li><a href="https://info.arxiv.org/about">About</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div><!-- /end mobile-header -->
+    </header>
+
+    <main>
+      <div id="content">
+<div id='content-inner'>
+<div id='dlpage'>
+  <h1>Data Structures and Algorithms</h1>
+
+<h2>Authors and titles for recent submissions</h2>
+  <ul>
+<li>
+        <a href="/list/cs.DS/recent?skip=0&amp;show=25">
+          Thu, 1 Aug 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.DS/recent?skip=4&amp;show=25">
+          Wed, 31 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.DS/recent?skip=9&amp;show=25">
+          Tue, 30 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.DS/recent?skip=18&amp;show=25">
+          Mon, 29 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.DS/recent?skip=23&amp;show=25">
+          Fri, 26 Jul 2024
+        </a>
+      </li></ul>
+  <p>See today's <a id="new-cs.DS" aria-labelledby="new-cs.DS" href="/list/cs.DS/new">new</a> changes</p>
+      <div class='paging'>Total of 31 entries :      <span>1-25</span>
+      <a href=/list/cs.DS/recent?skip=25&amp;show=25>26-31</a>
+
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/cs.DS/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <span style="color: #454545">more</span>
+ |
+          <a href=/list/cs.DS/recent?skip=0&amp;show=2000>
+      all</a>
+
+    </div>
+
+
+
+      <dl id='articles'>
+    <h3>Thu, 1 Aug 2024 (showing 4 of 4 entries )</h3>
+
+
+    <dt>
+      <a name='item1'>[1]</a>
+      <a href ="/abs/2407.21614" title="Abstract" id="2407.21614">
+        arXiv:2407.21614
+      </a>
+      
+        [<a href="/pdf/2407.21614" title="Download PDF" id="pdf-2407.21614" aria-labelledby="pdf-2407.21614">pdf</a>, <a href="https://arxiv.org/html/2407.21614v1" title="View HTML" id="html-2407.21614" aria-labelledby="html-2407.21614" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21614" title="Other formats" id="oth-2407.21614" aria-labelledby="oth-2407.21614">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Clementi,+A">Andrea Clementi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gual%C3%A0,+L">Luciano Gualà</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sciarria,+L+P">Luca Pepè Sciarria</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Straziota,+A">Alessandro Straziota</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item2'>[2]</a>
+      <a href ="/abs/2407.21591" title="Abstract" id="2407.21591">
+        arXiv:2407.21591
+      </a>
+      
+        [<a href="/pdf/2407.21591" title="Download PDF" id="pdf-2407.21591" aria-labelledby="pdf-2407.21591">pdf</a>, <a href="https://arxiv.org/html/2407.21591v1" title="View HTML" id="html-2407.21591" aria-labelledby="html-2407.21591" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21591" title="Other formats" id="oth-2407.21591" aria-labelledby="oth-2407.21591">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Simpler Optimal Sorting from a Directed Acyclic Graph
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=van+der+Hoog,+I">Ivor van der Hoog</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rotenberg,+E">Eva Rotenberg</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rutschmann,+D">Daniel Rutschmann</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item3'>[3]</a>
+      <a href ="/abs/2407.21468" title="Abstract" id="2407.21468">
+        arXiv:2407.21468
+      </a>
+      
+        [<a href="/pdf/2407.21468" title="Download PDF" id="pdf-2407.21468" aria-labelledby="pdf-2407.21468">pdf</a>, <a href="https://arxiv.org/html/2407.21468v1" title="View HTML" id="html-2407.21468" aria-labelledby="html-2407.21468" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21468" title="Other formats" id="oth-2407.21468" aria-labelledby="oth-2407.21468">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          An Invertible State Space for Process Trees
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Kolhof,+G">Gero Kolhof</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=van+Zelst,+S+J">Sebastiaan J. van Zelst</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          8 pages, 7 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Artificial Intelligence (cs.AI)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item4'>[4]</a>
+      <a href ="/abs/2407.21785" title="Abstract" id="2407.21785">
+        arXiv:2407.21785
+      </a>
+          (cross-list from cs.GT)
+
+        [<a href="/pdf/2407.21785" title="Download PDF" id="pdf-2407.21785" aria-labelledby="pdf-2407.21785">pdf</a>, <a href="https://arxiv.org/html/2407.21785v1" title="View HTML" id="html-2407.21785" aria-labelledby="html-2407.21785" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21785" title="Other formats" id="oth-2407.21785" aria-labelledby="oth-2407.21785">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Robust Restaking Networks
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Durvasula,+N">Naveen Durvasula</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Roughgarden,+T">Tim Roughgarden</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Computer Science and Game Theory (cs.GT)</span>; Data Structures and Algorithms (cs.DS)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Wed, 31 Jul 2024 (showing 5 of 5 entries )</h3>
+
+
+    <dt>
+      <a name='item5'>[5]</a>
+      <a href ="/abs/2407.21005" title="Abstract" id="2407.21005">
+        arXiv:2407.21005
+      </a>
+      
+        [<a href="/pdf/2407.21005" title="Download PDF" id="pdf-2407.21005" aria-labelledby="pdf-2407.21005">pdf</a>, <a href="/format/2407.21005" title="Other formats" id="oth-2407.21005" aria-labelledby="oth-2407.21005">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Settling the Pass Complexity of Approximate Matchings in Dynamic Graph Streams
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Assadi,+S">Sepehr Assadi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Behnezhad,+S">Soheil Behnezhad</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Konrad,+C">Christian Konrad</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Naidu,+K+K">Kheeran K. Naidu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sundaresan,+J">Janani Sundaresan</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          87 pages, 13 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Computational Complexity (cs.CC)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item6'>[6]</a>
+      <a href ="/abs/2407.20941" title="Abstract" id="2407.20941">
+        arXiv:2407.20941
+      </a>
+      
+        [<a href="/pdf/2407.20941" title="Download PDF" id="pdf-2407.20941" aria-labelledby="pdf-2407.20941">pdf</a>, <a href="https://arxiv.org/html/2407.20941v1" title="View HTML" id="html-2407.20941" aria-labelledby="html-2407.20941" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20941" title="Other formats" id="oth-2407.20941" aria-labelledby="oth-2407.20941">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Random-Order Interval Selection
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Borodin,+A">Allan Borodin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Karavasilis,+C">Christodoulos Karavasilis</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          18 pages, 7 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item7'>[7]</a>
+      <a href ="/abs/2407.20422" title="Abstract" id="2407.20422">
+        arXiv:2407.20422
+      </a>
+      
+        [<a href="/pdf/2407.20422" title="Download PDF" id="pdf-2407.20422" aria-labelledby="pdf-2407.20422">pdf</a>, <a href="https://arxiv.org/html/2407.20422v1" title="View HTML" id="html-2407.20422" aria-labelledby="html-2407.20422" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20422" title="Other formats" id="oth-2407.20422" aria-labelledby="oth-2407.20422">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Greedy Conjecture for the Shortest Common Superstring Problem and its Strengthenings
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Nikolaev,+M">Maksim Nikolaev</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item8'>[8]</a>
+      <a href ="/abs/2407.20419" title="Abstract" id="2407.20419">
+        arXiv:2407.20419
+      </a>
+      
+        [<a href="/pdf/2407.20419" title="Download PDF" id="pdf-2407.20419" aria-labelledby="pdf-2407.20419">pdf</a>, <a href="https://arxiv.org/html/2407.20419v1" title="View HTML" id="html-2407.20419" aria-labelledby="html-2407.20419" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20419" title="Other formats" id="oth-2407.20419" aria-labelledby="oth-2407.20419">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Randomized Rounding Approaches to Online Allocation, Sequencing, and Matching
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ma,+W">Will Ma</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          To appear as an INFORMS 2024 Tutorial
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item9'>[9]</a>
+      <a href ="/abs/2407.20659" title="Abstract" id="2407.20659">
+        arXiv:2407.20659
+      </a>
+          (cross-list from cs.CG)
+
+        [<a href="/pdf/2407.20659" title="Download PDF" id="pdf-2407.20659" aria-labelledby="pdf-2407.20659">pdf</a>, <a href="https://arxiv.org/html/2407.20659v1" title="View HTML" id="html-2407.20659" aria-labelledby="html-2407.20659" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20659" title="Other formats" id="oth-2407.20659" aria-labelledby="oth-2407.20659">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Fast Static and Dynamic Approximation Algorithms for Geometric Optimization Problems: Piercing, Independent Set, Vertex Cover, and Matching
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Bhore,+S">Sujoy Bhore</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chan,+T+M">Timothy M. Chan</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          This paper includes the results on vertex cover and matching from our previous arXiv submission (<a href="https://arxiv.org/abs/2402.07441" data-arxiv-id="2402.07441" class="link-https">arXiv:2402.07441</a>), along with new results on piercing and independent sets. Abstract shortened to meet arXiv limit
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Computational Geometry (cs.CG)</span>; Data Structures and Algorithms (cs.DS)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Tue, 30 Jul 2024 (showing 9 of 9 entries )</h3>
+
+
+    <dt>
+      <a name='item10'>[10]</a>
+      <a href ="/abs/2407.20205" title="Abstract" id="2407.20205">
+        arXiv:2407.20205
+      </a>
+      
+        [<a href="/pdf/2407.20205" title="Download PDF" id="pdf-2407.20205" aria-labelledby="pdf-2407.20205">pdf</a>, <a href="https://arxiv.org/html/2407.20205v1" title="View HTML" id="html-2407.20205" aria-labelledby="html-2407.20205" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20205" title="Other formats" id="oth-2407.20205" aria-labelledby="oth-2407.20205">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Fast computation of permanents over $\mathbb{F}_3$ via $\mathbb{F}_2$ arithmetic
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Scheinerman,+D">Danny Scheinerman</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          11 pages
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Combinatorics (math.CO)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item11'>[11]</a>
+      <a href ="/abs/2407.20036" title="Abstract" id="2407.20036">
+        arXiv:2407.20036
+      </a>
+      
+        [<a href="/pdf/2407.20036" title="Download PDF" id="pdf-2407.20036" aria-labelledby="pdf-2407.20036">pdf</a>, <a href="https://arxiv.org/html/2407.20036v1" title="View HTML" id="html-2407.20036" aria-labelledby="html-2407.20036" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20036" title="Other formats" id="oth-2407.20036" aria-labelledby="oth-2407.20036">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Planning For Edge Failure in Fixed-Charge Flow Networks
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Olson,+D">Daniel Olson</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Eardley,+C">Caleb Eardley</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yaw,+S">Sean Yaw</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Computational Engineering, Finance, and Science (cs.CE)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item12'>[12]</a>
+      <a href ="/abs/2407.19946" title="Abstract" id="2407.19946">
+        arXiv:2407.19946
+      </a>
+      
+        [<a href="/pdf/2407.19946" title="Download PDF" id="pdf-2407.19946" aria-labelledby="pdf-2407.19946">pdf</a>, <a href="https://arxiv.org/html/2407.19946v1" title="View HTML" id="html-2407.19946" aria-labelledby="html-2407.19946" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19946" title="Other formats" id="oth-2407.19946" aria-labelledby="oth-2407.19946">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Engineering an Efficient Approximate DNF-Counter
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Soos,+M">Mate Soos</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sarkar,+U">Uddalok Sarkar</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Aggarwal,+D">Divesh Aggarwal</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chakraborty,+S">Sourav Chakraborty</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Meel,+K+S">Kuldeep S. Meel</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Obremski,+M">Maciej Obremski</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          13 pages, 7 Figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item13'>[13]</a>
+      <a href ="/abs/2407.19905" title="Abstract" id="2407.19905">
+        arXiv:2407.19905
+      </a>
+      
+        [<a href="/pdf/2407.19905" title="Download PDF" id="pdf-2407.19905" aria-labelledby="pdf-2407.19905">pdf</a>, <a href="https://arxiv.org/html/2407.19905v1" title="View HTML" id="html-2407.19905" aria-labelledby="html-2407.19905" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19905" title="Other formats" id="oth-2407.19905" aria-labelledby="oth-2407.19905">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          The Bidirected Cut Relaxation for Steiner Tree has Integrality Gap Smaller than 2
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Byrka,+J">Jarosław Byrka</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Grandoni,+F">Fabrizio Grandoni</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Traub,+V">Vera Traub</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Discrete Mathematics (cs.DM)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item14'>[14]</a>
+      <a href ="/abs/2407.19796" title="Abstract" id="2407.19796">
+        arXiv:2407.19796
+      </a>
+      
+        [<a href="/pdf/2407.19796" title="Download PDF" id="pdf-2407.19796" aria-labelledby="pdf-2407.19796">pdf</a>, <a href="https://arxiv.org/html/2407.19796v1" title="View HTML" id="html-2407.19796" aria-labelledby="html-2407.19796" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19796" title="Other formats" id="oth-2407.19796" aria-labelledby="oth-2407.19796">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Subsequence Pattern Matching with Segment Number Constraint
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yonemoto,+Y">Yuki Yonemoto</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mieno,+T">Takuya Mieno</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Inenaga,+S">Shunsuke Inenaga</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yoshinaka,+R">Ryo Yoshinaka</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shinohara,+A">Ayumi Shinohara</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item15'>[15]</a>
+      <a href ="/abs/2407.18956" title="Abstract" id="2407.18956">
+        arXiv:2407.18956
+      </a>
+      
+        [<a href="/pdf/2407.18956" title="Download PDF" id="pdf-2407.18956" aria-labelledby="pdf-2407.18956">pdf</a>, <a href="https://arxiv.org/html/2407.18956v1" title="View HTML" id="html-2407.18956" aria-labelledby="html-2407.18956" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18956" title="Other formats" id="oth-2407.18956" aria-labelledby="oth-2407.18956">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          MIOV: Reordering MOVI for even better locality
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pere%C5%A1%C3%ADni,+P">Peter Perešíni</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Brown,+N+K">Nathaniel K. Brown</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gagie,+T">Travis Gagie</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Langmead,+B">Ben Langmead</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item16'>[16]</a>
+      <a href ="/abs/2407.19777" title="Abstract" id="2407.19777">
+        arXiv:2407.19777
+      </a>
+          (cross-list from cs.LG)
+
+        [<a href="/pdf/2407.19777" title="Download PDF" id="pdf-2407.19777" aria-labelledby="pdf-2407.19777">pdf</a>, <a href="https://arxiv.org/html/2407.19777v1" title="View HTML" id="html-2407.19777" aria-labelledby="html-2407.19777" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19777" title="Other formats" id="oth-2407.19777" aria-labelledby="oth-2407.19777">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Revisiting Agnostic PAC Learning
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hanneke,+S">Steve Hanneke</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Larsen,+K+G">Kasper Green Larsen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhivotovskiy,+N">Nikita Zhivotovskiy</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Machine Learning (cs.LG)</span>; Data Structures and Algorithms (cs.DS); Statistics Theory (math.ST); Machine Learning (stat.ML)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item17'>[17]</a>
+      <a href ="/abs/2407.19575" title="Abstract" id="2407.19575">
+        arXiv:2407.19575
+      </a>
+          (cross-list from quant-ph)
+
+        [<a href="/pdf/2407.19575" title="Download PDF" id="pdf-2407.19575" aria-labelledby="pdf-2407.19575">pdf</a>, <a href="https://arxiv.org/html/2407.19575v1" title="View HTML" id="html-2407.19575" aria-labelledby="html-2407.19575" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19575" title="Other formats" id="oth-2407.19575" aria-labelledby="oth-2407.19575">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Bridging Classical and Quantum: Group-Theoretic Approach to Quantum Circuit Simulation
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Shami,+D">Daksh Shami</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Quantum Physics (quant-ph)</span>; Computational Complexity (cs.CC); Data Structures and Algorithms (cs.DS); Mathematical Physics (math-ph); Group Theory (math.GR)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item18'>[18]</a>
+      <a href ="/abs/2407.19195" title="Abstract" id="2407.19195">
+        arXiv:2407.19195
+      </a>
+          (cross-list from cs.AR)
+
+        [<a href="/pdf/2407.19195" title="Download PDF" id="pdf-2407.19195" aria-labelledby="pdf-2407.19195">pdf</a>, <a href="https://arxiv.org/html/2407.19195v1" title="View HTML" id="html-2407.19195" aria-labelledby="html-2407.19195" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19195" title="Other formats" id="oth-2407.19195" aria-labelledby="oth-2407.19195">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fang,+W">Weijie Fang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Guo,+L">Longkun Guo</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lin,+J">Jiawei Lin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xiong,+S">Silu Xiong</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=He,+H">Huan He</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+J">Jiacen Xu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+J">Jianli Chen</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Hardware Architecture (cs.AR)</span>; Computational Geometry (cs.CG); Data Structures and Algorithms (cs.DS)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Mon, 29 Jul 2024 (showing 5 of 5 entries )</h3>
+
+
+    <dt>
+      <a name='item19'>[19]</a>
+      <a href ="/abs/2407.18753" title="Abstract" id="2407.18753">
+        arXiv:2407.18753
+      </a>
+      
+        [<a href="/pdf/2407.18753" title="Download PDF" id="pdf-2407.18753" aria-labelledby="pdf-2407.18753">pdf</a>, <a href="https://arxiv.org/html/2407.18753v1" title="View HTML" id="html-2407.18753" aria-labelledby="html-2407.18753" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18753" title="Other formats" id="oth-2407.18753" aria-labelledby="oth-2407.18753">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          On Computing the Smallest Suffixient Set
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cenzato,+D">Davide Cenzato</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Olivares,+F">Francisco Olivares</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Prezza,+N">Nicola Prezza</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          18 pages, 1 figure, 1 table and 4 pseudocodes
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item20'>[20]</a>
+      <a href ="/abs/2407.18620" title="Abstract" id="2407.18620">
+        arXiv:2407.18620
+      </a>
+      
+        [<a href="/pdf/2407.18620" title="Download PDF" id="pdf-2407.18620" aria-labelledby="pdf-2407.18620">pdf</a>, <a href="https://arxiv.org/html/2407.18620v1" title="View HTML" id="html-2407.18620" aria-labelledby="html-2407.18620" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18620" title="Other formats" id="oth-2407.18620" aria-labelledby="oth-2407.18620">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Rollercoasters with Plateaus
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Adamson,+D">Duncan Adamson</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fleischmann,+P">Pamela Fleischmann</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Huch,+A">Annika Huch</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Combinatorics (math.CO)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item21'>[21]</a>
+      <a href ="/abs/2407.18591" title="Abstract" id="2407.18591">
+        arXiv:2407.18591
+      </a>
+      
+        [<a href="/pdf/2407.18591" title="Download PDF" id="pdf-2407.18591" aria-labelledby="pdf-2407.18591">pdf</a>, <a href="https://arxiv.org/html/2407.18591v1" title="View HTML" id="html-2407.18591" aria-labelledby="html-2407.18591" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18591" title="Other formats" id="oth-2407.18591" aria-labelledby="oth-2407.18591">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Reconstruction of geometric random graphs with the Simple algorithm
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Stegehuis,+C">Clara Stegehuis</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Weedage,+L">Lotte Weedage</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          21 pages, 8 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Probability (math.PR)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item22'>[22]</a>
+      <a href ="/abs/2407.18758" title="Abstract" id="2407.18758">
+        arXiv:2407.18758
+      </a>
+          (cross-list from cs.CG)
+
+        [<a href="/pdf/2407.18758" title="Download PDF" id="pdf-2407.18758" aria-labelledby="pdf-2407.18758">pdf</a>, <a href="https://arxiv.org/html/2407.18758v1" title="View HTML" id="html-2407.18758" aria-labelledby="html-2407.18758" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18758" title="Other formats" id="oth-2407.18758" aria-labelledby="oth-2407.18758">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          On Approximating the Weighted Region Problem in Square Tessellations
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Kakimura,+N">Naonori Kakimura</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Katsu,+R">Rio Katsu</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Computational Geometry (cs.CG)</span>; Data Structures and Algorithms (cs.DS)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item23'>[23]</a>
+      <a href ="/abs/2407.18436" title="Abstract" id="2407.18436">
+        arXiv:2407.18436
+      </a>
+          (cross-list from cs.LG)
+
+        [<a href="/pdf/2407.18436" title="Download PDF" id="pdf-2407.18436" aria-labelledby="pdf-2407.18436">pdf</a>, <a href="https://arxiv.org/html/2407.18436v1" title="View HTML" id="html-2407.18436" aria-labelledby="html-2407.18436" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18436" title="Other formats" id="oth-2407.18436" aria-labelledby="oth-2407.18436">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          A Model for Combinatorial Dictionary Learning and Inference
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Blum,+A">Avrim Blum</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ravichandran,+K">Kavya Ravichandran</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          31 pages, 3 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Machine Learning (cs.LG)</span>; Data Structures and Algorithms (cs.DS)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Fri, 26 Jul 2024 (showing first 2 of 8 entries )</h3>
+
+
+    <dt>
+      <a name='item24'>[24]</a>
+      <a href ="/abs/2407.18228" title="Abstract" id="2407.18228">
+        arXiv:2407.18228
+      </a>
+      
+        [<a href="/pdf/2407.18228" title="Download PDF" id="pdf-2407.18228" aria-labelledby="pdf-2407.18228">pdf</a>, <a href="/format/2407.18228" title="Other formats" id="oth-2407.18228" aria-labelledby="oth-2407.18228">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Parameterized Algorithms on Integer Sets with Small Doubling: Integer Programming, Subset Sum and k-SUM
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Randolph,+T">Tim Randolph</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=W%C4%99grzycki,+K">Karol Węgrzycki</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          24 pages, 0 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item25'>[25]</a>
+      <a href ="/abs/2407.18216" title="Abstract" id="2407.18216">
+        arXiv:2407.18216
+      </a>
+      
+        [<a href="/pdf/2407.18216" title="Download PDF" id="pdf-2407.18216" aria-labelledby="pdf-2407.18216">pdf</a>, <a href="https://arxiv.org/html/2407.18216v1" title="View HTML" id="html-2407.18216" aria-labelledby="html-2407.18216" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18216" title="Other formats" id="oth-2407.18216" aria-labelledby="oth-2407.18216">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Fast computation of the period and of the shortest cover of a string using its Character-Distance-Sampling representation
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lecroq,+T">Thierry Lecroq</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Marino,+F+P">Francesco Pio Marino</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+
+      <div class='paging'>Total of 31 entries :      <span>1-25</span>
+      <a href=/list/cs.DS/recent?skip=25&amp;show=25>26-31</a>
+
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/cs.DS/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <span style="color: #454545">more</span>
+ |
+          <a href=/list/cs.DS/recent?skip=0&amp;show=2000>
+      all</a>
+
+    </div>
+
+</div>
+</div>      </div>
+    </main>
+
+    <footer style="clear: both;">
+      <div class="columns is-desktop" role="navigation" aria-label="Secondary" style="margin: -0.75em -0.75em 0.75em -0.75em">
+        <!-- Macro-Column 1 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/about">About</a></li>
+                <li><a href="https://info.arxiv.org/help">Help</a></li>
+              </ul>
+            </div>
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>contact arXiv</title><desc>Click here to contact arXiv</desc><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>
+                  <a href="https://info.arxiv.org/help/contact.html"> Contact</a>
+                </li>
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>subscribe to arXiv mailings</title><desc>Click here to subscribe</desc><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"/></svg>
+                  <a href="https://info.arxiv.org/help/subscribe"> Subscribe</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End Macro-Column 1 -->
+        <!-- Macro-Column 2 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/license/index.html">Copyright</a></li>
+                <li><a href="https://info.arxiv.org/help/policies/privacy_policy.html">Privacy Policy</a></li>
+              </ul>
+            </div>
+            <div class="column sorry-app-links">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/web_accessibility.html">Web Accessibility Assistance</a></li>
+                <li>
+                  <p class="help">
+                    <a class="a11y-main-link" href="https://status.arxiv.org" target="_blank">arXiv Operational Status <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" class="icon filter-dark_grey" role="presentation"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></a><br>
+                    Get status notifications via
+                    <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/email/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>email</a>
+                    or <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/slack/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-black" role="presentation"><path d="M94.12 315.1c0 25.9-21.16 47.06-47.06 47.06S0 341 0 315.1c0-25.9 21.16-47.06 47.06-47.06h47.06v47.06zm23.72 0c0-25.9 21.16-47.06 47.06-47.06s47.06 21.16 47.06 47.06v117.84c0 25.9-21.16 47.06-47.06 47.06s-47.06-21.16-47.06-47.06V315.1zm47.06-188.98c-25.9 0-47.06-21.16-47.06-47.06S139 32 164.9 32s47.06 21.16 47.06 47.06v47.06H164.9zm0 23.72c25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06H47.06C21.16 243.96 0 222.8 0 196.9s21.16-47.06 47.06-47.06H164.9zm188.98 47.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06h-47.06V196.9zm-23.72 0c0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06V79.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06V196.9zM283.1 385.88c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06v-47.06h47.06zm0-23.72c-25.9 0-47.06-21.16-47.06-47.06 0-25.9 21.16-47.06 47.06-47.06h117.84c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06H283.1z"/></svg>slack</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- end MetaColumn 2 -->
+        <!-- End Macro-Column 2 -->
+      </div>
+    </footer>
+  </div>
+
+  <script src="/static/base/1.0.1/js/member_acknowledgement.js"></script>
+
+</body>
+
+</html>
