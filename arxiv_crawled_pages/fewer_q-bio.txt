@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>  <title>Neurons and Cognition  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/browse/0.3.4/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/browse/0.3.4/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/browse/0.3.4/images/icons/favicon-16x16.png">
+  <link rel="manifest" href="/static/browse/0.3.4/images/icons/site.webmanifest">
+  <link rel="mask-icon" href="/static/browse/0.3.4/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/arXiv.css?v=20240730" />
+  <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20200611" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
+  <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" /></script>
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/slider.css?v=1.12" />
+    <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/static/browse/0.3.4/js/donate.js?v=1.11"></script><script src="/static/browse/0.3.4/js/mathjaxToggle.min.js" type="text/javascript"></script>
+  <script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</head>
+
+<body  class="with-cu-identity">
+        <aside class="slider-wrapper bps-banner forum green">
+        <a class="close-slider bps-banner" href="#"><img src="/static/browse/0.3.4/images/icons/close-slider.png" alt="close this message"></a>
+        <div class="columns">
+          <img role="presentation" class="bps-banner-image" src="/static/browse/0.3.4/images/icons/smileybones-infinity-large.png" alt="arXiv Accessibility Forum 2024">
+          <div class="copy-donation bps-banner">
+            <h2>Grab your spot!</h2>
+            <p>Want to see access to research regardless of disability? Sign up for the <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">arXiv Accessibility Forum</a> in September and <a href="https://accessibility2024.arxiv.org/" target="_blank">Learn more</a>.</p>
+          </div>
+          <div class="amount-donation bps-banner">
+            <div class="donate-cta"><a class="banner_link banner-btn-grad" target="_blank" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y"><b>Sign Up</b></a></div>
+          </div>
+        </div>
+      </aside>
+  <div class="flex-wrap-footer">
+    <header>
+      <a href="#content" class="is-sr-only">Skip to main content</a>
+      <!-- start desktop header -->
+      <div class="columns is-vcentered is-hidden-mobile" id="cu-identity">
+        <div class="column" id="cu-logo">
+          <a href="https://www.cornell.edu/"><img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University" /></a>
+        </div><div class="column banner-minimal forum">
+            <!-- /from July 7 at 1:00 AM to Sept 2 at 1:00 AM --><p>Grab your spot at the free arXiv Accessibility Forum</p>
+            <a href="https://accessibility2024.arxiv.org/schedule" target="_blank">Forum Schedule</a>
+
+            <!-- /from Sept 2 at 1:00 AM to Sept 13 at 11:30PM --></div><div class="column" id="support-ack">
+          <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors. <a href="https://info.arxiv.org/about/donate.html">Donate</a></span>
+        </div>
+      </div>
+
+      <div id="header" class="is-hidden-mobile">
+<a aria-hidden="true" href="{url_path('ignore_me')}"></a>
+<div class="header-breadcrumbs">
+  <a href="/"><img src="/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg" alt="arxiv logo" style="height:40px;"/></a> <span>&gt;</span>
+  <a href="/list/q-bio.NC/recent">q-bio.NC</a>
+  </div>
+          <div class="search-block level-right">
+    <form class="level-item mini-search" method="GET" action="https://arxiv.org/search">
+      <div class="field has-addons">
+        <div class="control">
+          <input class="input is-small" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+          <p class="help"><a href="https://info.arxiv.org/help">Help</a> | <a href="https://arxiv.org/search/advanced">Advanced Search</a></p>
+        </div>
+        <div class="control">
+          <div class="select is-small">
+            <select name="searchtype" aria-label="Field to search">
+              <option value="all" selected="selected">All fields</option>
+              <option value="title">Title</option>
+              <option value="author">Author</option>
+              <option value="abstract">Abstract</option>
+              <option value="comments">Comments</option>
+              <option value="journal_ref">Journal reference</option>
+              <option value="acm_class">ACM classification</option>
+              <option value="msc_class">MSC classification</option>
+              <option value="report_num">Report number</option>
+              <option value="paper_id">arXiv identifier</option>
+              <option value="doi">DOI</option>
+              <option value="orcid">ORCID</option>
+              <option value="author_id">arXiv author ID</option>
+              <option value="help">Help pages</option>
+              <option value="full_text">Full text</option>
+            </select>
+          </div>
+        </div>
+        <input type="hidden" name="source" value="header">
+        <button class="button is-small is-cul-darker">Search</button>
+      </div>
+    </form>
+  </div>
+     </div><!-- /end desktop header -->
+
+      <div class="mobile-header">
+        <div class="columns is-mobile">
+          <div class="column logo-arxiv"><a href="https://arxiv.org/"><img src="/static/browse/0.3.4/images/arxiv-logomark-small-white.svg" alt="arXiv logo" style="height:60px;" /></a></div>
+          <div class="column logo-cornell"><a href="https://www.cornell.edu/">
+            <picture>
+              <source media="(min-width: 501px)"
+                srcset="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg  400w"
+                sizes="400w" />
+              <source srcset="/static/browse/0.3.4/images/icons/cu/cornell_seal_simple_black.svg 2x" />
+              <img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University Logo" />
+            </picture>
+          </a></div>
+          <div class="column nav" id="toggle-container" role="menubar">
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-white"><title>open search</title><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <form class="mobile-search-form" method="GET" action="https://arxiv.org/search">
+                <div class="field has-addons">
+                  <input class="input" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+                  <input type="hidden" name="source" value="header">
+                  <input type="hidden" name="searchtype" value="all">
+                  <button class="button">GO</button>
+                </div>
+              </form>
+            </div>
+
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-white" role="menu"><title>open navigation menu</title><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/ ></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <nav class="mobile-menu" aria-labelledby="mobilemenulabel">
+                <h2 id="mobilemenulabel">quick links</h2>
+                <ul>
+                    <li><a href="https://arxiv.org/login">Login</a></li>
+                    <li><a href="https://info.arxiv.org/help">Help Pages</a></li>
+                    <li><a href="https://info.arxiv.org/about">About</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div><!-- /end mobile-header -->
+    </header>
+
+    <main>
+      <div id="content">
+<div id='content-inner'>
+<div id='dlpage'>
+  <h1>Neurons and Cognition</h1>
+
+<h2>Authors and titles for recent submissions</h2>
+  <ul>
+<li>
+        <a href="/list/q-bio.NC/recent?skip=0&amp;show=25">
+          Thu, 1 Aug 2024
+        </a>
+      </li><li>
+        <a href="/list/q-bio.NC/recent?skip=2&amp;show=25">
+          Wed, 31 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/q-bio.NC/recent?skip=3&amp;show=25">
+          Tue, 30 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/q-bio.NC/recent?skip=10&amp;show=25">
+          Mon, 29 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/q-bio.NC/recent?skip=11&amp;show=25">
+          Fri, 26 Jul 2024
+        </a>
+      </li></ul>
+  <p>See today's <a id="new-q-bio.NC" aria-labelledby="new-q-bio.NC" href="/list/q-bio.NC/new">new</a> changes</p>
+      <div class='paging'>Total of 17 entries 
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/q-bio.NC/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <span style="color: #454545">more</span>
+ |
+          <span style="color: #454545">all</span>
+
+    </div>
+
+
+
+      <dl id='articles'>
+    <h3>Thu, 1 Aug 2024 (showing 2 of 2 entries )</h3>
+
+
+    <dt>
+      <a name='item1'>[1]</a>
+      <a href ="/abs/2407.21393" title="Abstract" id="2407.21393">
+        arXiv:2407.21393
+      </a>
+      
+        [<a href="/pdf/2407.21393" title="Download PDF" id="pdf-2407.21393" aria-labelledby="pdf-2407.21393">pdf</a>, <a href="https://arxiv.org/html/2407.21393v1" title="View HTML" id="html-2407.21393" aria-labelledby="html-2407.21393" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21393" title="Other formats" id="oth-2407.21393" aria-labelledby="oth-2407.21393">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Mean-field approximation for networks with synchrony-driven adaptive coupling
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Fennelly,+N">Niamh Fennelly</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Neff,+A">Alannah Neff</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Lambiotte,+R">Renaud Lambiotte</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Keane,+A">Andrew Keane</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Byrne,+%C3%81">Áine Byrne</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item2'>[2]</a>
+      <a href ="/abs/2407.21195" title="Abstract" id="2407.21195">
+        arXiv:2407.21195
+      </a>
+          (cross-list from cs.LG)
+
+        [<a href="/pdf/2407.21195" title="Download PDF" id="pdf-2407.21195" aria-labelledby="pdf-2407.21195">pdf</a>, <a href="https://arxiv.org/html/2407.21195v1" title="View HTML" id="html-2407.21195" aria-labelledby="html-2407.21195" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21195" title="Other formats" id="oth-2407.21195" aria-labelledby="oth-2407.21195">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Diffusion-Based Generation of Neural Activity from Disentangled Latent Codes
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=McCart,+J+D">Jonathan D. McCart</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sedler,+A+R">Andrew R. Sedler</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Versteeg,+C">Christopher Versteeg</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mifsud,+D">Domenick Mifsud</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rigotti-Thompson,+M">Mattia Rigotti-Thompson</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pandarinath,+C">Chethan Pandarinath</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          16 pages, 5 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Machine Learning (cs.LG)</span>; Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Wed, 31 Jul 2024 (showing 1 of 1 entries )</h3>
+
+
+    <dt>
+      <a name='item3'>[3]</a>
+      <a href ="/abs/2407.20292" title="Abstract" id="2407.20292">
+        arXiv:2407.20292
+      </a>
+          (cross-list from cs.LG)
+
+        [<a href="/pdf/2407.20292" title="Download PDF" id="pdf-2407.20292" aria-labelledby="pdf-2407.20292">pdf</a>, <a href="/format/2407.20292" title="Other formats" id="oth-2407.20292" aria-labelledby="oth-2407.20292">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          From pixels to planning: scale-free active inference
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Friston,+K">Karl Friston</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Heins,+C">Conor Heins</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Verbelen,+T">Tim Verbelen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Da+Costa,+L">Lancelot Da Costa</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Salvatori,+T">Tommaso Salvatori</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Markovic,+D">Dimitrije Markovic</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Tschantz,+A">Alexander Tschantz</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Koudahl,+M">Magnus Koudahl</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Buckley,+C">Christopher Buckley</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Parr,+T">Thomas Parr</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          64 pages, 28 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Machine Learning (cs.LG)</span>; Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Tue, 30 Jul 2024 (showing 7 of 7 entries )</h3>
+
+
+    <dt>
+      <a name='item4'>[4]</a>
+      <a href ="/abs/2407.20055" title="Abstract" id="2407.20055">
+        arXiv:2407.20055
+      </a>
+      
+        [<a href="/pdf/2407.20055" title="Download PDF" id="pdf-2407.20055" aria-labelledby="pdf-2407.20055">pdf</a>, <a href="https://arxiv.org/html/2407.20055v1" title="View HTML" id="html-2407.20055" aria-labelledby="html-2407.20055" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.20055" title="Other formats" id="oth-2407.20055" aria-labelledby="oth-2407.20055">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Phase transformation and synchrony for a network of coupled Izhikevich neurons
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Byrne,+%C3%81">Áine Byrne</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item5'>[5]</a>
+      <a href ="/abs/2407.19737" title="Abstract" id="2407.19737">
+        arXiv:2407.19737
+      </a>
+      
+        [<a href="/pdf/2407.19737" title="Download PDF" id="pdf-2407.19737" aria-labelledby="pdf-2407.19737">pdf</a>, <a href="https://arxiv.org/html/2407.19737v1" title="View HTML" id="html-2407.19737" aria-labelledby="html-2407.19737" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19737" title="Other formats" id="oth-2407.19737" aria-labelledby="oth-2407.19737">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Analyzing the Brain&#39;s Dynamic Response to Targeted Stimulation using Generative Modeling
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Maran,+R">Rishikesan Maran</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=M%C3%BCller,+E+J">Eli J. Müller</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Fulcher,+B+D">Ben D. Fulcher</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Biological Physics (physics.bio-ph)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item6'>[6]</a>
+      <a href ="/abs/2407.19214" title="Abstract" id="2407.19214">
+        arXiv:2407.19214
+      </a>
+      
+        [<a href="/pdf/2407.19214" title="Download PDF" id="pdf-2407.19214" aria-labelledby="pdf-2407.19214">pdf</a>, <a href="https://arxiv.org/html/2407.19214v2" title="View HTML" id="html-2407.19214" aria-labelledby="html-2407.19214" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19214" title="Other formats" id="oth-2407.19214" aria-labelledby="oth-2407.19214">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          QEEGNet: Quantum Machine Learning for Enhanced Electroencephalography Encoding
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Chen,+C">Chi-Sheng Chen</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Chen,+S+Y">Samuel Yen-Chi Chen</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Tsai,+A+H">Aidan Hung-Wen Tsai</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Wei,+C">Chun-Shu Wei</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          7 pages, 4 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Quantum Physics (quant-ph)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item7'>[7]</a>
+      <a href ="/abs/2407.18924" title="Abstract" id="2407.18924">
+        arXiv:2407.18924
+      </a>
+      
+        [<a href="/pdf/2407.18924" title="Download PDF" id="pdf-2407.18924" aria-labelledby="pdf-2407.18924">pdf</a>, <a href="https://arxiv.org/html/2407.18924v1" title="View HTML" id="html-2407.18924" aria-labelledby="html-2407.18924" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18924" title="Other formats" id="oth-2407.18924" aria-labelledby="oth-2407.18924">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Markov Processes and Brain Network Hubs
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Murty,+M+R">M. Ram Murty</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Prasad,+A+N">A. Narayan Prasad</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          12 pages, 1 figure
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Probability (math.PR)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item8'>[8]</a>
+      <a href ="/abs/2407.18922" title="Abstract" id="2407.18922">
+        arXiv:2407.18922
+      </a>
+      
+        [<a href="/pdf/2407.18922" title="Download PDF" id="pdf-2407.18922" aria-labelledby="pdf-2407.18922">pdf</a>, <a href="https://arxiv.org/html/2407.18922v2" title="View HTML" id="html-2407.18922" aria-labelledby="html-2407.18922" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18922" title="Other formats" id="oth-2407.18922" aria-labelledby="oth-2407.18922">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Synchronization in a small-world network of non-identical Chialvo neurons
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Used,+J">J. Used</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Seoane,+J">J.M. Seoane</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Bashkirtseva,+I">I. Bashkirtseva</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Ryashko,+L">L. Ryashko</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Sanju%C3%A1n,+M">M.A.F. Sanjuán</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Chaotic Dynamics (nlin.CD)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item9'>[9]</a>
+      <a href ="/abs/2407.19990" title="Abstract" id="2407.19990">
+        arXiv:2407.19990
+      </a>
+          (cross-list from cs.LG)
+
+        [<a href="/pdf/2407.19990" title="Download PDF" id="pdf-2407.19990" aria-labelledby="pdf-2407.19990">pdf</a>, <a href="https://arxiv.org/html/2407.19990v1" title="View HTML" id="html-2407.19990" aria-labelledby="html-2407.19990" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19990" title="Other formats" id="oth-2407.19990" aria-labelledby="oth-2407.19990">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Classification of Alzheimer&#39;s Dementia vs. Healthy subjects by studying structural disparities in fMRI Time-Series of DMN
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Noble,+S">Sneha Noble</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pradeep,+C+S">Chakka Sai Pradeep</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sinha,+N">Neelam Sinha</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Issac,+T+G">Thomas Gregor Issac</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Machine Learning (cs.LG)</span>; Image and Video Processing (eess.IV); Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item10'>[10]</a>
+      <a href ="/abs/2407.19385" title="Abstract" id="2407.19385">
+        arXiv:2407.19385
+      </a>
+          (cross-list from cs.CV)
+
+        [<a href="/pdf/2407.19385" title="Download PDF" id="pdf-2407.19385" aria-labelledby="pdf-2407.19385">pdf</a>, <a href="https://arxiv.org/html/2407.19385v1" title="View HTML" id="html-2407.19385" aria-labelledby="html-2407.19385" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.19385" title="Other formats" id="oth-2407.19385" aria-labelledby="oth-2407.19385">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Multi-modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shaik,+N+S">Nagur Shareef Shaik</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cherukuri,+T+K">Teja Krishna Cherukuri</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Calhoun,+V+D">Vince D. Calhoun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ye,+D+H">Dong Hye Ye</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          Accepted for presentation at the AI for Imaging Genomic Learning (AIIG) Workshop, MICCAI 2024
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span>; Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Mon, 29 Jul 2024 (showing 1 of 1 entries )</h3>
+
+
+    <dt>
+      <a name='item11'>[11]</a>
+      <a href ="/abs/2407.18329" title="Abstract" id="2407.18329">
+        arXiv:2407.18329
+      </a>
+      
+        [<a href="/pdf/2407.18329" title="Download PDF" id="pdf-2407.18329" aria-labelledby="pdf-2407.18329">pdf</a>, <a href="https://arxiv.org/html/2407.18329v1" title="View HTML" id="html-2407.18329" aria-labelledby="html-2407.18329" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18329" title="Other formats" id="oth-2407.18329" aria-labelledby="oth-2407.18329">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          A New Brain Network Construction Paradigm for Brain Disorder via Diffusion-based Graph Contrastive Learning
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Zong,+Y">Yongcheng Zong</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Wang,+S">Shuqiang Wang</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+      <dl id='articles'>
+    <h3>Fri, 26 Jul 2024 (showing 6 of 6 entries )</h3>
+
+
+    <dt>
+      <a name='item12'>[12]</a>
+      <a href ="/abs/2407.17938" title="Abstract" id="2407.17938">
+        arXiv:2407.17938
+      </a>
+      
+        [<a href="/pdf/2407.17938" title="Download PDF" id="pdf-2407.17938" aria-labelledby="pdf-2407.17938">pdf</a>, <a href="https://arxiv.org/html/2407.17938v1" title="View HTML" id="html-2407.17938" aria-labelledby="html-2407.17938" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.17938" title="Other formats" id="oth-2407.17938" aria-labelledby="oth-2407.17938">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Analyzing Brain Tumor Connectomics using Graphs and Persistent Homology
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Bhattacharya,+D">Debanjali Bhattacharya</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Aithal,+N">Ninad Aithal</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Jayswal,+M">Manish Jayswal</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Sinha,+N">Neelam Sinha</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          15 Pages, 7 Figures, 2 Tables, TGI3-MICCAI Workshop
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Computer Vision and Pattern Recognition (cs.CV); Algebraic Topology (math.AT)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item13'>[13]</a>
+      <a href ="/abs/2407.17793" title="Abstract" id="2407.17793">
+        arXiv:2407.17793
+      </a>
+      
+        [<a href="/pdf/2407.17793" title="Download PDF" id="pdf-2407.17793" aria-labelledby="pdf-2407.17793">pdf</a>, <a href="https://arxiv.org/html/2407.17793v1" title="View HTML" id="html-2407.17793" aria-labelledby="html-2407.17793" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.17793" title="Other formats" id="oth-2407.17793" aria-labelledby="oth-2407.17793">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Use-dependent Biases as Optimal Action under Information Bottleneck
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Deng,+H+X">Hokin X. Deng</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Haith,+A+M">Adrian M. Haith</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Information Theory (cs.IT)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item14'>[14]</a>
+      <a href ="/abs/2407.17505" title="Abstract" id="2407.17505">
+        arXiv:2407.17505
+      </a>
+      
+        [<a href="/pdf/2407.17505" title="Download PDF" id="pdf-2407.17505" aria-labelledby="pdf-2407.17505">pdf</a>, <a href="/format/2407.17505" title="Other formats" id="oth-2407.17505" aria-labelledby="oth-2407.17505">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Survey on biomarkers in human vocalizations
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=H%C3%A4rm%C3%A4,+A">Aki Härmä</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Brinker,+B+d">Bert den Brinker</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Grossekathofer,+U">Ulf Grossekathofer</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Ouweltjes,+O">Okke Ouweltjes</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Nallanthighal,+S">Srikanth Nallanthighal</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Abrol,+S">Sidharth Abrol</a>, <a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Sharma,+V">Vibhu Sharma</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neurons and Cognition (q-bio.NC)</span>; Computation and Language (cs.CL)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item15'>[15]</a>
+      <a href ="/abs/2407.18204" title="Abstract" id="2407.18204">
+        arXiv:2407.18204
+      </a>
+          (cross-list from nlin.AO)
+
+        [<a href="/pdf/2407.18204" title="Download PDF" id="pdf-2407.18204" aria-labelledby="pdf-2407.18204">pdf</a>, <a href="https://arxiv.org/html/2407.18204v1" title="View HTML" id="html-2407.18204" aria-labelledby="html-2407.18204" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18204" title="Other formats" id="oth-2407.18204" aria-labelledby="oth-2407.18204">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Minimal motifs for habituating systems
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Smart,+M">Matthew Smart</a>, <a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Shvartsman,+S+Y">Stanislav Y. Shvartsman</a>, <a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=M%C3%B6nnigmann,+M">Martin Mönnigmann</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          6 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Adaptation and Self-Organizing Systems (nlin.AO)</span>; Biological Physics (physics.bio-ph); Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item16'>[16]</a>
+      <a href ="/abs/2407.18067" title="Abstract" id="2407.18067">
+        arXiv:2407.18067
+      </a>
+          (cross-list from cs.CV)
+
+        [<a href="/pdf/2407.18067" title="Download PDF" id="pdf-2407.18067" aria-labelledby="pdf-2407.18067">pdf</a>, <a href="https://arxiv.org/html/2407.18067v1" title="View HTML" id="html-2407.18067" aria-labelledby="html-2407.18067" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.18067" title="Other formats" id="oth-2407.18067" aria-labelledby="oth-2407.18067">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          HVM-1: Large-scale video models pretrained with nearly 5000 hours of human-like video data
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Orhan,+A+E">A. Emin Orhan</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          10 pages, 5 figures, 1 table; code &amp; models available from <a href="https://github.com/eminorhan/hvm-1" rel="external noopener nofollow" class="link-external link-https">this https URL</a>
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span>; Machine Learning (cs.LG); Neural and Evolutionary Computing (cs.NE); Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item17'>[17]</a>
+      <a href ="/abs/2407.17756" title="Abstract" id="2407.17756">
+        arXiv:2407.17756
+      </a>
+          (cross-list from cs.NE)
+
+        [<a href="/pdf/2407.17756" title="Download PDF" id="pdf-2407.17756" aria-labelledby="pdf-2407.17756">pdf</a>, <a href="/format/2407.17756" title="Other formats" id="oth-2407.17756" aria-labelledby="oth-2407.17756">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Preliminary Results of Neuromorphic Controller Design and a Parkinson&#39;s Disease Dataset Building for Closed-Loop Deep Brain Stimulation
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Biswas,+A">Ananna Biswas</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=An,+H">Hongyu An</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Neural and Evolutionary Computing (cs.NE)</span>; Neurons and Cognition (q-bio.NC)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+
+      <div class='paging'>Total of 17 entries 
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/q-bio.NC/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <span style="color: #454545">more</span>
+ |
+          <span style="color: #454545">all</span>
+
+    </div>
+
+</div>
+</div>      </div>
+    </main>
+
+    <footer style="clear: both;">
+      <div class="columns is-desktop" role="navigation" aria-label="Secondary" style="margin: -0.75em -0.75em 0.75em -0.75em">
+        <!-- Macro-Column 1 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/about">About</a></li>
+                <li><a href="https://info.arxiv.org/help">Help</a></li>
+              </ul>
+            </div>
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>contact arXiv</title><desc>Click here to contact arXiv</desc><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>
+                  <a href="https://info.arxiv.org/help/contact.html"> Contact</a>
+                </li>
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>subscribe to arXiv mailings</title><desc>Click here to subscribe</desc><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"/></svg>
+                  <a href="https://info.arxiv.org/help/subscribe"> Subscribe</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End Macro-Column 1 -->
+        <!-- Macro-Column 2 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/license/index.html">Copyright</a></li>
+                <li><a href="https://info.arxiv.org/help/policies/privacy_policy.html">Privacy Policy</a></li>
+              </ul>
+            </div>
+            <div class="column sorry-app-links">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/web_accessibility.html">Web Accessibility Assistance</a></li>
+                <li>
+                  <p class="help">
+                    <a class="a11y-main-link" href="https://status.arxiv.org" target="_blank">arXiv Operational Status <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" class="icon filter-dark_grey" role="presentation"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></a><br>
+                    Get status notifications via
+                    <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/email/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>email</a>
+                    or <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/slack/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-black" role="presentation"><path d="M94.12 315.1c0 25.9-21.16 47.06-47.06 47.06S0 341 0 315.1c0-25.9 21.16-47.06 47.06-47.06h47.06v47.06zm23.72 0c0-25.9 21.16-47.06 47.06-47.06s47.06 21.16 47.06 47.06v117.84c0 25.9-21.16 47.06-47.06 47.06s-47.06-21.16-47.06-47.06V315.1zm47.06-188.98c-25.9 0-47.06-21.16-47.06-47.06S139 32 164.9 32s47.06 21.16 47.06 47.06v47.06H164.9zm0 23.72c25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06H47.06C21.16 243.96 0 222.8 0 196.9s21.16-47.06 47.06-47.06H164.9zm188.98 47.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06h-47.06V196.9zm-23.72 0c0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06V79.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06V196.9zM283.1 385.88c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06v-47.06h47.06zm0-23.72c-25.9 0-47.06-21.16-47.06-47.06 0-25.9 21.16-47.06 47.06-47.06h117.84c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06H283.1z"/></svg>slack</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- end MetaColumn 2 -->
+        <!-- End Macro-Column 2 -->
+      </div>
+    </footer>
+  </div>
+
+  <script src="/static/base/1.0.1/js/member_acknowledgement.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>  <title>Artificial Intelligence  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/browse/0.3.4/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/browse/0.3.4/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/browse/0.3.4/images/icons/favicon-16x16.png">
+  <link rel="manifest" href="/static/browse/0.3.4/images/icons/site.webmanifest">
+  <link rel="mask-icon" href="/static/browse/0.3.4/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/arXiv.css?v=20240730" />
+  <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20200611" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
+  <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" /></script>
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/slider.css?v=1.12" />
+    <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/static/browse/0.3.4/js/donate.js?v=1.11"></script><script src="/static/browse/0.3.4/js/mathjaxToggle.min.js" type="text/javascript"></script>
+  <script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</head>
+
+<body  class="with-cu-identity">
+        <aside class="slider-wrapper bps-banner forum green">
+        <a class="close-slider bps-banner" href="#"><img src="/static/browse/0.3.4/images/icons/close-slider.png" alt="close this message"></a>
+        <div class="columns">
+          <img role="presentation" class="bps-banner-image" src="/static/browse/0.3.4/images/icons/smileybones-infinity-large.png" alt="arXiv Accessibility Forum 2024">
+          <div class="copy-donation bps-banner">
+            <h2>Grab your spot!</h2>
+            <p>Want to see access to research regardless of disability? Sign up for the <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">arXiv Accessibility Forum</a> in September and <a href="https://accessibility2024.arxiv.org/" target="_blank">Learn more</a>.</p>
+          </div>
+          <div class="amount-donation bps-banner">
+            <div class="donate-cta"><a class="banner_link banner-btn-grad" target="_blank" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y"><b>Sign Up</b></a></div>
+          </div>
+        </div>
+      </aside>
+  <div class="flex-wrap-footer">
+    <header>
+      <a href="#content" class="is-sr-only">Skip to main content</a>
+      <!-- start desktop header -->
+      <div class="columns is-vcentered is-hidden-mobile" id="cu-identity">
+        <div class="column" id="cu-logo">
+          <a href="https://www.cornell.edu/"><img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University" /></a>
+        </div><div class="column banner-minimal forum">
+            <!-- /from July 7 at 1:00 AM to Sept 2 at 1:00 AM --><p>Grab your spot at the free arXiv Accessibility Forum</p>
+            <a href="https://accessibility2024.arxiv.org/schedule" target="_blank">Forum Schedule</a>
+
+            <!-- /from Sept 2 at 1:00 AM to Sept 13 at 11:30PM --></div><div class="column" id="support-ack">
+          <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors. <a href="https://info.arxiv.org/about/donate.html">Donate</a></span>
+        </div>
+      </div>
+
+      <div id="header" class="is-hidden-mobile">
+<a aria-hidden="true" href="{url_path('ignore_me')}"></a>
+<div class="header-breadcrumbs">
+  <a href="/"><img src="/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg" alt="arxiv logo" style="height:40px;"/></a> <span>&gt;</span>
+  <a href="/list/cs.AI/recent">cs.AI</a>
+  </div>
+          <div class="search-block level-right">
+    <form class="level-item mini-search" method="GET" action="https://arxiv.org/search">
+      <div class="field has-addons">
+        <div class="control">
+          <input class="input is-small" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+          <p class="help"><a href="https://info.arxiv.org/help">Help</a> | <a href="https://arxiv.org/search/advanced">Advanced Search</a></p>
+        </div>
+        <div class="control">
+          <div class="select is-small">
+            <select name="searchtype" aria-label="Field to search">
+              <option value="all" selected="selected">All fields</option>
+              <option value="title">Title</option>
+              <option value="author">Author</option>
+              <option value="abstract">Abstract</option>
+              <option value="comments">Comments</option>
+              <option value="journal_ref">Journal reference</option>
+              <option value="acm_class">ACM classification</option>
+              <option value="msc_class">MSC classification</option>
+              <option value="report_num">Report number</option>
+              <option value="paper_id">arXiv identifier</option>
+              <option value="doi">DOI</option>
+              <option value="orcid">ORCID</option>
+              <option value="author_id">arXiv author ID</option>
+              <option value="help">Help pages</option>
+              <option value="full_text">Full text</option>
+            </select>
+          </div>
+        </div>
+        <input type="hidden" name="source" value="header">
+        <button class="button is-small is-cul-darker">Search</button>
+      </div>
+    </form>
+  </div>
+     </div><!-- /end desktop header -->
+
+      <div class="mobile-header">
+        <div class="columns is-mobile">
+          <div class="column logo-arxiv"><a href="https://arxiv.org/"><img src="/static/browse/0.3.4/images/arxiv-logomark-small-white.svg" alt="arXiv logo" style="height:60px;" /></a></div>
+          <div class="column logo-cornell"><a href="https://www.cornell.edu/">
+            <picture>
+              <source media="(min-width: 501px)"
+                srcset="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg  400w"
+                sizes="400w" />
+              <source srcset="/static/browse/0.3.4/images/icons/cu/cornell_seal_simple_black.svg 2x" />
+              <img src="/static/browse/0.3.4/images/icons/cu/cornell-reduced-white-SMALL.svg" alt="Cornell University Logo" />
+            </picture>
+          </a></div>
+          <div class="column nav" id="toggle-container" role="menubar">
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-white"><title>open search</title><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <form class="mobile-search-form" method="GET" action="https://arxiv.org/search">
+                <div class="field has-addons">
+                  <input class="input" type="text" name="query" placeholder="Search..." aria-label="Search term or terms" />
+                  <input type="hidden" name="source" value="header">
+                  <input type="hidden" name="searchtype" value="all">
+                  <button class="button">GO</button>
+                </div>
+              </form>
+            </div>
+
+            <button class="toggle-control"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-white" role="menu"><title>open navigation menu</title><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/ ></svg></button>
+            <div class="mobile-toggle-block toggle-target">
+              <nav class="mobile-menu" aria-labelledby="mobilemenulabel">
+                <h2 id="mobilemenulabel">quick links</h2>
+                <ul>
+                    <li><a href="https://arxiv.org/login">Login</a></li>
+                    <li><a href="https://info.arxiv.org/help">Help Pages</a></li>
+                    <li><a href="https://info.arxiv.org/about">About</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div><!-- /end mobile-header -->
+    </header>
+
+    <main>
+      <div id="content">
+<div id='content-inner'>
+<div id='dlpage'>
+  <h1>Artificial Intelligence</h1>
+
+<h2>Authors and titles for recent submissions</h2>
+  <ul>
+<li>
+        <a href="/list/cs.AI/recent?skip=0&amp;show=25">
+          Thu, 1 Aug 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.AI/recent?skip=130&amp;show=25">
+          Wed, 31 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.AI/recent?skip=230&amp;show=25">
+          Tue, 30 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.AI/recent?skip=416&amp;show=25">
+          Mon, 29 Jul 2024
+        </a>
+      </li><li>
+        <a href="/list/cs.AI/recent?skip=498&amp;show=25">
+          Fri, 26 Jul 2024
+        </a>
+      </li></ul>
+  <p>See today's <a id="new-cs.AI" aria-labelledby="new-cs.AI" href="/list/cs.AI/new">new</a> changes</p>
+      <div class='paging'>Total of 595 entries :      <span>1-25</span>
+      <a href=/list/cs.AI/recent?skip=25&amp;show=25>26-50</a>
+      <a href=/list/cs.AI/recent?skip=50&amp;show=25>51-75</a>
+      <a href=/list/cs.AI/recent?skip=75&amp;show=25>76-100</a>
+      <span>...</span>
+      <a href=/list/cs.AI/recent?skip=575&amp;show=25>576-595</a>
+
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/cs.AI/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <a href=/list/cs.AI/recent?skip=0&amp;show=50>
+      more</a>
+ |
+          <a href=/list/cs.AI/recent?skip=0&amp;show=2000>
+      all</a>
+
+    </div>
+
+
+
+      <dl id='articles'>
+    <h3>Thu, 1 Aug 2024 (showing first 25 of 130 entries )</h3>
+
+
+    <dt>
+      <a name='item1'>[1]</a>
+      <a href ="/abs/2407.21783" title="Abstract" id="2407.21783">
+        arXiv:2407.21783
+      </a>
+      
+        [<a href="/pdf/2407.21783" title="Download PDF" id="pdf-2407.21783" aria-labelledby="pdf-2407.21783">pdf</a>, <a href="/format/2407.21783" title="Other formats" id="oth-2407.21783" aria-labelledby="oth-2407.21783">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          The Llama 3 Herd of Models
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dubey,+A">Abhimanyu Dubey</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Jauhri,+A">Abhinav Jauhri</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pandey,+A">Abhinav Pandey</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Kadian,+A">Abhishek Kadian</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Al-Dahle,+A">Ahmad Al-Dahle</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Letman,+A">Aiesha Letman</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mathur,+A">Akhil Mathur</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Schelten,+A">Alan Schelten</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yang,+A">Amy Yang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fan,+A">Angela Fan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Goyal,+A">Anirudh Goyal</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hartshorn,+A">Anthony Hartshorn</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yang,+A">Aobo Yang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mitra,+A">Archi Mitra</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Archie">Archie Sravankumar</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Korenev,+A">Artem Korenev</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hinsvark,+A">Arthur Hinsvark</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rao,+A">Arun Rao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+A">Aston Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rodriguez,+A">Aurelien Rodriguez</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gregerson,+A">Austen Gregerson</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Spataru,+A">Ava Spataru</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Roziere,+B">Baptiste Roziere</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Biron,+B">Bethany Biron</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Tang,+B">Binh Tang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chern,+B">Bobbie Chern</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Caucheteux,+C">Charlotte Caucheteux</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Nayak,+C">Chaya Nayak</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Bi,+C">Chloe Bi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Marra,+C">Chris Marra</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=McConnell,+C">Chris McConnell</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Keller,+C">Christian Keller</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Touret,+C">Christophe Touret</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wu,+C">Chunyang Wu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wong,+C">Corinne Wong</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ferrer,+C+C">Cristian Canton Ferrer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Nikolaidis,+C">Cyrus Nikolaidis</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Allonsius,+D">Damien Allonsius</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Song,+D">Daniel Song</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pintz,+D">Danielle Pintz</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Livshits,+D">Danny Livshits</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Esiobu,+D">David Esiobu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Choudhary,+D">Dhruv Choudhary</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mahajan,+D">Dhruv Mahajan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Garcia-Olano,+D">Diego Garcia-Olano</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Perino,+D">Diego Perino</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hupkes,+D">Dieuwke Hupkes</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lakomkin,+E">Egor Lakomkin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=AlBadawy,+E">Ehab AlBadawy</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lobanova,+E">Elina Lobanova</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dinan,+E">Emily Dinan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Smith,+E+M">Eric Michael Smith</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Radenovic,+F">Filip Radenovic</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+F">Frank Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Synnaeve,+G">Gabriel Synnaeve</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lee,+G">Gabrielle Lee</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Anderson,+G+L">Georgia Lewis Anderson</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Nail,+G">Graeme Nail</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mialon,+G">Gregoire Mialon</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pang,+G">Guan Pang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cucurell,+G">Guillem Cucurell</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Nguyen,+H">Hailey Nguyen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Korevaar,+H">Hannah Korevaar</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+H">Hu Xu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Touvron,+H">Hugo Touvron</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zarov,+I">Iliyan Zarov</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ibarra,+I+A">Imanol Arrieta Ibarra</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Kloumann,+I">Isabel Kloumann</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Misra,+I">Ishan Misra</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Evtimov,+I">Ivan Evtimov</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Copet,+J">Jade Copet</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lee,+J">Jaewon Lee</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Geffert,+J">Jan Geffert</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Vranes,+J">Jana Vranes</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+J">Jason Park</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mahadeokar,+J">Jay Mahadeokar</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shah,+J">Jeet Shah</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=van+der+Linde,+J">Jelmer van der Linde</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Billock,+J">Jennifer Billock</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hong,+J">Jenny Hong</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lee,+J">Jenya Lee</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fu,+J">Jeremy Fu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chi,+J">Jianfeng Chi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Huang,+J">Jianyu Huang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liu,+J">Jiawen Liu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+J">Jie Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yu,+J">Jiecao Yu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Bitton,+J">Joanna Bitton</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Spisak,+J">Joe Spisak</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+J">Jongsoo Park</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rocca,+J">Joseph Rocca</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Johnstun,+J">Joshua Johnstun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Saxe,+J">Joshua Saxe</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Jia,+J">Junteng Jia</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Alwala,+K+V">Kalyan Vasuden Alwala</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Upasani,+K">Kartikeya Upasani</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Plawiak,+K">Kate Plawiak</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Li,+K">Ke Li</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Heafield,+K">Kenneth Heafield</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Stone,+K">Kevin Stone</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item2'>[2]</a>
+      <a href ="/abs/2407.21778" title="Abstract" id="2407.21778">
+        arXiv:2407.21778
+      </a>
+      
+        [<a href="/pdf/2407.21778" title="Download PDF" id="pdf-2407.21778" aria-labelledby="pdf-2407.21778">pdf</a>, <a href="/format/2407.21778" title="Other formats" id="oth-2407.21778" aria-labelledby="oth-2407.21778">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ocker,+F">Felix Ocker</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Tanneberg,+D">Daniel Tanneberg</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Eggert,+J">Julian Eggert</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gienger,+M">Michael Gienger</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          19 pages, 4 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Robotics (cs.RO)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item3'>[3]</a>
+      <a href ="/abs/2407.21770" title="Abstract" id="2407.21770">
+        arXiv:2407.21770
+      </a>
+      
+        [<a href="/pdf/2407.21770" title="Download PDF" id="pdf-2407.21770" aria-labelledby="pdf-2407.21770">pdf</a>, <a href="https://arxiv.org/html/2407.21770v1" title="View HTML" id="html-2407.21770" aria-labelledby="html-2407.21770" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21770" title="Other formats" id="oth-2407.21770" aria-labelledby="oth-2407.21770">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lin,+X+V">Xi Victoria Lin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shrivastava,+A">Akshat Shrivastava</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Luo,+L">Liang Luo</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Iyer,+S">Srinivasan Iyer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lewis,+M">Mike Lewis</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gosh,+G">Gargi Gosh</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zettlemoyer,+L">Luke Zettlemoyer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Aghajanyan,+A">Armen Aghajanyan</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Machine Learning (cs.LG)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item4'>[4]</a>
+      <a href ="/abs/2407.21729" title="Abstract" id="2407.21729">
+        arXiv:2407.21729
+      </a>
+      
+        [<a href="/pdf/2407.21729" title="Download PDF" id="pdf-2407.21729" aria-labelledby="pdf-2407.21729">pdf</a>, <a href="https://arxiv.org/html/2407.21729v1" title="View HTML" id="html-2407.21729" aria-labelledby="html-2407.21729" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21729" title="Other formats" id="oth-2407.21729" aria-labelledby="oth-2407.21729">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          ParLS-PBO: A Parallel Local Search Solver for Pseudo Boolean Optimization
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+Z">Zhihan Chen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lin,+P">Peng Lin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hu,+H">Hao Hu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cai,+S">Shaowei Cai</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          17 pages,2 figures, to be published in The 30th International Conference on Principles and Practice of Constraint Programming
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item5'>[5]</a>
+      <a href ="/abs/2407.21726" title="Abstract" id="2407.21726">
+        arXiv:2407.21726
+      </a>
+      
+        [<a href="/pdf/2407.21726" title="Download PDF" id="pdf-2407.21726" aria-labelledby="pdf-2407.21726">pdf</a>, <a href="https://arxiv.org/html/2407.21726v1" title="View HTML" id="html-2407.21726" aria-labelledby="html-2407.21726" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21726" title="Other formats" id="oth-2407.21726" aria-labelledby="oth-2407.21726">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Artificial Intelligence Approaches for Energy Efficiency: A Review
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pasqualetto,+A">Alberto Pasqualetto</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Serafini,+L">Lorenzo Serafini</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sprocatti,+M">Michele Sprocatti</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item6'>[6]</a>
+      <a href ="/abs/2407.21717" title="Abstract" id="2407.21717">
+        arXiv:2407.21717
+      </a>
+      
+        [<a href="/pdf/2407.21717" title="Download PDF" id="pdf-2407.21717" aria-labelledby="pdf-2407.21717">pdf</a>, <a href="/format/2407.21717" title="Other formats" id="oth-2407.21717" aria-labelledby="oth-2407.21717">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Assessing the State of AI Policy
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=DeFranco,+J+F">Joanna F. DeFranco</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Biersmith,+L">Luke Biersmith</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Computers and Society (cs.CY)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item7'>[7]</a>
+      <a href ="/abs/2407.21714" title="Abstract" id="2407.21714">
+        arXiv:2407.21714
+      </a>
+      
+        [<a href="/pdf/2407.21714" title="Download PDF" id="pdf-2407.21714" aria-labelledby="pdf-2407.21714">pdf</a>, <a href="https://arxiv.org/html/2407.21714v1" title="View HTML" id="html-2407.21714" aria-labelledby="html-2407.21714" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21714" title="Other formats" id="oth-2407.21714" aria-labelledby="oth-2407.21714">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liu,+D">Dingkun Liu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhou,+H">Hongjie Zhou</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Qu,+Y">Yilu Qu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+H">Huimei Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+Y">Yongdong Xu</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Quantitative Methods (q-bio.QM)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item8'>[8]</a>
+      <a href ="/abs/2407.21708" title="Abstract" id="2407.21708">
+        arXiv:2407.21708
+      </a>
+      
+        [<a href="/pdf/2407.21708" title="Download PDF" id="pdf-2407.21708" aria-labelledby="pdf-2407.21708">pdf</a>, <a href="https://arxiv.org/html/2407.21708v1" title="View HTML" id="html-2407.21708" aria-labelledby="html-2407.21708" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21708" title="Other formats" id="oth-2407.21708" aria-labelledby="oth-2407.21708">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Langer,+S">Stefan Langer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Neuhaus,+F">Fabian Neuhaus</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=N%C3%BCrnberger,+A">Andreas Nürnberger</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item9'>[9]</a>
+      <a href ="/abs/2407.21693" title="Abstract" id="2407.21693">
+        arXiv:2407.21693
+      </a>
+      
+        [<a href="/pdf/2407.21693" title="Download PDF" id="pdf-2407.21693" aria-labelledby="pdf-2407.21693">pdf</a>, <a href="https://arxiv.org/html/2407.21693v1" title="View HTML" id="html-2407.21693" aria-labelledby="html-2407.21693" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21693" title="Other formats" id="oth-2407.21693" aria-labelledby="oth-2407.21693">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+M">Ming Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Huang,+C">Caishuang Huang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wu,+Y">Yilong Wu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liu,+S">Shichun Liu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zheng,+H">Huiyuan Zheng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dong,+Y">Yurui Dong</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shen,+Y">Yujiong Shen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dou,+S">Shihan Dou</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhao,+J">Jun Zhao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ye,+J">Junjie Ye</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+Q">Qi Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gui,+T">Tao Gui</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Huang,+X">Xuanjing Huang</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item10'>[10]</a>
+      <a href ="/abs/2407.21647" title="Abstract" id="2407.21647">
+        arXiv:2407.21647
+      </a>
+      
+        [<a href="/pdf/2407.21647" title="Download PDF" id="pdf-2407.21647" aria-labelledby="pdf-2407.21647">pdf</a>, <a href="https://arxiv.org/html/2407.21647v1" title="View HTML" id="html-2407.21647" aria-labelledby="html-2407.21647" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21647" title="Other formats" id="oth-2407.21647" aria-labelledby="oth-2407.21647">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Human interaction classifier for LLM based chatbot
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mart%C3%ADn,+D">Diego Martín</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sanchez,+J">Jordi Sanchez</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Vizca%C3%ADno,+X">Xavier Vizcaíno</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          16 pages, 13 figures
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item11'>[11]</a>
+      <a href ="/abs/2407.21638" title="Abstract" id="2407.21638">
+        arXiv:2407.21638
+      </a>
+      
+        [<a href="/pdf/2407.21638" title="Download PDF" id="pdf-2407.21638" aria-labelledby="pdf-2407.21638">pdf</a>, <a href="https://arxiv.org/html/2407.21638v1" title="View HTML" id="html-2407.21638" aria-labelledby="html-2407.21638" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21638" title="Other formats" id="oth-2407.21638" aria-labelledby="oth-2407.21638">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Warr,+H">Hermione Warr</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ibrahim,+Y">Yasin Ibrahim</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=McGowan,+D+R">Daniel R. McGowan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Kamnitsas,+K">Konstantinos Kamnitsas</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          Accepted to MICCAI UNSURE Workshop
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Computer Vision and Pattern Recognition (cs.CV)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item12'>[12]</a>
+      <a href ="/abs/2407.21566" title="Abstract" id="2407.21566">
+        arXiv:2407.21566
+      </a>
+      
+        [<a href="/pdf/2407.21566" title="Download PDF" id="pdf-2407.21566" aria-labelledby="pdf-2407.21566">pdf</a>, <a href="https://arxiv.org/html/2407.21566v1" title="View HTML" id="html-2407.21566" aria-labelledby="html-2407.21566" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21566" title="Other formats" id="oth-2407.21566" aria-labelledby="oth-2407.21566">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          TRGR: Transmissive RIS-aided Gait Recognition Through Walls
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Huang,+Y">Yunlong Huang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liu,+J">Junshuo Liu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+J">Jianan Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mi,+T">Tiebin Mi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shi,+X">Xin Shi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Qiu,+R+C">Robert Caiming Qiu</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          Globecom 2024 IoTSN accepted
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item13'>[13]</a>
+      <a href ="/abs/2407.21556" title="Abstract" id="2407.21556">
+        arXiv:2407.21556
+      </a>
+      
+        [<a href="/pdf/2407.21556" title="Download PDF" id="pdf-2407.21556" aria-labelledby="pdf-2407.21556">pdf</a>, <a href="https://arxiv.org/html/2407.21556v1" title="View HTML" id="html-2407.21556" aria-labelledby="html-2407.21556" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21556" title="Other formats" id="oth-2407.21556" aria-labelledby="oth-2407.21556">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Operator-based semantics for choice programs: is choosing losing? (full version)
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Heyninck,+J">Jesse Heyninck</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          Extended version of a paper accepted at KR 2024
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Logic in Computer Science (cs.LO)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item14'>[14]</a>
+      <a href ="/abs/2407.21507" title="Abstract" id="2407.21507">
+        arXiv:2407.21507
+      </a>
+      
+        [<a href="/pdf/2407.21507" title="Download PDF" id="pdf-2407.21507" aria-labelledby="pdf-2407.21507">pdf</a>, <a href="https://arxiv.org/html/2407.21507v1" title="View HTML" id="html-2407.21507" aria-labelledby="html-2407.21507" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21507" title="Other formats" id="oth-2407.21507" aria-labelledby="oth-2407.21507">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yan,+Y">Yuna Yan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+X">Xin Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Li,+L">Lixin Li</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Lin,+W">Wensheng Lin</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Li,+R">Rui Li</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cheng,+W">Wenchi Cheng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Han,+Z">Zhu Han</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item15'>[15]</a>
+      <a href ="/abs/2407.21485" title="Abstract" id="2407.21485">
+        arXiv:2407.21485
+      </a>
+      
+        [<a href="/pdf/2407.21485" title="Download PDF" id="pdf-2407.21485" aria-labelledby="pdf-2407.21485">pdf</a>, <a href="https://arxiv.org/html/2407.21485v1" title="View HTML" id="html-2407.21485" aria-labelledby="html-2407.21485" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21485" title="Other formats" id="oth-2407.21485" aria-labelledby="oth-2407.21485">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Parallel Strategies for Best-First Generalized Planning
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fern%C3%A1ndez-Alburquerque,+A">Alejandro Fernández-Alburquerque</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Segovia-Aguas,+J">Javier Segovia-Aguas</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          3 pages
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item16'>[16]</a>
+      <a href ="/abs/2407.21483" title="Abstract" id="2407.21483">
+        arXiv:2407.21483
+      </a>
+      
+        [<a href="/pdf/2407.21483" title="Download PDF" id="pdf-2407.21483" aria-labelledby="pdf-2407.21483">pdf</a>, <a href="https://arxiv.org/html/2407.21483v1" title="View HTML" id="html-2407.21483" aria-labelledby="html-2407.21483" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21483" title="Other formats" id="oth-2407.21483" aria-labelledby="oth-2407.21483">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pan,+X">Xiny Pan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hern%C3%A1ndez,+D">Daniel Hernández</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Seifer,+P">Philipp Seifer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=L%C3%A4mmel,+R">Ralf Lämmel</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Staab,+S">Steffen Staab</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Databases (cs.DB)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item17'>[17]</a>
+      <a href ="/abs/2407.21460" title="Abstract" id="2407.21460">
+        arXiv:2407.21460
+      </a>
+      
+        [<a href="/pdf/2407.21460" title="Download PDF" id="pdf-2407.21460" aria-labelledby="pdf-2407.21460">pdf</a>, <a href="https://arxiv.org/html/2407.21460v1" title="View HTML" id="html-2407.21460" aria-labelledby="html-2407.21460" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21460" title="Other formats" id="oth-2407.21460" aria-labelledby="oth-2407.21460">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Redondo,+J">Jeffrey Redondo</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Aslam,+N">Nauman Aslam</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+J">Juan Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yuan,+Z">Zhenhui Yuan</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Machine Learning (cs.LG)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item18'>[18]</a>
+      <a href ="/abs/2407.21459" title="Abstract" id="2407.21459">
+        arXiv:2407.21459
+      </a>
+      
+        [<a href="/pdf/2407.21459" title="Download PDF" id="pdf-2407.21459" aria-labelledby="pdf-2407.21459">pdf</a>, <a href="https://arxiv.org/html/2407.21459v1" title="View HTML" id="html-2407.21459" aria-labelledby="html-2407.21459" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21459" title="Other formats" id="oth-2407.21459" aria-labelledby="oth-2407.21459">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          KemenkeuGPT: Leveraging a Large Language Model on Indonesia&#39;s Government Financial Data and Regulations to Enhance Decision Making
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Febrian,+G+F">Gilang Fajar Febrian</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Figueredo,+G">Grazziela Figueredo</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          14 pages, 7 figures, 10 tables
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item19'>[19]</a>
+      <a href ="/abs/2407.21439" title="Abstract" id="2407.21439">
+        arXiv:2407.21439
+      </a>
+      
+        [<a href="/pdf/2407.21439" title="Download PDF" id="pdf-2407.21439" aria-labelledby="pdf-2407.21439">pdf</a>, <a href="https://arxiv.org/html/2407.21439v1" title="View HTML" id="html-2407.21439" aria-labelledby="html-2407.21439" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21439" title="Other formats" id="oth-2407.21439" aria-labelledby="oth-2407.21439">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+Z">Zhanpeng Chen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+C">Chengjin Xu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Qi,+Y">Yiyan Qi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Guo,+J">Jian Guo</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Computation and Language (cs.CL); Machine Learning (cs.LG)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item20'>[20]</a>
+      <a href ="/abs/2407.21385" title="Abstract" id="2407.21385">
+        arXiv:2407.21385
+      </a>
+      
+        [<a href="/pdf/2407.21385" title="Download PDF" id="pdf-2407.21385" aria-labelledby="pdf-2407.21385">pdf</a>, <a href="https://arxiv.org/html/2407.21385v1" title="View HTML" id="html-2407.21385" aria-labelledby="html-2407.21385" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21385" title="Other formats" id="oth-2407.21385" aria-labelledby="oth-2407.21385">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          SmileyNet -- Towards the Prediction of the Lottery by Reading Tea Leaves with AI
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Birk,+A">Andreas Birk</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          This is a satirical accumulation of misconceptions, mistakes, and flawed reasoning I have encountered in recent times as a reviewer and sometimes even as a reader of published papers. I hope it is entertaining and useful in the context of the education of BSc, MSc, and PhD students in Machine Learning, Artificial Intelligence, and Cognitive Science
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Computer Vision and Pattern Recognition (cs.CV); Computers and Society (cs.CY); Machine Learning (cs.LG); Robotics (cs.RO)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item21'>[21]</a>
+      <a href ="/abs/2407.21376" title="Abstract" id="2407.21376">
+        arXiv:2407.21376
+      </a>
+      
+        [<a href="/pdf/2407.21376" title="Download PDF" id="pdf-2407.21376" aria-labelledby="pdf-2407.21376">pdf</a>, <a href="/format/2407.21376" title="Other formats" id="oth-2407.21376" aria-labelledby="oth-2407.21376">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          An Extended Kalman Filter Integrated Latent Feature Model on Dynamic Weighted Directed Graphs
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhou,+H">Hongxun Zhou</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+X">Xiangyu Chen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yuan,+Y">Ye Yuan</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item22'>[22]</a>
+      <a href ="/abs/2407.21358" title="Abstract" id="2407.21358">
+        arXiv:2407.21358
+      </a>
+      
+        [<a href="/pdf/2407.21358" title="Download PDF" id="pdf-2407.21358" aria-labelledby="pdf-2407.21358">pdf</a>, <a href="https://arxiv.org/html/2407.21358v1" title="View HTML" id="html-2407.21358" aria-labelledby="html-2407.21358" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21358" title="Other formats" id="oth-2407.21358" aria-labelledby="oth-2407.21358">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Markowitz,+E">Elan Markowitz</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ramakrishna,+A">Anil Ramakrishna</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dhamala,+J">Jwala Dhamala</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Mehrabi,+N">Ninareh Mehrabi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Peris,+C">Charith Peris</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gupta,+R">Rahul Gupta</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chang,+K">Kai-Wei Chang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Galstyan,+A">Aram Galstyan</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          Accepted for publication at the ACL 2024 Conference
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item23'>[23]</a>
+      <a href ="/abs/2407.21344" title="Abstract" id="2407.21344">
+        arXiv:2407.21344
+      </a>
+      
+        [<a href="/pdf/2407.21344" title="Download PDF" id="pdf-2407.21344" aria-labelledby="pdf-2407.21344">pdf</a>, <a href="https://arxiv.org/html/2407.21344v1" title="View HTML" id="html-2407.21344" aria-labelledby="html-2407.21344" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21344" title="Other formats" id="oth-2407.21344" aria-labelledby="oth-2407.21344">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Dual-Constrained Dynamical Neural ODEs for Ambiguity-aware Continuous Emotion Prediction
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wu,+J">Jingyao Wu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dang,+T">Ting Dang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sethu,+V">Vidhyasaharan Sethu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ambikairajah,+E">Eliathamby Ambikairajah</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          This paper has been accepted at INTERSPEECh 2024
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item24'>[24]</a>
+      <a href ="/abs/2407.21338" title="Abstract" id="2407.21338">
+        arXiv:2407.21338
+      </a>
+      
+        [<a href="/pdf/2407.21338" title="Download PDF" id="pdf-2407.21338" aria-labelledby="pdf-2407.21338">pdf</a>, <a href="https://arxiv.org/html/2407.21338v1" title="View HTML" id="html-2407.21338" aria-labelledby="html-2407.21338" rel="noopener noreferrer" target="_blank">html</a>, <a href="/format/2407.21338" title="Other formats" id="oth-2407.21338" aria-labelledby="oth-2407.21338">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          Image-Based Deep Reinforcement Learning with Intrinsically Motivated Stimuli: On the Execution of Complex Robotic Tasks
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Valencia,+D">David Valencia</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Williams,+H">Henry Williams</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xing,+Y">Yuning Xing</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gee,+T">Trevor Gee</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liarokapis,+M">Minas Liarokapis</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=MacDonald,+B+A">Bruce A. MacDonald</a></div>
+
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Machine Learning (cs.LG)
+        </div>
+
+      </div>
+    </dd>
+    <dt>
+      <a name='item25'>[25]</a>
+      <a href ="/abs/2407.21320" title="Abstract" id="2407.21320">
+        arXiv:2407.21320
+      </a>
+      
+        [<a href="/pdf/2407.21320" title="Download PDF" id="pdf-2407.21320" aria-labelledby="pdf-2407.21320">pdf</a>, <a href="/format/2407.21320" title="Other formats" id="oth-2407.21320" aria-labelledby="oth-2407.21320">other</a>]
+    </dt>
+    <dd>
+      <div class='meta'>
+        <div class='list-title mathjax'><span class='descriptor'>Title:</span>
+          MetaOpenFOAM: an LLM-based multi-agent framework for CFD
+        </div>
+        <div class='list-authors'><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chena,+Y">Yuxuan Chena</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhua,+X">Xu Zhua</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhoua,+H">Hua Zhoua</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Rena,+Z">Zhuyin Rena</a></div>
+
+        <div class='list-comments mathjax'><span class='descriptor'>Comments:</span>
+          31 pages,10 figures, 11 tables
+        </div>
+
+
+        <div class='list-subjects'><span class='descriptor'>Subjects:</span>
+          <span class="primary-subject">Artificial Intelligence (cs.AI)</span>; Fluid Dynamics (physics.flu-dyn)
+        </div>
+
+      </div>
+    </dd>
+</dl>
+
+
+      <div class='paging'>Total of 595 entries :      <span>1-25</span>
+      <a href=/list/cs.AI/recent?skip=25&amp;show=25>26-50</a>
+      <a href=/list/cs.AI/recent?skip=50&amp;show=25>51-75</a>
+      <a href=/list/cs.AI/recent?skip=75&amp;show=25>76-100</a>
+      <span>...</span>
+      <a href=/list/cs.AI/recent?skip=575&amp;show=25>576-595</a>
+
+    </div>
+    <div class='morefewer'>Showing up to 25 entries per page:
+          <a href=/list/cs.AI/recent?skip=0&amp;show=10>
+      fewer</a>
+ |
+          <a href=/list/cs.AI/recent?skip=0&amp;show=50>
+      more</a>
+ |
+          <a href=/list/cs.AI/recent?skip=0&amp;show=2000>
+      all</a>
+
+    </div>
+
+</div>
+</div>      </div>
+    </main>
+
+    <footer style="clear: both;">
+      <div class="columns is-desktop" role="navigation" aria-label="Secondary" style="margin: -0.75em -0.75em 0.75em -0.75em">
+        <!-- Macro-Column 1 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/about">About</a></li>
+                <li><a href="https://info.arxiv.org/help">Help</a></li>
+              </ul>
+            </div>
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>contact arXiv</title><desc>Click here to contact arXiv</desc><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>
+                  <a href="https://info.arxiv.org/help/contact.html"> Contact</a>
+                </li>
+                <li>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><title>subscribe to arXiv mailings</title><desc>Click here to subscribe</desc><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"/></svg>
+                  <a href="https://info.arxiv.org/help/subscribe"> Subscribe</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End Macro-Column 1 -->
+        <!-- Macro-Column 2 -->
+        <div class="column" style="padding: 0;">
+          <div class="columns">
+            <div class="column">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/license/index.html">Copyright</a></li>
+                <li><a href="https://info.arxiv.org/help/policies/privacy_policy.html">Privacy Policy</a></li>
+              </ul>
+            </div>
+            <div class="column sorry-app-links">
+              <ul style="list-style: none; line-height: 2;">
+                <li><a href="https://info.arxiv.org/help/web_accessibility.html">Web Accessibility Assistance</a></li>
+                <li>
+                  <p class="help">
+                    <a class="a11y-main-link" href="https://status.arxiv.org" target="_blank">arXiv Operational Status <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" class="icon filter-dark_grey" role="presentation"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></a><br>
+                    Get status notifications via
+                    <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/email/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon filter-black" role="presentation"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg>email</a>
+                    or <a class="is-link" href="https://subscribe.sorryapp.com/24846f03/slack/new" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon filter-black" role="presentation"><path d="M94.12 315.1c0 25.9-21.16 47.06-47.06 47.06S0 341 0 315.1c0-25.9 21.16-47.06 47.06-47.06h47.06v47.06zm23.72 0c0-25.9 21.16-47.06 47.06-47.06s47.06 21.16 47.06 47.06v117.84c0 25.9-21.16 47.06-47.06 47.06s-47.06-21.16-47.06-47.06V315.1zm47.06-188.98c-25.9 0-47.06-21.16-47.06-47.06S139 32 164.9 32s47.06 21.16 47.06 47.06v47.06H164.9zm0 23.72c25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06H47.06C21.16 243.96 0 222.8 0 196.9s21.16-47.06 47.06-47.06H164.9zm188.98 47.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06h-47.06V196.9zm-23.72 0c0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06V79.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06V196.9zM283.1 385.88c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06v-47.06h47.06zm0-23.72c-25.9 0-47.06-21.16-47.06-47.06 0-25.9 21.16-47.06 47.06-47.06h117.84c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06H283.1z"/></svg>slack</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- end MetaColumn 2 -->
+        <!-- End Macro-Column 2 -->
+      </div>
+    </footer>
+  </div>
+
+  <script src="/static/base/1.0.1/js/member_acknowledgement.js"></script>
+
+</body>
+
+</html>
