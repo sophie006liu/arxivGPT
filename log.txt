@@ -1,3 +1,10 @@
 8/2/24
 
 Tried 128 and 64 units of hidden units both yield just a repeat of a bunch of characters
+
+
+8/3/24
+
+Cleaned up the data by removing even more extraneous characters
+and checked the encoding funciton for correctness
+TODO: look at text generation function and see if it works
