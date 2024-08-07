@@ -17,5 +17,6 @@ TODO: have the lstm trained on not just predicting the next char but rather toke
 8/6
 switched to GRU model instead of LSTM
 it no longer repeats characters continuously, and we're seeing more spaces and variety of characters
+I did clean up the data more so that it leaves out titles with special characters
 "parametrich ph jed x p ph dinin k7 win pedininin d dy wininin dininin ph-n ph pth 2 majed"
 TODO: add bert embeddings, look it up it should include both tokenizing and embeddings
