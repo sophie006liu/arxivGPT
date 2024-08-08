@@ -1,0 +1,121 @@
+Berkeley Humanoid: A Research Platform for Learning-based Control
+ReplanVLM: Replanning Robotic Tasks with Visual Language Models
+Diagnostic Runtime Monitoring with Martingales
+Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)
+Pedestrian Inertial Navigation: An Overview of Model and Data-Driven Approaches
+Vision and Contact based Optimal Control for Autonomous Trocar Docking
+Locomotion Dynamics of an Underactuated Three-Link Robotic Vehicle
+Interpreting and learning voice commands with a Large Language Model for a robot system
+DIABLO: A 6-DoF Wheeled Bipedal Robot Composed Entirely of Direct-Drive Joints
+Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments
+Rico: extended TIAGo robot towards up-to-date social and assistive robot usage scenarios
+Dynamic Gesture Recognition in Ultra-Range Distance for Effective Human-Robot Interaction
+SuperVINS: A visual-inertial SLAM framework integrated deep learning features
+A Cooperation Control Framework Based on Admittance Control and Time-varying Passive Velocity Field Control for Human--Robot Co-carrying Tasks
+MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration
+DEF-oriCORN: efficient 3D scene understanding for robust language-directed manipulation without demonstrations
+Four-Axis Adaptive Fingers Hand for Object Insertion: FAAF Hand
+VITAL: Visual Teleoperation to Enhance Robot Learning through Human-in-the-Loop Corrections
+Learning Stable Robot Grasping with Transformer-based Tactile Control Policies
+Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries
+Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner
+Analyzing the impact of semantic LoD3 building models on image-based vehicle localization
+VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning
+SmileyNet -- Towards the Prediction of the Lottery by Reading Tea Leaves with AI
+Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving
+High-Dimensional Fault Tolerance Testing of Highly Automated Vehicles Based on Low-Rank Models
+A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval
+Autonomous Improvement of Instruction Following Skills via Foundation Models
+ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry
+Survey of Design Paradigms for Social Robots
+A flexible framework for accurate LiDAR odometry, map manipulation, and localization
+Haptic feedback of front car motion can improve driving control
+Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning
+Scene-Specific Trajectory Sets: Maximizing Representation in Motion Forecasting
+Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation
+BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World
+Registering Neural 4D Gaussians for Endoscopic Surgery
+Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration
+Radiance Fields for Robotic Teleoperation
+Theia: Distilling Diverse Vision Foundation Models for Robot Learning
+Language-Conditioned Offline RL for Multi-Robot Navigation
+Autonomous and Teleoperation Control of a Drawing Robot Avatar
+Counterfactual rewards promote collective transport using individually controlled swarm microrobots
+Collision Probability Distribution Estimation via Temporal Difference Learning
+Integrated Scenario-based Analysis: A data-driven approach to support automated driving systems development and safety evaluation
+Neural Control Barrier Functions for Safe Navigation
+A Differential Dynamic Programming Framework for Inverse Reinforcement Learning
+Language-driven Grasp Detection with Mask-guided Attention
+Design and Control of a Novel Six-Degree-of-Freedom Hybrid Robotic Arm
+Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics
+Motion Manifold Flow Primitives for Language-Guided Trajectory Generation
+Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data
+EPD: Long-term Memory Extraction, Context-awared Planning and Multi-iteration Decision @ EgoPlan Challenge ICML 2024
+HD-maps as Prior Information for Globally Consistent Mapping in GPS-denied Environments
+Grasping Force Control and Adaptation for a Cable-Driven Robotic Hand
+Rendezvous and Merging for Two Metamorphic Robotic Systems without Global Compass
+A Resource-Efficient Decentralized Sequential Planner for Spatiotemporal Wildfire Mitigation
+Genetic Algorithm-based Routing and Scheduling for Wildfire Suppression using a Team of UAVs
+Relational Q-Functionals: Multi-Agent Learning to Recover from Unforeseen Robot Malfunctions in Continuous Action Domains
+Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments
+Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation
+Autonomous Navigation of Unmanned Vehicle Through Deep Reinforcement Learning
+SAPG: Split and Aggregate Policy Gradients
+Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning
+"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence
+Forecast-PEFT: Parameter-Efficient Fine-Tuning for Pre-trained Motion Forecasting Models
+Small-Gain Theorem Based Distributed Prescribed-Time Convex Optimization For Networked Euler-Lagrange Systems
+ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding
+Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions
+Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches
+Large Language Models for Human-like Autonomous Driving: A Survey
+Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains
+On the benefits of pixel-based hierarchical policies for task generalization
+Solving Robotics Problems in Zero-Shot with Vision-Language Models
+HRP: Human Affordances for Robotic Pre-Training
+Lessons from Learning to Spin "Pens"
+SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces
+Morphing median fin enhances untethered bionic robotic tuna's linear acceleration and turning maneuverability
+Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects
+HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM
+Divide and Conquer: A Systematic Approach for Industrial Scale High-Definition OpenDRIVE Generation from Sparse Point Clouds
+Optimizing Design and Control Methods for Using Collaborative Robots in Upper-Limb Rehabilitation
+PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+PANDORA: The Open-Source, Structurally Elastic Humanoid Robot
+Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network
+ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments
+Distributed Multi-robot Online Sampling with Budget Constraints
+Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications
+Gaussian Lane Keeping: A Robust Prediction Baseline
+Needle Segmentation Using GAN: Restoring Thin Instrument Visibility in Robotic Ultrasound
+Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems
+Atmospheric Density-Compensating Model Predictive Control for Targeted Reentry of Drag-Modulated Spacecraft
+Multi-Robot System Architecture design in SysML and BPMN
+CodedVO: Coded Visual Odometry
+Influence Vectors Control for Robots Using Cellular-like Binary Actuators
+YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems
+Egocentric Robots in a Human-Centric World? Exploring Group-Robot-Interaction in Public Spaces
+Lightweight Language-driven Grasp Detection using Conditional Consistency Model
+Time-Optimal Planning for Long-Range Quadrotor Flights: An Automatic Optimal Synthesis Approach
+A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment
+Goal Estimation-based Adaptive Shared Control for Brain-Machine Interfaces Remote Robot Navigation
+Complex picking via entanglement of granular mechanical metamaterials
+PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression
+RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control
+Adaptive Robot Detumbling of a Non-Rigid Satellite
+Amplifying the Kinematics of Origami Mechanisms With Spring Joints
+Quality Diversity for Robot Learning: Limitations and Future Directions
+Meta-Reinforcement Learning for Universal Quadrupedal Locomotion Control
+Passive wing deployment and retraction in beetles and flapping microrobots
+PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
+Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception
+Pose, Velocity and Landmark Position Estimation Using IMU and Bearing Measurements
+TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework
+Learning mental states estimation through self-observation: a developmental synergy between intentions and beliefs representations in a deep-learning model of Theory of Mind
+Personalized and Context-aware Route Planning for Edge-assisted Vehicles
+StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory
+Strategic Pseudo-Goal Perturbation for Deadlock-Free Multi-Agent Navigation in Social Mini-Games
+CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions
+CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery
+Driving pattern interpretation based on action phases clustering

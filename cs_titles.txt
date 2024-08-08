@@ -1,0 +1,1385 @@
+Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?
+Large Language Monkeys: Scaling Inference Compute with Repeated Sampling
+HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection
+Contrastive Factor Analysis
+Social Learning through Interactions with Other Agents: A Survey
+Universal Approximation Theory: Foundations for Parallelism in Neural Networks
+Comgra: A Tool for Analyzing and Debugging Neural Networks
+Lyapunov weights to convey the meaning of time in physics-informed neural networks
+MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction
+Higher order quantum reservoir computing for non-intrusive reduced-order models
+Measuring What Matters: Intrinsic Distance Preservation as a Robust Metric for Embedding Quality
+CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment
+Black box meta-learning intrinsic rewards for sparse-reward environments
+Probabilistic Scoring Lists for Interpretable Machine Learning
+Tabular Data Augmentation for Machine Learning: Progress and Prospects of Embracing Generative AI
+Root Cause Analysis Of Productivity Losses In Manufacturing Systems Utilizing Ensemble Machine Learning
+TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors
+FTuner: A Fast Dynamic Shape Tensors Program Auto-Tuner for Deep Learning Compilers
+ProSpec RL: Plan Ahead, then Execute
+Differentially Private Block-wise Gradient Shuffle for Deep Learning
+Big Cooperative Learning
+State-observation augmented diffusion model for nonlinear assimilation
+A Vectorization Method Induced By Maximal Margin Classification For Persistent Diagrams
+TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics
+FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights
+Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation
+Informed Correctors for Discrete Diffusion Models
+GNUMAP: A Parameter-Free Approach to Unsupervised Dimensionality Reduction via Graph Neural Networks
+Towards an Integrated Performance Framework for Fire Science and Management Workflows
+DeepBaR: Fault Backdoor Attack on Deep Neural Network Layers
+NeuroSEM: A hybrid framework for simulating multiphysics problems by coupling PINNs and spectral elements
+Diffusion-Based Generation of Neural Activity from Disentangled Latent Codes
+Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting
+DKL-KAN: Scalable Deep Kernel Learning using Kolmogorov-Arnold Networks
+Embedding Space Selection for Detecting Memorization and Fingerprinting in Generative Models
+Private Collaborative Edge Inference via Over-the-Air Computation
+Computational music analysis from first principles
+Zero Shot Health Trajectory Prediction Using Transformer
+Taming the Frequency Factory of Sinusoidal Networks
+The Stochastic Conjugate Subgradient Algorithm For Kernel Support Vector Machines
+Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation
+Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent
+Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey
+Deep Learning for Options Trading: An End-To-End Approach
+Vision-Language Model Based Handwriting Verification
+ShieldGemma: Generative AI Content Moderation Based on Gemma
+MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts
+Diagnostic Runtime Monitoring with Martingales
+A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation
+Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
+Synth-Empathy: Towards High-Quality Synthetic Empathy Data
+An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification
+A State-of-the-Art Review of Computational Models for Analyzing Longitudinal Wearable Sensor Data in Healthcare
+Beat this! Accurate beat tracking without DBN postprocessing
+Spatial Transformer Network YOLO Model for Agricultural Object Detection
+Extended Fiducial Inference: Toward an Automated Process of Statistical Inference
+Ironing the Graphs: Toward a Correct Geometric Analysis of Large-Scale Graphs
+Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Benard convection
+Data Contamination Report from the 2024 CONDA Shared Task
+FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication
+Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation
+On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition
+Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network
+MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training
+Transient anisotropic kernel for probabilistic learning on manifolds
+Cost-Effective Hallucination Detection for LLMs
+Deep Frechet Regression
+SmileyNet -- Towards the Prediction of the Lottery by Reading Tea Leaves with AI
+Dynamic Gesture Recognition in Ultra-Range Distance for Effective Human-Robot Interaction
+Two Completely Parameter-Free Alternating Gradient Projection Algorithms for Nonconvex-(strongly) Concave Minimax Problems
+Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering
+MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework
+Image-Based Deep Reinforcement Learning with Intrinsically Motivated Stimuli: On the Execution of Complex Robotic Tasks
+Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models
+EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer
+MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration
+Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models
+Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic Approach
+Robust Box Prompt based SAM for Medical Image Segmentation
+Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net
+DDU-Net: A Domain Decomposition-based CNN on Multiple GPUs
+Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens
+Analyzing Customer-Facing Vendor Experiences with Time Series Forecasting and Monte Carlo Techniques
+GenRec: Generative Personalized Sequential Recommendation
+Multi-task Photonic Reservoir Computing: Wavelength Division Multiplexing for Parallel Computing with a Silicon Microring Resonator
+Optical Computing for Deep Neural Network Acceleration: Foundations, Recent Developments, and Emerging Directions
+Enhancing Deep Hedging of Options with Implied Volatility Surface Feedback Information
+Palu: Compressing KV-Cache with Low-Rank Projection
+Accelerating Large Language Model Inference with Self-Supervised Early Exits
+Convergence rates for the Adam optimizer
+Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models
+Apple Intelligence Foundation Language Models
+High-Dimensional Fault Tolerance Testing of Highly Automated Vehicles Based on Low-Rank Models
+ELP-Adapters: Parameter Efficient Adapter Tuning for Various Speech Processing Tasks
+LawLLM: Law Large Language Model for the US Legal System
+Hybrid Heuristic Algorithms for Adiabatic Quantum Machine Learning Models
+Multi-group Uncertainty Quantification for Long-form Text Generation
+Sentiment Reasoning for Healthcare
+Evaluating Long Range Dependency Handling in Code Generation Models using Multi-Step Key Retrieval
+Promises and Pitfalls of Generative Masked Language Modeling: Theoretical Framework and Practical Guidelines
+CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning
+Mapping Patient Trajectories: Understanding and Visualizing Sepsis Prognostic Pathways from Patients Clinical Narratives
+Watermarking Recommender Systems
+Cluster and Separate: a GNN Approach to Voice and Staff Prediction for Score Engraving
+Data-Driven Abstractions via Binary-Tree Gaussian Processes for Formal Verification
+Antibody DomainBed: Out-of-Distribution Generalization in Therapeutic Protein Design
+Reinforcement Learning in High-frequency Market Making
+Can Public LLMs be used for Self-Diagnosis of Medical Conditions ?
+The Janus Interface: How Fine-Tuning in Large Language Models Amplifies the Privacy Risks
+MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning
+An Effective Dynamic Gradient Calibration Method for Continual Learning
+How to Choose a Reinforcement-Learning Algorithm
+What Are Good Positional Encodings for Directed Graphs?
+MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network
+Bayesian Low-Rank LeArning (Bella): A Practical Approach to Bayesian Neural Networks
+Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction
+Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing
+DyGKT: Dynamic Graph Learning for Knowledge Tracing
+Robust Load Prediction of Power Network Clusters Based on Cloud-Model-Improved Transformer
+Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning
+Be aware of overfitting by hyperparameter optimization!
+Interpretable Pre-Trained Transformers for Heart Time-Series Data
+HyperMM : Robust Multimodal Learning with Varying-sized Inputs
+Efficient Quantum One-Class Support Vector Machines for Anomaly Detection Using Randomized Measurements and Variable Subsampling
+Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions
+Efficient Pareto Manifold Learning with Low-Rank Structure
+PIP: Prototypes-Injected Prompt for Federated Class Incremental Learning
+Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT
+Detecting Causality in the Frequency Domain with Cross-Mapping Coherence
+The Susceptibility of Example-Based Explainability Methods to Class Outliers
+Rethinking the Function of Neurons in KANs
+Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations
+No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation
+Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning
+Improved Bounds for Pure Private Agnostic Learning: Item-Level and User-Level Privacy
+The Entrapment Problem in Random Walk Decentralized Learning
+Investigating Sparsity in Recurrent Neural Networks
+Joint Diffusion Processes as an Inductive Bias in Sheaf Neural Networks
+Invariant deep neural networks under the finite group for solving partial differential equations
+CELLM: An Efficient Communication in Large Language Models Training for Federated Learning
+DiffusionCounterfactuals: Inferring High-dimensional Counterfactuals with Guidance of Causal Representations
+Can LLMs be Fooled? Investigating Vulnerabilities in LLMs
+Machine Unlearning in Generative AI: A Survey
+Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge
+A federated large language model for long-term time series forecasting
+Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement
+Toward Efficient Permutation for Hierarchical N:M Sparsity on GPUs
+Distribution Learning for Molecular Regression
+Relaxed Equivariant Graph Neural Networks
+A Method for Fast Autonomy Transfer in Reinforcement Learning
+CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models
+Neural Surrogate HMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate Likelihood
+Designing Time-Series Models With Hypernetworks & Adversarial Portfolios
+Dataset Distillation for Offline Reinforcement Learning
+A Bayesian Flow Network Framework for Chemistry Tasks
+From pixels to planning: scale-free active inference
+Supervised Learning based Method for Condition Monitoring of Overhead Line Insulators using Leakage Current Measurement
+Spatial Temporal Approach for High-Resolution Gridded Wind Forecasting across Southwest Western Australia
+NeuSemSlice: Towards Effective DNN Model Maintenance via Neuron-level Semantic Slicing
+Robust and Efficient Transfer Learning via Supernet Transfer in Warm-started Neural Architecture Search
+Exploring the Plausibility of Hate and Counter Speech Detectors with Explainable AI
+Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models
+A Large Encoder-Decoder Family of Foundation Models For Chemical Language
+Accelerating the Low-Rank Decomposed Models
+COEFF-KANs: A Paradigm to Address the Electrolyte Field with KANs
+Revisiting the Disequilibrium Issues in Tackling Heart Disease Classification Tasks
+From A-to-Z Review of Clustering Validation Indices
+CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning
+GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models
+From Feature Importance to Natural Language Explanations Using LLMs with RAG
+Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation
+Learning Ordinality in Semantic Segmentation
+Machine learning surrogates for efficient hydrologic modeling: Insights from stochastic simulations of managed aquifer recharge
+Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification
+Assessing Graphical Perception of Image Embedding Models using Channel Effectiveness
+How to Measure the Intelligence of Large Language Models?
+ARCLE: The Abstraction and Reasoning Corpus Learning Environment for Reinforcement Learning
+AhmedML: High-Fidelity Computational Fluid Dynamics Dataset for Incompressible, Low-Speed Bluff Body Aerodynamics
+Inverse Problems with Diffusion Models: A MAP Estimation Perspective
+Persistent Sampling: Unleashing the Potential of Sequential Monte Carlo
+Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept
+Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography
+DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis
+Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks
+Efficient Multi-Objective Neural Architecture Search via Pareto Dominance-based Novelty Search
+FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks
+SharkTrack: an accurate, generalisable software for streamlining shark and ray underwater video analysis
+Accelerated forward-backward and Douglas-Rachford splitting dynamics
+Benchmarking Histopathology Foundation Models for Ovarian Cancer Bevacizumab Treatment Response Prediction from Whole Slide Images
+Neuromorphic on-chip reservoir computing with spiking neural network architectures
+Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies
+A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder
+Graphite: A Graph-based Extreme Multi-Label Short Text Classifier for Keyphrase Recommendation
+Futga: Towards Fine-grained Music Understanding through Temporally-enhanced Generative Augmentation
+Importance Corrected Neural JKO Sampling
+Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification
+Dense Self-Supervised Learning for Medical Image Segmentation
+Two-Phase Segmentation Approach for Accurate Left Ventricle Segmentation in Cardiac MRI using Machine Learning
+Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval
+Mixed Newton Method for Optimization in Complex Spaces
+LiteEFG: An Efficient Python Library for Solving Extensive-form Games
+Universal New Physics Latent Space
+Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process
+MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI
+Learning Physics-Consistent Material Behavior Without Prior Knowledge
+An Efficient Inference Framework for Early-exit Large Language Models
+Utilizing Generative Adversarial Networks for Image Data Augmentation and Classification of Semiconductor Wafer Dicing Induced Defects
+An Efficient and Flexible Deep Learning Method for Signal Delineation via Keypoints Estimation
+Making LLMs Work for Enterprise Data Tasks
+EEGMamba: Bidirectional State Space Models with Mixture of Experts for EEG Classification
+Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models
+An Uncertainty-aware Deep Learning Framework-based Robust Design Optimization of Metamaterial Units
+Riemannian Geometry-Based EEG Approaches: A Literature Review
+How Homogenizing the Channel-wise Magnitude Can Enhance EEG Classification Model?
+Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions
+NudgeRank: Digital Algorithmic Nudging for Personalized Health
+Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
+SAPG: Split and Aggregate Policy Gradients
+Characterizing Dynamical Stability of Stochastic Gradient Descent in Overparameterized Learning
+Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment
+Time series forecasting with high stakes: A field study of the air cargo industry
+AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs
+Machine Learning for predicting chaotic systems
+Hierarchically Disentangled Recurrent Network for Factorizing System Dynamics of Multi-scale Systems
+Tightening the Evaluation of PAC Bounds Using Formal Verification Results
+Adaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster Number
+Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning
+Strong Copyright Protection for Language Models via Adaptive Model Fusion
+F-KANs: Federated Kolmogorov-Arnold Networks
+An Interpretable Rule Creation Method for Black-Box Models based on Surrogate Trees -- SRules
+xAI-Drop: Dont Use What You Cannot Explain
+RelBench: A Benchmark for Deep Learning on Relational Databases
+Orca: Ocean Significant Wave Height Estimation with Spatio-temporally Aware Large Language Models
+Denoising ESG: quantifying data uncertainty from missing data with Machine Learning and prediction intervals
+Aircraft Trajectory Segmentation-based Contrastive Coding: A Framework for Self-supervised Trajectory Representation
+MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity
+On the Effects of Irrelevant Variables in Treatment Effect Estimation with Deep Disentanglement
+Classification of Alzheimers Dementia vs. Healthy subjects by studying structural disparities in fMRI Time-Series of DMN
+Can I trust my anomaly detection system? A case study based on explainable AI
+Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation
+Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank
+Boosting Graph Foundation Model from Structural Perspective
+BEExAI: Benchmark to Evaluate Explainable AI
+OpenUAS: Embeddings of Cities in Japan with Anchor Data for Cross-city Analysis of Area Usage Patterns
+Anomalous State Sequence Modeling to Enhance Safety in Reinforcement Learning
+Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning
+BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning
+Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability
+Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction
+Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting
+Revisiting Agnostic PAC Learning
+Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity
+Constructing artificial life and materials scientists with accelerated AI using Deep AndersoNN
+Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting
+Causal Interventional Prediction System for Robust and Explainable Effect Forecasting
+Revisiting the robustness of post-hoc interpretability methods
+Adaptive Soft Error Protection for Deep Learning
+Short-Term Forecasting of Photovoltaic Power Generation Based on Entropy during the Foggy Winter
+Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices
+AgEval: A Benchmark for Zero-Shot and Few-Shot Plant Stress Phenotyping with Multimodal LLMs
+TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs
+Memory-efficient Training of LLMs with Larger Mini-batches
+Sharp Bounds for Poly-GNNs and the Effect of Graph Noise
+Neural stochastic Volterra equations: learning path-dependent dynamics
+Overcoming Uncertain Incompleteness for Robust Multimodal Sequential Diagnosis Prediction via Knowledge Distillation and Random Data Erasing
+Robust Fast Adaptation from Adversarially Explicit Task Distribution Generation
+FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning
+Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain
+Causal Discovery in Linear Models with Unobserved Variables and Measurement Error
+Improved physics-informed neural network in mitigating gradient related failures
+UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks
+IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks
+NAVIX: Scaling MiniGrid Environments with JAX
+Empowering Clinicians with Medical Decision Transformers: A Framework for Sepsis Treatment
+Deep State-Space Generative Model For Correlated Time-to-Event Predictions
+Learning to Select the Best Forecasting Tasks for Clinical Outcome Prediction
+Design and Optimization of Big Data and Machine Learning-Based Risk Monitoring System in Financial Markets
+Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment
+Parameter-Efficient Fine-Tuning via Circular Convolution
+Enhancing Group Fairness in Federated Learning through Personalization
+Accounting for plasticity: An extension of inelastic Constitutive Artificial Neural Networks
+Deep Learning Based Crime Prediction Models: Experiments and Analysis
+Can Modifying Data Address Graph Domain Adaptation?
+CoLiDR: Concept Learning using Aggregated Disentangled Representations
+On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps
+Comprehensive Survey of Complex-Valued Neural Networks: Insights into Backpropagation and Activation Functions
+Ordered Momentum for Asynchronous SGD
+Alleviating Over-Smoothing via Aggregation over Compact Manifolds
+Long Range Switching Time Series Prediction via State Space Model
+A simulation study of cluster search algorithms in data set generated by Gaussian mixture models
+Towards the Dynamics of a DNN Learning Symbolic Interactions
+A collaborative ensemble construction method for federated random forest
+Efficiently improving key weather variables forecasting by performing the guided iterative prediction in latent space
+Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks
+Decomposing heterogeneous dynamical systems with graph neural networks
+Debiased Graph Poisoning Attack via Contrastive Surrogate Objective
+On the benefits of pixel-based hierarchical policies for task generalization
+Accuracy-Privacy Trade-off in the Mitigation of Membership Inference Attack in Federated Learning
+Towards Scalable and Stable Parallelization of Nonlinear RNNs
+To which reference class do you belong? Measuring racial fairness of reference classes with normative modeling
+FedAR: Addressing Client Unavailability in Federated Learning with Local Update Approximation and Rectification
+Boosted generalized normal distributions: Integrating machine learning with operations knowledge
+Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
+Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning
+Advancing Neural Network Performance through Emergence-Promoting Initialization Scheme
+GraphBPE: Molecular Graphs Meet Byte-Pair Encoding
+Stay Tuned: An Empirical Study of the Impact of Hyperparameters on LLM Tuning in Real-World Applications
+Accelerating Drug Safety Assessment using Bidirectional-LSTM for SMILES Data
+Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing
+Supertrust: Evolution-based superalignment strategy for safe coexistence
+Emergence in non-neural models: grokking modular arithmetic via average gradient outer product
+Blockchain for Large Language Model Security and Safety: A Holistic Survey
+Theia: Distilling Diverse Vision Foundation Models for Robot Learning
+Language-Conditioned Offline RL for Multi-Robot Navigation
+Quantum Machine Learning Architecture Search via Deep Reinforcement Learning
+Extreme time extrapolation capabilities and thermodynamic consistency of physics-inspired Neural Networks for the 3D microstructure evolution of materials
+UniTTA: Unified Benchmark and Versatile Framework Towards Realistic Test-Time Adaptation
+SalNAS: Efficient Saliency-prediction Neural Architecture Search with self-knowledge distillation
+Autonomous Bootstrapping of Quantum Dot Devices
+ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning
+Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks
+Collision Probability Distribution Estimation via Temporal Difference Learning
+Mixture of Nested Experts: Adaptive Processing of Visual Tokens
+Inference acceleration for large language models using "stairs" assisted greedy generation
+Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations
+Sentiment Analysis of Lithuanian Online Reviews Using Large Language Models
+Efficient Shield Synthesis via State-Space Transformation
+Making Multi-Axis Gaussian Graphical Models Scalable to Millions of Samples and Features
+Quantum Dynamics of Machine Learning
+Yucca: A Deep Learning Framework For Medical Image Analysis
+Deep Image Priors for Magnetic Resonance Fingerprinting with pretrained Bloch-consistent denoising autoencoders
+Imitation Learning for Intra-Day Power Grid Operation through Topology Actions
+AI-Powered Energy algorithmic Trading: Integrating Hidden Markov Models with Neural Networks
+Quantum Long Short-Term Memory for Drug Discovery
+RNACG: A Universal RNA Sequence Conditional Generation model based on Flow-Matching
+Analyzing and reducing the synthetic-to-real transfer gap in Music Information Retrieval: the task of automatic drum transcription
+Generalization bounds for regression and classification on adaptive covering input domains
+Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations
+Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications
+ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck
+"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence
+Experimenting on Markov Decision Processes with Local Treatments
+The Interpretability of Codebooks in Model-Based Reinforcement Learning is Limited
+Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation
+What can we learn about Reionization astrophysical parameters using Gaussian Process Regression?
+Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights
+Piecewise deterministic generative models
+Near-Isotropic Sub-AAngstrom 3D Resolution Phase Contrast Imaging Achieved by End-to-End Ptychographic Electron Tomography
+FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction
+Multi-modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification
+Uncertainty Quantification of Data Shapley via Statistical Inference
+A spring-block theory of feature learning in deep neural networks
+Integrating Large Language Models into a Tri-Modal Architecture for Automated Depression Classification
+A Semi-supervised Fake News Detection using Sentiment Encoding and LSTM with Self-Attention
+WindsorML: High-Fidelity Computational Fluid Dynamics Dataset For Automotive Aerodynamics
+GP-VLS: A general-purpose vision language model for surgery
+Bayesian meta learning for trustworthy uncertainty quantification
+Towards Robust Few-shot Class Incremental Learning in Audio Classification using Contrastive Representation
+Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications
+Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review
+Nonlinear spectral analysis extracts harmonics from land-atmosphere fluxes
+A Survey of Malware Detection Using Deep Learning
+NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization
+Super Resolution for Renewable Energy Resource Data With Wind From Reanalysis Data (Sup3rWind) and Application to Ukraine
+Parsimonious Universal Function Approximator for Elastic and Elasto-Plastic Cavity Expansion Problems
+On Machine Learning Approaches for Protein-Ligand Binding Affinity Prediction
+Effective Large Language Model Debugging with Best-first Tree Search
+Flusion: Integrating multiple data sources for accurate influenza predictions
+Rapid Likelihood Free Inference of Compact Binary Coalescences using Accelerated Hardware
+Reinforcement learning for anisotropic p-adaptation and error estimation in high-order solvers
+Graph-based Unsupervised Disentangled Representation Learning via Multimodal Large Language Models
+A maturity framework for data driven maintenance
+Low-Latency Privacy-Preserving Deep Learning Design via Secure MPC
+High-Dimensional Confidence Regions in Sparse MRI
+Autonomous Navigation of Unmanned Vehicle Through Deep Reinforcement Learning
+LEMoN: Label Error Detection using Multimodal Neighbors
+LitSearch: A Retrieval Benchmark for Scientific Literature Search
+Mitigating Cognitive Biases in Multi-Criteria Crowd Assessment
+Advancements in Recommender Systems: A Comprehensive Analysis Based on Data, Algorithms, and Evaluation
+A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery
+Dynamic Encoder Size Based on Data-Driven Layer-wise Pruning for Speech Recognition
+THEA-Code: an Autoencoder-Based IDS-correcting Code for DNA Storage
+Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
+Learning-Based WiFi Fingerprint Inpainting via Generative Adversarial Networks
+SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments
+Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation
+Wolf: Captioning Everything with a World Summarization Framework
+Small Molecule Optimization with Large Language Models
+Embedding And Clustering Your Data Can Improve Contrastive Pretraining
+An Accelerated Multi-level Monte Carlo Approach for Average Reward Reinforcement Learning with General Policy Parametrization
+Generative Adversarial Networks for Imputing Sparse Learning Performance
+Downlink CCM Estimation via Representation Learning with Graph Regularization
+Enhancing material property prediction with ensemble deep graph convolutional networks
+QT-TDM: Planning with Transformer Dynamics Model and Autoregressive Q-Learning
+The Cross-environment Hyperparameter Setting Benchmark for Reinforcement Learning
+Online Planning in POMDPs with State-Requests
+Robust Learning in Bayesian Parallel Branching Graph Neural Networks: The Narrow Width Limit
+Learning production functions for supply chains with graph neural networks
+Unsupervised Reservoir Computing for Multivariate Denoising of Severely Contaminated Signals
+FLUE: Federated Learning with Un-Encrypted model weights
+FairAIED: Navigating Fairness, Bias, and Ethics in Educational AI Applications
+AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning
+LLASP: Fine-tuning Large Language Models for Answer Set Programming
+Finite Neural Networks as Mixtures of Gaussian Processes: From Provable Error Bounds to Prior Selection
+Deep learning for predicting the occurrence of tipping points
+Graph Neural Networks for Virtual Sensing in Complex Systems: Addressing Heterogeneous Temporal Dynamics
+Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift
+A dual ensemble classifier used to recognise contaminated multi-channel EMG and MMG signals in the control of upper limb bioprosthesis
+Aspects of importance sampling in parameter selection for neural networks using ridgelet transform
+Contrastive Learning of Asset Embeddings from Financial Time Series
+Robust VAEs via Generating Process of Noise Augmented Data
+Multi-Agent Deep Reinforcement Learning for Energy Efficient Multi-Hop STAR-RIS-Assisted Transmissions
+Dual-Decoupling Learning and Metric-Adaptive Thresholding for Semi-Supervised Multi-Label Learning
+Denoising Levy Probabilistic Models
+A data balancing approach towards design of an expert system for Heart Disease Prediction
+Climbing the Complexity Ladder with Expressive Attention
+Reinforcement Learning for Sustainable Energy: A Survey
+Unveiling Privacy Vulnerabilities: Investigating the Role of Structure in Graph Data
+Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs
+Utilising Explainable Techniques for Quality Prediction in a Complex Textiles Manufacturing Use Case
+Constructing Enhanced Mutual Information for Online Class-Incremental Learning
+DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning
+TCGPN: Temporal-Correlation Graph Pre-trained Network for Stock Forecasting
+WorkR: Occupation Inference for Intelligent Task Assistance
+Conversational Dueling Bandits in Generalized Linear Models
+Practical Attribution Guidance for Rashomon Sets
+Scalable Graph Compressed Convolutions
+Diffusion-Driven Semantic Communication for Generative Models with Bandwidth Constraints
+Machine Unlearning using a Multi-GAN based Model
+MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection
+Impact of Recurrent Neural Networks and Deep Learning Frameworks on Real-time Lightweight Time Series Anomaly Detection
+A Model for Combinatorial Dictionary Learning and Inference
+Investigating the Privacy Risk of Using Robot Vacuum Cleaners in Smart Environments
+Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift
+HDL-GPT: High-Quality HDL is All You Need
+Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go
+Large Language Model Integrated Healthcare Cyber-Physical Systems Architecture
+The seismic purifier: An unsupervised approach to seismic signal detection via representation learning
+Gaussian Process Kolmogorov-Arnold Networks
+Mathematical theory of deep learning
+Physics Informed Kolmogorov-Arnold Neural Networks for Dynamical Analysis via Efficent-KAN and WAV-KAN
+Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement
+FADAS: Towards Federated Adaptive Asynchronous Optimization
+Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future
+Introducing delta-XAI: a novel sensitivity-based method for local AI explanations
+AMA-LSTM: Pioneering Robust and Fair Financial Audio Analysis for Stock Volatility Prediction
+CavDetect: A DBSCAN Algorithm based Novel Cavity Detection Model on Protein Structure
+Physics-guided machine learning predicts the planet-scale performance of solar farms with sparse, heterogeneous, public data
+Hybrid summary statistics: neural weak lensing inference beyond the power spectrum
+A Scalable Quantum Non-local Neural Network for Image Classification
+Lessons from Learning to Spin "Pens"
+AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents
+Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence
+On the Pros and Cons of Active Learning for Moral Preference Elicitation
+Utilizing TTS Synthesized Data for Efficient Development of Keyword Spotting Model
+The Role of Temporal Hierarchy in Spiking Neural Networks
+Deep Companion Learning: Enhancing Generalization Through Historical Consistency
+Interpreting artificial neural networks to detect genome-wide association signals for complex traits
+Learning Chaotic Systems and Long-Term Predictions with Neural Jump ODEs
+Log-Concave Coupling for Sampling Neural Net Posteriors
+Predicting 3D Rigid Body Dynamics with Deep Residual Network
+Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging
+A Physics-Informed Neural Network-Based Approach for the Spatial Upsampling of Spherical Microphone Arrays
+Cluster-norm for Unsupervised Probing of Knowledge
+Adaptive Contrastive Search: Uncertainty-Guided Decoding for Open-Ended Text Generation
+Rapid Object Annotation
+A Survey on Cell Nuclei Instance Segmentation and Classification: Leveraging Context and Attention
+Adversarial Robustification via Text-to-Image Diffusion Models
+Achieving interpretable machine learning by functional decomposition of black-box models into explainable predictor effects
+Fast and Reliable Probabilistic Reflectometry Inversion with Prior-Amortized Neural Posterior Estimation
+Vulnerability Detection in Ethereum Smart Contracts via Machine Learning: A Qualitative Analysis
+CardioLab: Laboratory Values Estimation from Electrocardiogram Features -- An Exploratory Study
+Using GPT-4 to guide causal machine learning
+PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning
+Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention
+Is larger always better? Evaluating and prompting large language models for non-generative medical tasks
+The formation of perceptual space in early phonetic acquisition: a cross-linguistic modeling approach
+Towards More Accurate Prediction of Human Empathy and Emotion in Text and Multi-turn Conversations by Combining Advanced NLP, Transformers-based Networks, and Linguistic Methodologies
+FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction
+Constructing the CORD-19 Vaccine Dataset
+Fairness Definitions in Language Models Explained
+Textile Anomaly Detection: Evaluation of the State-of-the-Art for Automated Quality Inspection of Carpet
+Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation
+Diffusion-based subsurface multiphysics monitoring and forecasting
+Model-driven Heart Rate Estimation and Heart Murmur Detection based on Phonocardiogram
+Self-Directed Synthetic Dialogues and Revisions Technical Report
+PersonaGym: Evaluating Persona Agents and LLMs
+Simulation of Neural Responses to Classical Music Using Organoid Intelligence Methods
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
+Thermodynamics-Consistent Graph Neural Networks
+Retinal IPA: Iterative KeyPoints Alignment for Multimodal Retinal Imaging
+Privacy-Preserving Model-Distributed Inference at the Edge
+A Comprehensive Analysis of Machine Learning Models for Algorithmic Trading of Bitcoin
+Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation
+The Need for Guardrails with Large Language Models in Medical Safety-Critical Settings: An Artificial Intelligence Application in the Pharmacovigilance Ecosystem
+Estimating the number of clusters of a Block Markov Chain
+Online Social Network Data-Driven Early Detection on Short-Form Video Addiction
+AICircuit: A Multi-Level Dataset and Benchmark for AI-Driven Analog Integrated Circuit Design
+LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits
+MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs
+Explaining the Model, Protecting Your Data: Revealing and Mitigating the Data Privacy Risks of Post-Hoc Model Explanations via Membership Inference
+CORN: Contact-based Object Representation for Nonprehensile Manipulation of General Unseen Objects
+LoRA-Pro: Are Low-Rank Adapters Properly Optimized?
+Numerical Literals in Link Prediction: A Critical Examination of Models and Datasets
+Automated Ensemble Multimodal Machine Learning for Healthcare
+Recursive Introspection: Teaching Language Model Agents How to Self-Improve
+Exploring Scaling Trends in LLM Robustness
+AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction
+Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning
+Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers
+RIDA: A Robust Attack Framework on Incomplete Graphs
+Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation
+Unsupervised Training of Neural Cellular Automata on Edge Devices
+Graph Neural Ordinary Differential Equations for Coarse-Grained Socioeconomic Dynamics
+Multi-Agent Deep Reinforcement Learning for Resilience Optimization in 5G RAN
+Cross-Vendor Reproducibility of Radiomics-based Machine Learning Models for Computer-aided Diagnosis
+The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation
+Lifelong Graph Summarization with Neural Networks: 2012, 2022, and a Time Warp
+How to Train the Teacher Model for Effective Knowledge Distillation
+Peak-Controlled Logits Poisoning Attack in Federated Distillation
+ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model
+Self-Supervision Improves Diffusion Models for Tabular Data Imputation
+HANNA: Hard-constraint Neural Network for Consistent Activity Coefficient Prediction
+Network Inversion of Convolutional Neural Nets
+Lightweight Industrial Cohorted Federated Learning for Heterogeneous Assets
+Amortized Active Learning for Nonparametric Functions
+Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks
+Neural Networks for Generating Better Local Optima in Topology Optimization
+Comparison of different Artificial Neural Networks for Bitcoin price forecasting
+An Iterative Approach to Topic Modelling
+DAM: Towards A Foundation Model for Time Series Forecasting
+EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling
+MDS-ED: Multimodal Decision Support in the Emergency Department -- a Benchmark Dataset for Diagnoses and Deterioration Prediction in Emergency Medicine
+On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study
+IsUMap: Manifold Learning and Data Visualization leveraging Vietoris-Rips filtrations
+Advanced deep-reinforcement-learning methods for flow control: group-invariant and positional-encoding networks improve learning speed and quality
+NC-NCD: Novel Class Discovery for Node Classification
+EEG-SSM: Leveraging State-Space Model for Dementia Detection
+Enhancing Diversity in Multi-objective Feature Selection
+Exploring the Limitations of Kolmogorov-Arnold Networks in Classification: Insights to Software Training and Hardware Implementation
+Integrating Ensemble Kalman Filter with AI-based Weather Prediction Model ClimaX
+DualFed: Enjoying both Generalization and Personalization in Federated Learning via Hierachical Representations
+Multi-modal Data Binding for Survival Analysis Modeling with Incomplete Data and Annotations
+Your Graph Recommender is Provably a Single-view Graph Contrastive Learning
+A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)
+Revisiting Machine Unlearning with Dimensional Alignment
+Context-aware knowledge graph framework for traffic speed forecasting using graph neural network
+Superior Scoring Rules for Probabilistic Evaluation of Single-Label Multi-Class Classification Tasks
+Transformers on Markov Data: Constant Depth Suffices
+Synthetic High-resolution Cryo-EM Density Maps with Generative Adversarial Networks
+Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs
+Generative Learning for Simulation of Vehicle Faults
+Hopfield Networks for Asset Allocation
+SMA-Hyper: Spatiotemporal Multi-View Fusion Hypergraph Learning for Traffic Accident Prediction
+SAfEPaTh: A System-Level Approach for Efficient Power and Thermal Estimation of Convolutional Neural Network Accelerator
+Towards Neural Network based Cognitive Models of Dynamic Decision-Making by Humans
+Pretraining a Neural Operator in Lower Dimensions
+Adaptive Training of Grid-Dependent Physics-Informed Kolmogorov-Arnold Networks
+Exploring Domain Robust Lightweight Reward Models based on Router Mechanism
+Dataset Distribution Impacts Model Fairness: Single vs. Multi-Task Learning
+Automated transport separation using the neural shifted proper orthogonal decomposition
+SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices
+Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal Models: An Empirical Analysis
+VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads
+Geometry Fidelity for Spherical Images
+Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning
+Sparse Incremental Aggregation in Multi-Hop Federated Learning
+Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models
+StraightLine: An End-to-End Resource-Aware Scheduler for Machine Learning Application Requests
+IRIS: Wireless Ring for Vision-based Smart Home Interaction
+X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs
+Fine-Tuning Large Language Models for Stock Return Prediction Using Newsflow
+Principal-Agent Reinforcement Learning
+HVM-1: Large-scale video models pretrained with nearly 5000 hours of human-like video data
+I can listen but cannot read: An evaluation of two-tower multimodal systems for instrument recognition
+Physics-informed nonlinear vector autoregressive models for the prediction of dynamical systems
+Learning mental states estimation through self-observation: a developmental synergy between intentions and beliefs representations in a deep-learning model of Theory of Mind
+Quadratic Advantage with Quantum Randomized Smoothing Applied to Time-Series Analysis
+iNNspector: Visual, Interactive Deep Model Debugging
+On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures
+Scaling Training Data with Lossy Image Compression
+Real Time American Sign Language Detection Using Yolo-v9
+Fast convergence of the Expectation Maximization algorithm under a logarithmic Sobolev inequality
+Guided Latent Slot Diffusion for Object-Centric Learning
+Causal Deepsets for Off-policy Evaluation under Spatial or Spatio-temporal Interferences
+Separating Novel Features for Logical Anomaly Detection: A Straightforward yet Effective Approach
+Amortized Posterior Sampling with Diffusion Prior Distillation
+The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer
+A Large-Scale Sensitivity Analysis on Latent Embeddings and Dimensionality Reductions for Text Spatializations
+Innovative Speech-Based Deep Learning Approaches for Parkinsons Disease Classification: A Systematic Review
+Long-term Fairness in Ride-Hailing Platform
+Image Segmentation via Divisive Normalization: dealing with environmental diversity
+Unified Lexical Representation for Interpretable Visual-Language Alignment
+Optimal Hessian/Jacobian-Free Nonconvex-PL Bilevel Optimization
+Demystifying Verbatim Memorization in Large Language Models
+Nested replicator dynamics, nested logit choice, and similarity-based learning
+Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?
+KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models
+Online Learning for Autonomous Management of Intent-based 6G Networks
+Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework
+Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing
+Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition with Text Description of the Environment
+Improving Online Algorithms via ML Predictions
+Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey
+Unsqueeze [CLS] Bottleneck to Learn Rich Representations
+Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-Dimensional Data-Driven Priors for Inverse Problems
+BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning
+Coupling Speech Encoders with Downstream Text Models
+Quality Assured: Rethinking Annotation Strategies in Imaging AI
+S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks
+LAMBDA: A Large Model Based Data Agent
+Driving pattern interpretation based on action phases clustering
+Challenges and Considerations in Annotating Legal Data: A Comprehensive Overview
+Unraveling Molecular Structure: A Multimodal Spectroscopic Dataset for Chemistry
+Robust Adaptation of Foundation Models with Black-Box Visual Prompting
+Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features
+LLM4PM: A case study on using Large Language Models for Process Modeling in Enterprise Organizations
+Toward Automated Detection of Biased Social Signals from the Content of Clinical Conversations
+Sparks of Quantum Advantage and Rapid Retraining in Machine Learning
+MUSE: Flexible Voiceprint Receptive Fields and Multi-Path Fusion Enhanced Taylor Transformer for U-Net-based Speech Enhancement
+
+Open-Vocabulary Audio-Visual Semantic Segmentation
+Learning Video Context as Interleaved Multimodal Sequences
+Can LLMs "Reason" in Music? An Evaluation of LLMs Capability of Music Understanding and Generation
+Design and Development of Laughter Recognition System Based on Multimodal Fusion and Deep Learning
+ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images
+MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions
+Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S
+Boosting Audio Visual Question Answering via Key Semantic-Aware Cues
+EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos
+Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing
+BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues
+Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities
+AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics
+HeadsetOff: Enabling Photorealistic Video Conferencing on Economical VR Headsets
+The Future is Meta: Metadata, Formats and Perspectives towards Interactive and Personalized AV Content
+An Inverse Partial Optimal Transport Framework for Music-guided Movie Trailer Generation
+Start from Video-Music Retrieval: An Inter-Intra Modal Loss for Cross Modal Retrieval
+MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion
+ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck
+LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment
+Detached and Interactive Multimodal Learning
+Official-NV: A News Video Dataset for Multimodal Fake News Detection
+MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability
+AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering
+Integrating Large Language Models into a Tri-Modal Architecture for Automated Depression Classification
+IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment
+Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach
+Magic3DSketch: Create Colorful 3D Models From Sketch-Based 3D Modeling Guided by Text and Language-Image Pre-Training
+Harmfully Manipulated Images Matter in Multimodal Misinformation Detection
+MangaUB: A Manga Understanding Benchmark for Large Multimodal Models
+SWIFT: Semantic Watermarking for Image Forgery Thwarting
+Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention
+Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models
+LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification
+Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives
+KI-Bilder und die Widerst"andigkeit der Medienkonvergenz: Von prim"arer zu sekund"arer Intermedialit"at?
+ReCorD: Reasoning and Correcting Diffusion for HOI Generation
+Shapley Value-based Contrastive Alignment for Multimodal Information Extraction
+Improved symbolic drum style classification with grammar-based hierarchical representations
+AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents
+
+Big5PersonalityEssays: Introducing a Novel Synthetic Generated Dataset Consisting of Short State-of-Consciousness Essays Annotated Based on the Five Factor Model of Personality
+
+A Waveguide Port Boundary Condition based on approximation space restriction for Finite Element Analysis
+Commutativity and spectral properties for a general class of Szasz-Mirakjan-Durrmeyer operators
+Stable Sparse Operator Inference for Nonlinear Structural Dynamics
+Mixed precision HODLR matrices
+A tau Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations
+Precomputing approach for a two-scale phase transition model
+Stable Rank and Intrinsic Dimension of Real and Complex Matrices
+Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing B^T phi (A) B
+On the mean-field limit of the Cucker-Smale model with Random Batch Method
+High-order quasi-interpolation with generalized Gaussian kernels restricted over tori
+Stratified regression Monte-Carlo scheme for semilinear PDEs and BSDEs with large scale parallelization on GPUs
+Quasi-Regression Monte-Carlo scheme for semi-linear PDEs and BSDEs with large scale parallelization on GPUs
+Tree-Cotree-Based Tearing and Interconnecting for 3D Magnetostatics: A Dual-Primal Approach
+The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras
+Lyapunov weights to convey the meaning of time in physics-informed neural networks
+Isogeometric-based Asymptotic Analysis on Multi-layered Thin Shells
+High-order limiting methods using maximum principle bounds derived from the Boltzmann equation I: Euler equations
+A priori error estimates for optimal control problems governed by the transient Stokes equations and subject to state constraints pointwise in time
+Error estimates for full discretization of Cahn--Hilliard equation with dynamic boundary conditions
+Robust Augmented Mixed Finite Element Methods for Stoke Interface Problems with Discontinuous Viscosity in Multiple Subdomains
+Patterns in soil organic carbon dynamics: integrating microbial activity, chemotaxis and data-driven approaches
+Adaptive planning for risk-aware predictive digital twins
+A convergent augmented SAV scheme for stochastic Cahn--Hilliard equations with dynamic boundary conditions describing contact line tension
+Optimizing Variational Physics-Informed Neural Networks Using Least Squares
+Homomorphic data compression for real time photon correlation analysis
+A Stochastic Precipitating Quasi-Geostrophic Model
+Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions
+Uncertainty Quantification under Noisy Constraints, with Applications to Raking
+Generalized Ellipsoids
+Optimal Algorithms for Quantifying Spectral Size with Applications to Quasicrystals
+GsPINN: A novel fast Green kernel solver based on symmetric Physics-Informed neural networks
+Reachable and observable sets for switched systems via generalized Lyapunov equations: application to switched descriptor systems
+Greedy Adaptive Local Recovery of Functions in Sobolev Spaces
+Convergence analysis of a helicity-preserving finite element discretisation for an incompressible magnetohydrodynamics system
+Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations
+Non-iterative complex variable solution on sequential shallow tunnelling in gravitational geomaterial with reasonable far-field displacement
+Data-driven Discovery of Delay Differential Equations with Discrete Delays
+Oscillation-free numerical schemes for Biots model and their iterative coupling solution
+From Obstacle Problems to Neural Insights: Feed Forward Neural Network Modeling of Ice Thickness
+Weighted hyperbolic cross polynomial approximation
+Weak maximum principle of finite element methods for parabolic equations in polygonal domains
+Multilevel Tau preconditioners for symmetrized multilevel Toeplitz systems with applications to solving space fractional diffusion equations
+Convergent finite elements on arbitrary meshes, the WG method
+A new approximation method for solving stochastic differential equations
+Convergence of Random Batch Method with replacement for interacting particle systems
+Forms of representation of interpolation trigonometric splines
+Numerical Analysis for a Hyperbolic PDE-Constrained Optimization Problem in Acoustic Full Waveform Inversion
+Isovolumetric Energy Minimization for Ball-Shaped Volume-Preserving Parameterizations of 3-Manifolds
+Reflective block Kaczmarz algorithms for least squares
+Permuted preconditioning for extended saddle point problem arising from Neumann boundary control
+The jump filter in the discontinuous Galerkin method for hyperbolic conservation laws
+Regularity Analysis and High-Order Time Stepping Scheme for Quasilinear Subdiffusion
+A Novel Gaussian filter-based Pressure Correction Technique with Super Compact Scheme for Unsteady 3D Incompressible, Viscous Flows
+The Variable Time-stepping DLN-Ensemble Algorithms for Incompressible Navier-Stokes Equations
+Investigation of discontinuous Galerkin methods in adjoint gradient-based aerodynamic shape optimization
+Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems
+Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations
+On a generalization of Watsons trigonometric sum, some of its properties and its relationship to Dowkers sum
+A New Higher-Order Super Compact Finite Difference Scheme to Study Three-Dimensional Non-Newtonian Flows
+Learning-based geometric shape optimization of the Dirichlet energy
+Adaptive Parameter Selection in Nudging Based Data Assimilation
+Multi-Scenario and Stochastic Thermo-Electro-Mechanical Modeling of Failure in Power Transmission Lines
+On Godunov-type finite volume methods for seismic wave propagation
+Global Solver based on the Sperner-Lemma and Mazurkewicz-Knaster-Kuratowski-Lemma based proof of the Brouwer Fixed-Point Theorem
+Hierarchical Super-Localized Orthogonal Decomposition Method
+Decoupling multistep schemes for elliptic-parabolic problems
+On the precise quantification of the impact of a single discretionary lane change on surrounding traffic
+A variational front-tracking method for multiphase flow with triple junctions
+Efficiently and accurately simulating multi-dimensional M-coupled nonlinear Schr"odinger equations with fourth-order time integrators and Fourier spectral method
+Restriction and interpolation operators for digital images and their boundaries
+Improved randomized neural network methods with boundary processing for solving elliptic equations
+A stabilized three fields formulation for Discrete Fracture Networks
+Non-intrusive model reduction of advection-dominated hyperbolic problems using neural network shift augmented manifold transformations
+Majorizing Stress Formula Two
+On reduced inertial PDE models for Cucker-Smale flocking dynamics
+A Lyapunov Analysis of Accelerated PDHG Algorithms
+Local Binary Pattern(LBP) Optimization for Feature Extraction
+Notes on symmetries and reductions of algebraic equations
+A robust and time-parallel preconditioner for parabolic reconstruction problems using Isogeometric Analysis
+3D Adaptive VEM with stabilization-free a posteriori error bounds
+Randomized greedy algorithms for neural network optimization
+A high-order, high-efficiency adaptive time filter algorithm for shale reservoir model based on coupled fluid flow with porous media flow
+Optimal Control using Composite Bernstein Approximants
+Computing an Aircrafts Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind
+Mixed Convection and Entropy Generation Analysis of CNT-Water Nanofluid in a Square Cavity with Cylinders and Flow Deflectors
+Automated transport separation using the neural shifted proper orthogonal decomposition
+
+On the Zero-Error Capacity of Semantic Channels with Input and Output Memories
+Air-to-Ground Cooperative OAM Communications
+Precoding Based Downlink OAM-MIMO Communications with Rate Splitting
+Joint Power Allocation and Placement Scheme for UAV-assisted IoT with QoS Guarantee
+Cooperative Orbital Angular Momentum Wireless Communications
+Integrated Sensing and Communication in IRS-assisted High-Mobility Systems: Design, Analysis and Optimization
+An additively optimal interpreter for approximating Kolmogorov prefix complexity
+Physical Modelling and Cancellation of External Passive Intermodulation in FDD MIMO
+Private Collaborative Edge Inference via Over-the-Air Computation
+An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming
+Secure Source Coding Resilient Against Compromised Users via an Access Structure
+Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing
+5G NR Positioning with OpenAirInterface: Tools and Methodologies
+Bayesian Optimization Framework for Channel Simulation-Based Base Station Placement and Transmission Power Design
+Non-Bayesian Social Learning with Multiview Observations
+The Entrapment Problem in Random Walk Decentralized Learning
+Propagation of Uncertainty with the Koopman Operator
+Uncertainty Propagation and Filtering via the Koopman Operator in Astrodynamics
+Graph Fourier Transform Enhancement through Envelope Extensions
+Quasi-optimum distance flag codes
+Robust Beamforming Design for Integrated Satellite-Terrestrial Maritime Communications in the Presence of Wave Fluctuation
+Beamforming Design for Max-Min Fairness Performance Balancing in ISAC Systems
+Suppressing Beam Squint Effect For Near-Field Wideband Communication Through Movable Antennas
+Error Correction Decoding Algorithms of RS Codes Based on An Earlier Termination Algorithm to Find The Error Locator Polynomial
+Model-based Super-resolution: Towards a Unified Framework for Super-resolution
+Leave-One-Out Analysis for Nonconvex Robust Matrix Completion with General Thresholding Functions
+Multi-dimensional Graph Linear Canonical Transform
+THEA-Code: an Autoencoder-Based IDS-correcting Code for DNA Storage
+To accept or not to accept? An IRT-TOE Framework to Understand Educators Resistance to Generative AI in Higher Education
+Discrete Spectrum Analysis of Vector OFDM Signals
+Application of the Lovasz-Schrijver Lift-and-Project Operator to Compact Stable Set Integer Programs
+A Versatility Measure for Parametric Risk Models
+High-Dimensional Confidence Regions in Sparse MRI
+Joint Slot and Power Optimization for Grant Free Random Access with Unknown and Heterogeneous Device Activity
+Exploiting Device Heterogeneity in Grant-Free Random Access: A Data-Driven Approach
+Secrecy Performance Analysis of Integrated RF-UWOC IoT Networks Enabled by UAV and Underwater-RIS
+Signalling and Control in Nonlinear Stochastic Systems: An Information State Approach with Applications
+Mini-Batch Gradient-Based MCMC for Decentralized Massive MIMO Detection
+A Scalable Quantum Non-local Neural Network for Image Classification
+Log-Concave Coupling for Sampling Neural Net Posteriors
+A new family of binary sequences with a low correlation via elliptic curves
+Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels
+Conversational Dueling Bandits in Generalized Linear Models
+PIR Codes, Unequal-Data-Demand Codes, and the Griesmer Bound
+On de Bruijn Arrays Codes, Part I: Nonlinear Codes
+Two-Timescale Design for Movable Antenna Array-Enabled Multiuser Uplink Communications
+Authenticated partial correction over AV-MACs: toward characterization and coding
+Time-Shifted Alternating Gelfand-Pinsker Coding for Broadcast Channels
+Graph Linear Canonical Transform Based on CM-CC-CM Decomposition
+Scaling Training Data with Lossy Image Compression
+A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment
+Bad local minima exist in the stochastic block model
+Use-dependent Biases as Optimal Action under Information Bottleneck
+Transformers on Markov Data: Constant Depth Suffices
+
+A State-of-the-Art Review of Computational Models for Analyzing Longitudinal Wearable Sensor Data in Healthcare
+LLM-for-X: Application-agnostic Integration of Large Language Models to Support Personal Writing Workflows
+The Impacts of AI Avatar Appearance and Disclosure on User Motivation
+Designing Harvesting Tools for Olive Trees: Methodological Reflections on Exploring and Incorporating Plant Perspectives in the Early Stages of Design Process
+Exploring the Role of Social Support when Integrating Generative AI into Small Business Workflows
+Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models
+Mixing Linters with GUIs: A Color Palette Design Probe
+Algorithm-Assisted Decision Making and Racial Disparities in Housing: A Study of the Allegheny Housing Assessment Tool
+A Survey on Exploratory Spatiotemporal Visual Analytics Approaches for Climate Science
+A Dataset for Multi-intensity Continuous Human Activity Recognition through Passive Sensing
+Does empirical evidence from healthy aging studies predict a practical difference between visualizations for different age groups?
+Between the AI and Me: Analysing Listeners Perspectives on AI- and Human-Composed Progressive Metal Music
+Does the Source of a Warning Matter? Examining the Effectiveness of Veracity Warning Labels Across Warners
+FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights
+Decomposed Prompting to Answer Questions on a Course Discussion Board
+Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts
+Cocobo: Exploring Large Language Models as the Engine for End-User Robot Programming
+TactIcons: Designing 3D Printed Map Icons for People who are Blind or have Low Vision
+Steps Towards an Infrastructure for Scholarly Synthesis
+A Qualitative Investigation to Design Empathetic Agents as Conversation Partners for People with Autism Spectrum Disorder
+Questionnaires for Everyone: Streamlining Cross-Cultural Questionnaire Adaptation with GPT-Based Translation Quality Evaluation
+Considering Visualization Example Galleries
+Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education
+Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago
+DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis
+Hug Reports: Supporting Expression of Appreciation between Users and Contributors of Open Source Software Packages
+Human-Data Interaction Framework: A Comprehensive Model for a Future Driven by Data and Humans
+From Feature Importance to Natural Language Explanations Using LLMs with RAG
+Visual Analysis of GitHub Issues to Gain Insights
+Assessing Graphical Perception of Image Embedding Models using Channel Effectiveness
+HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation
+Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language
+Haptic feedback of front car motion can improve driving control
+Riemannian Geometry-Based EEG Approaches: A Literature Review
+What Can Interactive Visualization do for Participatory Budgeting in Chicago?
+Visual Support for the Loop Grafting Workflow on Proteins
+MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion
+The Second Joint Workshop on Cross Reality
+PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality
+Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics
+Detection of Unknown Errors in Human-Centered Systems
+Enabling Uniform Computer Interaction Experience for Blind Users through Large Language Models
+Prototype Smart Home Environment With Biofeedback
+An Investigation of the Test-Retest Reliability of the miniPXI
+Heads Up eXperience (HUX): Always-On AI Companion for Human Computer Environment Interaction
+BEMTrace: Visualization-driven approach for deriving Building Energy Models from BIM
+Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy
+AccessShare: Co-designing Data Access and Sharing with Blind People
+Evaluating Human-AI Collaboration: A Review and Methodological Framework
+A Recipe for Success? Exploring Strategies for Improving Non-Visual Access to Cooking Instructions
+Evaluating Front-end & Back-end of Human Automation Interaction Applications A Hypothetical Benchmark
+CogNarr Ecosystem: Facilitating Group Cognition at Scale
+Enhancing Psychometric Analysis with Interactive ShinyItemAnalysis Modules
+Mitigating Cognitive Biases in Multi-Criteria Crowd Assessment
+The Design of a 3D Character Animation System for Digital Twins in the Metaverse
+Review on the Role of Virtual Reality in Reducing Mental Health Diseases Specifically Stress, Anxiety, and Depression
+To accept or not to accept? An IRT-TOE Framework to Understand Educators Resistance to Generative AI in Higher Education
+Exploring Large Language Models to generate Easy to Read content
+Leveraging Foundation Models for Zero-Shot IoT Sensing
+Do Text-to-Vis Benchmarks Test Real Use of Visualisations?
+"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Conversational AI Multi-Agent Interoperability, Universal Open APIs for Agentic Natural Language Multimodal Communications
+ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding
+The influence of Automated Decision-Making systems in the context of street-level bureaucrats practices
+Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
+On the Pros and Cons of Active Learning for Moral Preference Elicitation
+Engaging with Childrens Artwork in Mixed Visual-Ability Families
+Design Frictions on Social Media: Balancing Reduced Mindless Scrolling and User Satisfaction
+Who Let the Guards Out: Visual Support for Patrolling Games
+Mind the Visual Discomfort: Assessing Event-Related Potentials as Indicators for Visual Strain in Head-Mounted Displays
+Quantifying Emotional Responses to Immutable Data Characteristics and Designer Choices in Data Visualizations
+Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives
+FemQuest: An Interactive Multiplayer Game to Engage Girls in Programming
+TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+Effect of Duration and Delay on the Identifiability of VR Motion
+Effect of Data Degradation on Motion Re-Identification
+Several questions of visual generation in 2024
+Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs
+IRIS: Wireless Ring for Vision-based Smart Home Interaction
+ComPeer: A Generative Conversational Agent for Proactive Peer Support
+iNNspector: Visual, Interactive Deep Model Debugging
+Discursive Patinas: Anchoring Discussions in Data Visualizations
+Micro Visualizations on a Smartwatch: Assessing Reading Performance While Walking
+TwIPS: A Large Language Model Powered Texting Application to Simplify Conversational Nuances for Autistic Users
+DesignChecker: Visual Design Support for Blind and Low Vision Web Developers
+Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing
+Accessibility evaluation of major assistive mobile applications available for the visually impaired
+The Human-GenAI Value Loop in Human-Centered Innovation: Beyond the Magical Narrative
+AI in Remote Patient Monitoring
+AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents
+Collective Attention in Human-AI Teams
+Untangling Cognitive Processes Underlying Knowledge Work
+A Survey of Accessible Explainable Artificial Intelligence Research
+LLM4PM: A case study on using Large Language Models for Process Modeling in Enterprise Organizations
+Tool-Assisted Learning of Computational Reductions
+EEG-SSM: Leveraging State-Space Model for Dementia Detection
+Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?
+
+An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification
+Self-Sovereign Identity for Consented and Content-Based Access to Medical Records using Blockchain
+LLM-Find: An Autonomous GIS Agent Framework for Geospatial Data Retrieval
+CultureVo: The Serious Game of Utilizing Gen AI for Enhancing Cultural Intelligence
+Exploring Liquid Neural Networks on Loihi-2
+Neuromorphic on-chip reservoir computing with spiking neural network architectures
+Mapping the Digital Healthcare Revolution
+Brain-inspired polymer dendrite networks for morphology-dependent computing hardware
+Rouser: Robust SNN training using adaptive threshold learning
+Quantum Machine Learning Architecture Search via Deep Reinforcement Learning
+To accept or not to accept? An IRT-TOE Framework to Understand Educators Resistance to Generative AI in Higher Education
+Autonomous Bootstrapping of Quantum Dot Devices
+From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks
+Requirements on bit resolution in optical Ising machine implementations
+Reverse Map Projections as Equivariant Quantum Embeddings
+Introducing a new hyper-parameter for RAG: Context Window Utilization
+Nomadic Non-Public Networks for 6G: Use Cases and Key Performance Indicators
+Heads Up eXperience (HUX): Always-On AI Companion for Human Computer Environment Interaction
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Danish DPA Banned the Use of Google Chromebooks and Google Workspace in Schools in Helsingor Municipality
+Interactive Learning in Computer Science Education Supported by a Discord Chatbot
+THEA-Code: an Autoencoder-Based IDS-correcting Code for DNA Storage
+Topology Optimization of Random Memristors for Input-Aware Dynamic SNN
+Integration of Quantum Accelerators into HPC: Toward a Unified Quantum Platform
+TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals
+Q-gen: A Parameterized Quantum Circuit Generator
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
+SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits
+IRIS: Wireless Ring for Vision-based Smart Home Interaction
+A Sensitivity Analysis of Cellular Automata and Heterogeneous Topology Networks: Partially-Local Cellular Automata and Homogeneous Homogeneous Random Boolean Networks
+Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields
+
+Berkeley Humanoid: A Research Platform for Learning-based Control
+ReplanVLM: Replanning Robotic Tasks with Visual Language Models
+Diagnostic Runtime Monitoring with Martingales
+Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)
+Pedestrian Inertial Navigation: An Overview of Model and Data-Driven Approaches
+Vision and Contact based Optimal Control for Autonomous Trocar Docking
+Locomotion Dynamics of an Underactuated Three-Link Robotic Vehicle
+Interpreting and learning voice commands with a Large Language Model for a robot system
+DIABLO: A 6-DoF Wheeled Bipedal Robot Composed Entirely of Direct-Drive Joints
+Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments
+Rico: extended TIAGo robot towards up-to-date social and assistive robot usage scenarios
+Dynamic Gesture Recognition in Ultra-Range Distance for Effective Human-Robot Interaction
+SuperVINS: A visual-inertial SLAM framework integrated deep learning features
+A Cooperation Control Framework Based on Admittance Control and Time-varying Passive Velocity Field Control for Human--Robot Co-carrying Tasks
+MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration
+DEF-oriCORN: efficient 3D scene understanding for robust language-directed manipulation without demonstrations
+Four-Axis Adaptive Fingers Hand for Object Insertion: FAAF Hand
+VITAL: Visual Teleoperation to Enhance Robot Learning through Human-in-the-Loop Corrections
+Learning Stable Robot Grasping with Transformer-based Tactile Control Policies
+Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries
+Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner
+Analyzing the impact of semantic LoD3 building models on image-based vehicle localization
+VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning
+SmileyNet -- Towards the Prediction of the Lottery by Reading Tea Leaves with AI
+Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving
+High-Dimensional Fault Tolerance Testing of Highly Automated Vehicles Based on Low-Rank Models
+A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval
+Autonomous Improvement of Instruction Following Skills via Foundation Models
+ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry
+Survey of Design Paradigms for Social Robots
+A flexible framework for accurate LiDAR odometry, map manipulation, and localization
+Haptic feedback of front car motion can improve driving control
+Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning
+Scene-Specific Trajectory Sets: Maximizing Representation in Motion Forecasting
+Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation
+BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World
+Registering Neural 4D Gaussians for Endoscopic Surgery
+Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration
+Radiance Fields for Robotic Teleoperation
+Theia: Distilling Diverse Vision Foundation Models for Robot Learning
+Language-Conditioned Offline RL for Multi-Robot Navigation
+Autonomous and Teleoperation Control of a Drawing Robot Avatar
+Counterfactual rewards promote collective transport using individually controlled swarm microrobots
+Collision Probability Distribution Estimation via Temporal Difference Learning
+Integrated Scenario-based Analysis: A data-driven approach to support automated driving systems development and safety evaluation
+Neural Control Barrier Functions for Safe Navigation
+A Differential Dynamic Programming Framework for Inverse Reinforcement Learning
+Language-driven Grasp Detection with Mask-guided Attention
+Design and Control of a Novel Six-Degree-of-Freedom Hybrid Robotic Arm
+Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics
+Motion Manifold Flow Primitives for Language-Guided Trajectory Generation
+Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data
+EPD: Long-term Memory Extraction, Context-awared Planning and Multi-iteration Decision @ EgoPlan Challenge ICML 2024
+HD-maps as Prior Information for Globally Consistent Mapping in GPS-denied Environments
+Grasping Force Control and Adaptation for a Cable-Driven Robotic Hand
+Rendezvous and Merging for Two Metamorphic Robotic Systems without Global Compass
+A Resource-Efficient Decentralized Sequential Planner for Spatiotemporal Wildfire Mitigation
+Genetic Algorithm-based Routing and Scheduling for Wildfire Suppression using a Team of UAVs
+Relational Q-Functionals: Multi-Agent Learning to Recover from Unforeseen Robot Malfunctions in Continuous Action Domains
+Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments
+Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation
+Autonomous Navigation of Unmanned Vehicle Through Deep Reinforcement Learning
+SAPG: Split and Aggregate Policy Gradients
+Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning
+"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence
+Forecast-PEFT: Parameter-Efficient Fine-Tuning for Pre-trained Motion Forecasting Models
+Small-Gain Theorem Based Distributed Prescribed-Time Convex Optimization For Networked Euler-Lagrange Systems
+ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding
+Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions
+Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches
+Large Language Models for Human-like Autonomous Driving: A Survey
+Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains
+On the benefits of pixel-based hierarchical policies for task generalization
+Solving Robotics Problems in Zero-Shot with Vision-Language Models
+HRP: Human Affordances for Robotic Pre-Training
+Lessons from Learning to Spin "Pens"
+SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces
+Morphing median fin enhances untethered bionic robotic tunas linear acceleration and turning maneuverability
+Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects
+HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM
+Divide and Conquer: A Systematic Approach for Industrial Scale High-Definition OpenDRIVE Generation from Sparse Point Clouds
+Optimizing Design and Control Methods for Using Collaborative Robots in Upper-Limb Rehabilitation
+PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+PANDORA: The Open-Source, Structurally Elastic Humanoid Robot
+Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network
+ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments
+Distributed Multi-robot Online Sampling with Budget Constraints
+Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications
+Gaussian Lane Keeping: A Robust Prediction Baseline
+Needle Segmentation Using GAN: Restoring Thin Instrument Visibility in Robotic Ultrasound
+Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems
+Atmospheric Density-Compensating Model Predictive Control for Targeted Reentry of Drag-Modulated Spacecraft
+Multi-Robot System Architecture design in SysML and BPMN
+CodedVO: Coded Visual Odometry
+Influence Vectors Control for Robots Using Cellular-like Binary Actuators
+YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems
+Egocentric Robots in a Human-Centric World? Exploring Group-Robot-Interaction in Public Spaces
+Lightweight Language-driven Grasp Detection using Conditional Consistency Model
+Time-Optimal Planning for Long-Range Quadrotor Flights: An Automatic Optimal Synthesis Approach
+A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment
+Goal Estimation-based Adaptive Shared Control for Brain-Machine Interfaces Remote Robot Navigation
+Complex picking via entanglement of granular mechanical metamaterials
+PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression
+RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control
+Adaptive Robot Detumbling of a Non-Rigid Satellite
+Amplifying the Kinematics of Origami Mechanisms With Spring Joints
+Quality Diversity for Robot Learning: Limitations and Future Directions
+Meta-Reinforcement Learning for Universal Quadrupedal Locomotion Control
+Passive wing deployment and retraction in beetles and flapping microrobots
+PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
+Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception
+Pose, Velocity and Landmark Position Estimation Using IMU and Bearing Measurements
+TiCoSS: Tightening the Coupling between Semantic Segmentation and Stereo Matching within A Joint Learning Framework
+Learning mental states estimation through self-observation: a developmental synergy between intentions and beliefs representations in a deep-learning model of Theory of Mind
+Personalized and Context-aware Route Planning for Edge-assisted Vehicles
+StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory
+Strategic Pseudo-Goal Perturbation for Deadlock-Free Multi-Agent Navigation in Social Mini-Games
+CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions
+CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery
+Driving pattern interpretation based on action phases clustering
+
+Optimal price signal generation for demand-side energy management
+Assessing the Reliability Benefits of Energy Storage as a Transmission Asset
+Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner
+Long-Term Forecasts of Failures in Wind Turbines
+H-Watch: An Open, Connected Platform for AI-Enhanced COVID19 Infection Symptoms Monitoring and Contact Tracing
+RF Power Transmission for Self-sustaining Miniaturized IoT Devices
+On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems
+Hidden Cyber-Physical Contingency Identification, Classification and Evaluation in Modern Power Systems
+Multi-Task Learning for Few-Shot Online Adaptation under Signal Temporal Logic Specifications
+Data-driven Modeling for Grid Edge IBRs: A Digital Twin Perspective of User-Defined Models
+Long-Term Energy Management for Microgrid with Hybrid Hydrogen-Battery Energy Storage: A Prediction-Free Coordinated Optimization Framework
+CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment
+Machine Learning In-Sensors: Computation-enabled Intelligent Sensors For Next Generation of IoT
+Hyper parametric timed CTL
+Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models
+Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic Approach
+Data-Driven Abstractions via Binary-Tree Gaussian Processes for Formal Verification
+Robust LQ Optimal Control for Wind Turbine Power Tracking Operation
+Impact of Geographical Separation on Spectrum Sharing Markets
+Distributed Adaptive Time-Varying Optimization with Global Asymptotic Convergence
+Embracing Fairness in Consumer Electricity Markets using an Automatic Market Maker
+Input Convex Neural Network-Assisted Optimal Power Flow in Distribution Networks: Modeling, Algorithm Design, and Applications
+Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis
+Learning to Provably Satisfy High Relative Degree Constraints for Black-Box Systems
+Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S
+Multivariable Extremum Seeking Control for Dynamic Maps through Sliding Modes and Periodic Switching Function
+Implementation of Formal Standard for Interoperability in M&S/System of Systems Integration with DEVS/SOA
+Accelerated forward-backward and Douglas-Rachford splitting dynamics
+An anisotropic traffic flow model with look-ahead effect for mixed autonomy traffic
+Haptic feedback of front car motion can improve driving control
+Generalized Ellipsoids
+Meta-Learning for Adaptive Control with Automated Mirror Descent
+As Transparent as Possible, System Implementation Governance Using Process Mining
+A Family of Switching Pursuit Strategies for a Multi-Pursuer Single-Evader Game
+Minimum Time Consensus of Multi-agent System under Fuel Constraints
+Culsans: An Efficient Snoop-based Coherency Unit for the CVA6 Open Source RISC-V application processor
+Design and Testing for Steel Support Axial Force Servo System
+ProRuka: A highly efficient HMI algorithm for controlling a novel prosthetic hand with 6-DOF using sonomyography
+Perspective on the Marine Simulator for Autonomous Vessel Development
+Passivity based Stability Assessment for Four types of Droops for DC Microgrids
+A Baseline Approach for Modeling and Characterization of Commercial Off-The-Shelf (COTS) Droop Controlled Converter
+Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions
+Symmetric Locality: Definition and Initial Results
+Taylor-Expansion-Based Robust Power Flow in Unbalanced Distribution Systems: A Hybrid Data-Aided Method
+Impact of Transmission Dynamics and Treatment Uptake, Frequency and Timing on the Cost-effectiveness of Directly Acting Antivirals for Hepatitis C Virus Infection
+Network-Based Epidemic Control Through Optimal Travel and Quarantine Management
+Adaptive Target Tracking Using Retrospective Cost Input Estimation
+Machine Learning for Equitable Load Shedding: Real-time Solution via Learning Binding Constraints
+State estimation for a class of nonlinear time-varying uncertain system under multiharmonic disturbance
+TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models
+A Modular Measurement Integrity Verification for Transformer Currents with Applications in Hardware in-the-Loop Digital Twin
+SAPG: Split and Aggregate Policy Gradients
+Time series forecasting with high stakes: A field study of the air cargo industry
+Emission Reduction in Urban Environments by Replacing Conventional City Buses with Electric Bus Technology: A Case Study of Pakistan
+Performance Study of Various Relay Nodes in 5G Wireless Network
+Efficient Shield Synthesis via State-Space Transformation
+A Differential Dynamic Programming Framework for Inverse Reinforcement Learning
+Imitation Learning for Intra-Day Power Grid Operation through Topology Actions
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Bayesian meta learning for trustworthy uncertainty quantification
+B-ISAC: Backscatter Integrated Sensing and Communication for 6G IoE Applications
+A Low-Frequency Vibration Experimental Platform for University Physics Experiment Designed by LabVIEW
+Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments
+Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation
+A Fault Prognostic System for the Turbine Guide Bearings of a Hydropower Plant Using Long-Short Term Memory (LSTM)
+A maturity framework for data driven maintenance
+Leader-Follower Formation and Tracking Control of Underactuated Surface Vessels
+Atmospheric Density-Compensating Model Predictive Control for Targeted Reentry of Drag-Modulated Spacecraft
+Piecewise constant tuning gain based singularity-free MRAC with application to aircraft control systems
+On the Number of Observation Nodes in Boolean Networks
+Finite-time and bumpless transfer control of asynchronously switched systems: An output feedback control approach
+Regret-Optimal Defense Against Stealthy Adversaries: A System Level Approach
+Robust Optimal Network Topology Switching for Zero Dynamics Attacks
+SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces
+Distributionally Robust Kalman Filtering over Finite and Infinite Horizon
+Optimal Control on Positive Cones
+Reinforcement Learning for Sustainable Energy: A Survey
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+PANDORA: The Open-Source, Structurally Elastic Humanoid Robot
+Integrating Posture Control in Speech Motor Models: A Parallel-Structured Simulation Approach
+On Asymptotic Analysis of Perturbed Sweeping Processes with Application to Optimization
+Multiphysics Modeling on Photoconductive Antennas for Terahertz Applications
+Phase transition in a kinetic mean-field game model of inertial self-propelled agents
+Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems
+Flexible and Cost-Effective Spherical to Cartesian Coordinate Conversion Using 3-D CORDIC Algorithm on FPGA
+Optimal Assignment and Motion Control in Two-Class Continuum Swarms
+Identification of a time-varying SIR Model for Covid-19
+Pose, Velocity and Landmark Position Estimation Using IMU and Bearing Measurements
+Control Informed Design of the IAC Autonomous Racecar for Operation at the Dynamic Envelope
+Satellite Internet of Things Research Report
+Robust Iterative Learning for Collaborative Road Profile Estimation and Active Suspension Control in Connected Vehicles
+Competitive Perimeter Defense in Tree Environments
+Optimal Control using Composite Bernstein Approximants
+Computing an Aircrafts Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind
+Time-Optimal Planning for Long-Range Quadrotor Flights: An Automatic Optimal Synthesis Approach
+Design, Key Techniques and System-Level Simulation for NB-IoT Networks
+
+Responsive ML inference in multi-tenanted environments using AQUA
+FTuner: A Fast Dynamic Shape Tensors Program Auto-Tuner for Deep Learning Compilers
+DDU-Net: A Domain Decomposition-based CNN on Multiple GPUs
+Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes
+Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks
+On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds
+Federated Learning as a Service for Hierarchical Edge Networks with Heterogeneous Models
+Switchboard: An Open-Source Framework for Modular Simulation of Large Hardware Systems
+The Entrapment Problem in Random Walk Decentralized Learning
+Memristive Linear Algebra
+Two parallel dynamic lexicographic algorithms for factorization sets in numerical semigroups
+Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization
+Efficient Training of Large Language Models on Distributed Infrastructures: A Survey
+Enabling Message Passing Interface Containers on the LUMI Supercomputer
+Before and After Blockchain: Development and Principle of Distributed Fault Tolerance Consensus
+Performance Optimization of High-Conflict Transactions within the Hyperledger Fabric Blockchain
+Lock-Free Computation of PageRank in Dynamic Graphs
+FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction
+Binary Bleed: Fast Distributed and Parallel Method for Automatic Model Selection
+Optimizing Checkpoint-Restart Mechanisms for HPC with DMTCP in Containers at NERSC
+Blockchain for Large Language Model Security and Safety: A Holistic Survey
+Prichain II: CloudGuardian Cloud Security Proposal with Blockchain
+Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference
+Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training
+Ordered Momentum for Asynchronous SGD
+A collaborative ensemble construction method for federated random forest
+Rendezvous and Merging for Two Metamorphic Robotic Systems without Global Compass
+FedAR: Addressing Client Unavailability in Federated Learning with Local Update Approximation and Rectification
+Lectures on Parallel Computing
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
+Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows
+HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications
+FADAS: Towards Federated Adaptive Asynchronous Optimization
+Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future
+Sparse Incremental Aggregation in Multi-Hop Federated Learning
+StraightLine: An End-to-End Resource-Aware Scheduler for Machine Learning Application Requests
+k-Center Clustering in Distributed Models
+Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction
+Empowering the Quantum Cloud User with QRIO
+PARS3: Parallel Sparse Skew-Symmetric Matrix-Vector Multiplication with Reverse Cuthill-McKee Reordering
+A Distributed Edge FLISR Solution & Network Simulation Test Platform
+Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning
+DualFed: Enjoying both Generalization and Personalization in Federated Learning via Hierachical Representations
+SOK: Blockchain for Provenance
+SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices
+Sky^epsilon-Tree: Embracing the Batch Updates of B^epsilon-trees through Access Port Parallelism on Skyrmion Racetrack Memory
+
+Hyper parametric timed CTL
+Data-Driven Abstractions via Binary-Tree Gaussian Processes for Formal Verification
+RE#: High Performance Derivative-Based Regex Matching with Intersection, Complement and Lookarounds
+Tight Bounds for the Number of Absent Scattered Factors
+Detecting and explaining (in)equivalence of context-free grammars
+Reachability for Multi-Priced Timed Automata with Positive and Negative Rates
+On the Minimisation of Deterministic and History-Deterministic Generalised (co)B"uchi Automata
+The Existential Theory of the Reals as a Complexity Class: A Compendium
+Regular language quantum states
+A process algebraic framework for multi-agent dynamic epistemic systems
+
+Regrading Policies for Flexible Information Flow Control in Session-Typed Concurrency
+Formal Foundations for Translational Separation Logic Verifiers (extended version)
+Detecting and explaining (in)equivalence of context-free grammars
+Compilation of Commit Changes within Java Source Code Repositories
+
+Does empirical evidence from healthy aging studies predict a practical difference between visualizations for different age groups?
+Accelerating Transfer Function Update for Distance Map based Volume Rendering
+Deformable 3D Shape Diffusion Model
+Seamless Parametrization in Penner Coordinates
+Fine-grained Metrics for Point Cloud Semantic Segmentation
+A Comparative Study of Neural Surface Reconstruction for Scientific Visualization
+Monocular Human-Object Reconstruction in the Wild
+StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset
+Physically-based Path Tracer using WebGPU and OpenPBR
+From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks
+colorspace: A Python Toolbox for Manipulating and Assessing Colors and Palettes
+Structure-Aware Simplification for Hypergraph Visualization
+FreeShell: A Context-Free 4D Printing Technique for Fabricating Complex 3D Triangle Mesh Shells
+WindPoly: Polygonal Mesh Reconstruction via Winding Numbers
+NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization
+A multilevel backbone extraction framework
+textscPerm: A Parametric Representation for Multi-Style 3D Hair Modeling
+Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
+WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds
+Predicting 3D Rigid Body Dynamics with Deep Residual Network
+Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models
+3D Hole Filling using Deep Learning Inpainting
+Drawing ellipses and elliptical arcs with piecewise cubic Bezier curve approximations
+Topology-Preserving Downsampling of Binary Images
+PatchEX: High-Quality Real-Time Temporal Supersampling through Patch-based Parallel Extrapolation
+
+Grid-Based Decompositions for Spatial Data under Local Differential Privacy
+Self-Sovereign Identity for Consented and Content-Based Access to Medical Records using Blockchain
+Fingerprint Theft Using Smart Padlocks: Droplock Exploits and Defenses
+Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models
+LFFR: Logistic Function For (multi-output) Regression
+FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs
+Differentially Private Block-wise Gradient Shuffle for Deep Learning
+Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens
+DeepBaR: Fault Backdoor Attack on Deep Neural Network Layers
+Private Collaborative Edge Inference via Over-the-Air Computation
+Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent
+Watermarking Recommender Systems
+Distributed Symmetric Key Establishment: a Scalable Quantum-Safe Key Distribution Protocol
+SoK: Payment Channel Networks
+On the MacWilliams Theorem over Codes and Lattices
+Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification
+Automated Physical Design Watermarking Leveraging Graph Neural Networks
+Excavating Vulnerabilities Lurking in Multi-Factor Authentication Protocols: A Systematic Security Analysis
+From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks
+Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes
+Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks
+Enabling Contextual Soft Moderation on Social Media through Contrastive Textual Deviation
+Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks
+Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT
+Can LLMs be Fooled? Investigating Vulnerabilities in LLMs
+Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
+Blockchain for Large Language Model Security and Safety: A Holistic Survey
+Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise
+Private and Secure Fuzzy Name Matching
+Prichain II: CloudGuardian Cloud Security Proposal with Blockchain
+Integrated Communications and Security: RIS-Assisted Simultaneous Transmission and Generation of Secret Keys
+Lightweight Dataset for Decoy Development to Improve IoT Security
+Fast Private Location-based Information Retrieval Over the Torus
+Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning
+Efficiently and Effectively: A Two-stage Approach to Balance Plaintext and Encrypted Text for Traffic Classification
+Towards Detecting IoT Event Spoofing Attacks Using Time-Series Classification
+Segmented Private Data Aggregation in the Multi-message Shuffle Model
+Maximal Extractable Value Mitigation Approaches in Ethereum and Layer-2 Chains: A Comprehensive Survey
+Diffie-Hellman Picture Show: Key Exchange Stories from Commercial VoWiFi Deployments
+Breaking the Balance of Power: Commitment Attacks on Ethereums Reward Mechanism
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Complete Security and Privacy for AI Inference in Decentralized Systems
+AndroCon: Conning Location Services in Android
+Seamless Website Fingerprinting in Multiple Environments
+The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+Enhancing cybersecurity defenses: a multicriteria decision-making approach to MITRE ATT&CK mitigation strategy
+EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection
+Learning Sparse Parity with Noise in Linear Samples
+Collaborative CP-NIZKs: Modular, Composable Proofs for Distributed Secrets
+Towards Clean-Label Backdoor Attacks in the Physical World
+A Survey of Malware Detection Using Deep Learning
+Task Offloading in Fog Computing with Deep Reinforcement Learning: Future Research Directions Based on Security and Efficiency Enhancements
+SWIFT: Semantic Watermarking for Image Forgery Thwarting
+Low-Latency Privacy-Preserving Deep Learning Design via Secure MPC
+Prompt Injection Attacks on Large Language Models in Oncology
+Towards A Post-Quantum Cryptography in Blockchain I: Basic Review on Theoretical Cryptography and Quantum Information Theory
+Towards a Novel Privacy-Preserving Distributed Multiparty Data Outsourcing Scheme for Cloud Computing with Quantum Key Distribution
+Strong Copyright Protection for Language Models via Adaptive Model Fusion
+F-KANs: Federated Kolmogorov-Arnold Networks
+BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning
+Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability
+Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction
+Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference
+Navigating the United States Legislative Landscape on Voice Privacy: Existing Laws, Proposed Bills, Protection for Children, and Synthetic Data for AI
+Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain
+Danish DPA Banned the Use of Google Chromebooks and Google Workspace in Schools in Helsingor Municipality
+Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy
+On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps
+A collaborative ensemble construction method for federated random forest
+Debiased Graph Poisoning Attack via Contrastive Surrogate Objective
+Reexamination of the realtime protection for user privacy in practical quantum private query
+Accuracy-Privacy Trade-off in the Mitigation of Membership Inference Attack in Federated Learning
+HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics
+Accurate and Scalable Detection and Investigation of Cyber Persistence Threats
+Java-Class-Hijack: Software Supply Chain Attack for Java based on Maven Dependency Resolution and Java Classloading
+A Public Dataset For the ZKsync Rollup
+VeriCHERI: Exhaustive Formal Security Verification of CHERI at the RTL
+Vulnerability Detection in Ethereum Smart Contracts via Machine Learning: A Qualitative Analysis
+Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks
+Capturing the security expert knowledge in feature selection for web application attack detection
+Effect of Duration and Delay on the Identifiability of VR Motion
+Effect of Data Degradation on Motion Re-Identification
+Privacy-Preserving Model-Distributed Inference at the Edge
+MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection
+Enhanced Privacy Bound for Shuffle Model with Personalized Privacy
+Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review
+On the Design of Ethereum Data Availability Sampling: A Comprehensive Simulation Study
+The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models
+Is the Digital Forensics and Incident Response Pipeline Ready for Text-Based Threats in LLM Era?
+PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation
+Utilizing Blockchain and Smart Contracts for Enhanced Fraud Prevention and Minimization in Health Insurance through Multi-Signature Claim Processing
+Towards the Blockchain Massive Adoption with Permissionless Storage
+SOK: Blockchain for Provenance
+Semi-Compressed CRYSTALS-Kyber
+Explaining the Model, Protecting Your Data: Revealing and Mitigating the Data Privacy Risks of Post-Hoc Model Explanations via Membership Inference
+Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal Models: An Empirical Analysis
+Exploring Scaling Trends in LLM Robustness
+Blockchain Takeovers in Web 3.0: An Empirical Study on the TRON-Steem Incident
+Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?
+The Power of Graph Sparsification in the Continual Release Model
+Quantifying the Blockchain Trilemma: A Comparative Analysis of Algorand, Ethereum 2.0, and Beyond
+
+Towards Error Correction for Computing in Racetrack Memory
+Blink: Fast Automated Design of Run-Time Power Monitors on FPGA-Based Computing Platforms
+EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models
+Functional ISS-Driven Verification of Superscalar RISC-V Processors
+Optical Computing for Deep Neural Network Acceleration: Foundations, Recent Developments, and Emerging Directions
+Machine Learning In-Sensors: Computation-enabled Intelligent Sensors For Next Generation of IoT
+Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic
+UpDown: Programmable fine-grained Events for Scalable Performance on Irregular Applications
+Configurable Multi-Port Memory Architecture for High-Speed Data Communication
+Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks
+Exploring Liquid Neural Networks on Loihi-2
+Automated Physical Design Watermarking Leveraging Graph Neural Networks
+Switchboard: An Open-Source Framework for Modular Simulation of Large Hardware Systems
+A High-Throughput FPGA Accelerator for Lightweight CNNs With Balanced Dataflow
+Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board
+HENNC: Hardware Engine for Artificial Neural Network-based Chaotic Oscillators
+RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning
+RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction
+STT-RAM-based Hierarchical In-Memory Computing
+ARC: DVFS-Aware Asymmetric-Retention STT-RAM Caches for Energy-Efficient Multicore Processors
+SCART: Predicting STT-RAM Cache Retention Times Using Machine Learning
+Non-Overlapping Placement of Macro Cells based on Reinforcement Learning in Chip Design
+AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs
+Classification-Based Automatic HDL Code Generation Using LLMs
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design
+AICircuit: A Multi-Level Dataset and Benchmark for AI-Driven Analog Integrated Circuit Design
+Large Language Model for Verilog Generation with Golden Code Feedback
+LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits
+MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs
+Latency optimized Deep Neural Networks (DNNs): An Artificial Intelligence approach at the Edge using Multiprocessor System on Chip (MPSoC)
+Flexible and Cost-Effective Spherical to Cartesian Coordinate Conversion Using 3-D CORDIC Algorithm on FPGA
+MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning
+HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline
+An Energy-Efficient Artefact Detection Accelerator on FPGAs for Hyper-Spectral Satellite Imagery
+Sky^epsilon-Tree: Embracing the Batch Updates of B^epsilon-trees through Access Port Parallelism on Skyrmion Racetrack Memory
+SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits
+Exploring the Limitations of Kolmogorov-Arnold Networks in Classification: Insights to Software Training and Hardware Implementation

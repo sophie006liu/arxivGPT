@@ -1,0 +1,40 @@
+Open-Vocabulary Audio-Visual Semantic Segmentation
+Learning Video Context as Interleaved Multimodal Sequences
+Can LLMs "Reason" in Music? An Evaluation of LLMs' Capability of Music Understanding and Generation
+Design and Development of Laughter Recognition System Based on Multimodal Fusion and Deep Learning
+ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images
+MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions
+Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S
+Boosting Audio Visual Question Answering via Key Semantic-Aware Cues
+EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos
+Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing
+BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues
+Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities
+AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics
+HeadsetOff: Enabling Photorealistic Video Conferencing on Economical VR Headsets
+The Future is Meta: Metadata, Formats and Perspectives towards Interactive and Personalized AV Content
+An Inverse Partial Optimal Transport Framework for Music-guided Movie Trailer Generation
+Start from Video-Music Retrieval: An Inter-Intra Modal Loss for Cross Modal Retrieval
+MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion
+ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck
+LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment
+Detached and Interactive Multimodal Learning
+Official-NV: A News Video Dataset for Multimodal Fake News Detection
+MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability
+AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering
+Integrating Large Language Models into a Tri-Modal Architecture for Automated Depression Classification
+IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment
+Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach
+Magic3DSketch: Create Colorful 3D Models From Sketch-Based 3D Modeling Guided by Text and Language-Image Pre-Training
+Harmfully Manipulated Images Matter in Multimodal Misinformation Detection
+MangaUB: A Manga Understanding Benchmark for Large Multimodal Models
+SWIFT: Semantic Watermarking for Image Forgery Thwarting
+Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention
+Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models
+LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification
+Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives
+KI-Bilder und die Widerst\"andigkeit der Medienkonvergenz: Von prim\"arer zu sekund\"arer Intermedialit\"at?
+ReCorD: Reasoning and Correcting Diffusion for HOI Generation
+Shapley Value-based Contrastive Alignment for Multimodal Information Extraction
+Improved symbolic drum style classification with grammar-based hierarchical representations
+AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents

@@ -1,0 +1,46 @@
+Responsive ML inference in multi-tenanted environments using AQUA
+FTuner: A Fast Dynamic Shape Tensors Program Auto-Tuner for Deep Learning Compilers
+DDU-Net: A Domain Decomposition-based CNN on Multiple GPUs
+Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes
+Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks
+On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds
+Federated Learning as a Service for Hierarchical Edge Networks with Heterogeneous Models
+Switchboard: An Open-Source Framework for Modular Simulation of Large Hardware Systems
+The Entrapment Problem in Random Walk Decentralized Learning
+Memristive Linear Algebra
+Two parallel dynamic lexicographic algorithms for factorization sets in numerical semigroups
+Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization
+Efficient Training of Large Language Models on Distributed Infrastructures: A Survey
+Enabling Message Passing Interface Containers on the LUMI Supercomputer
+Before and After Blockchain: Development and Principle of Distributed Fault Tolerance Consensus
+Performance Optimization of High-Conflict Transactions within the Hyperledger Fabric Blockchain
+Lock-Free Computation of PageRank in Dynamic Graphs
+FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction
+Binary Bleed: Fast Distributed and Parallel Method for Automatic Model Selection
+Optimizing Checkpoint-Restart Mechanisms for HPC with DMTCP in Containers at NERSC
+Blockchain for Large Language Model Security and Safety: A Holistic Survey
+Prichain II: CloudGuardian Cloud Security Proposal with Blockchain
+Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference
+Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training
+Ordered Momentum for Asynchronous SGD
+A collaborative ensemble construction method for federated random forest
+Rendezvous and Merging for Two Metamorphic Robotic Systems without Global Compass
+FedAR: Addressing Client Unavailability in Federated Learning with Local Update Approximation and Rectification
+Lectures on Parallel Computing
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
+Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows
+HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications
+FADAS: Towards Federated Adaptive Asynchronous Optimization
+Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future
+Sparse Incremental Aggregation in Multi-Hop Federated Learning
+StraightLine: An End-to-End Resource-Aware Scheduler for Machine Learning Application Requests
+$k$-Center Clustering in Distributed Models
+Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction
+Empowering the Quantum Cloud User with QRIO
+PARS3: Parallel Sparse Skew-Symmetric Matrix-Vector Multiplication with Reverse Cuthill-McKee Reordering
+A Distributed Edge FLISR Solution & Network Simulation Test Platform
+Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning
+DualFed: Enjoying both Generalization and Personalization in Federated Learning via Hierachical Representations
+SOK: Blockchain for Provenance
+SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices
+Sky$^\epsilon$-Tree: Embracing the Batch Updates of B$^\epsilon$-trees through Access Port Parallelism on Skyrmion Racetrack Memory

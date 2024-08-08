@@ -1,0 +1,100 @@
+A State-of-the-Art Review of Computational Models for Analyzing Longitudinal Wearable Sensor Data in Healthcare
+LLM-for-X: Application-agnostic Integration of Large Language Models to Support Personal Writing Workflows
+The Impacts of AI Avatar Appearance and Disclosure on User Motivation
+Designing Harvesting Tools for Olive Trees: Methodological Reflections on Exploring and Incorporating Plant Perspectives in the Early Stages of Design Process
+Exploring the Role of Social Support when Integrating Generative AI into Small Business Workflows
+Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models
+Mixing Linters with GUIs: A Color Palette Design Probe
+Algorithm-Assisted Decision Making and Racial Disparities in Housing: A Study of the Allegheny Housing Assessment Tool
+A Survey on Exploratory Spatiotemporal Visual Analytics Approaches for Climate Science
+A Dataset for Multi-intensity Continuous Human Activity Recognition through Passive Sensing
+Does empirical evidence from healthy aging studies predict a practical difference between visualizations for different age groups?
+Between the AI and Me: Analysing Listeners' Perspectives on AI- and Human-Composed Progressive Metal Music
+Does the Source of a Warning Matter? Examining the Effectiveness of Veracity Warning Labels Across Warners
+FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights
+Decomposed Prompting to Answer Questions on a Course Discussion Board
+Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts
+Cocobo: Exploring Large Language Models as the Engine for End-User Robot Programming
+TactIcons: Designing 3D Printed Map Icons for People who are Blind or have Low Vision
+Steps Towards an Infrastructure for Scholarly Synthesis
+A Qualitative Investigation to Design Empathetic Agents as Conversation Partners for People with Autism Spectrum Disorder
+Questionnaires for Everyone: Streamlining Cross-Cultural Questionnaire Adaptation with GPT-Based Translation Quality Evaluation
+Considering Visualization Example Galleries
+Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education
+Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago
+DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis
+Hug Reports: Supporting Expression of Appreciation between Users and Contributors of Open Source Software Packages
+Human-Data Interaction Framework: A Comprehensive Model for a Future Driven by Data and Humans
+From Feature Importance to Natural Language Explanations Using LLMs with RAG
+Visual Analysis of GitHub Issues to Gain Insights
+Assessing Graphical Perception of Image Embedding Models using Channel Effectiveness
+HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation
+Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language
+Haptic feedback of front car motion can improve driving control
+Riemannian Geometry-Based EEG Approaches: A Literature Review
+What Can Interactive Visualization do for Participatory Budgeting in Chicago?
+Visual Support for the Loop Grafting Workflow on Proteins
+MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion
+The Second Joint Workshop on Cross Reality
+PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality
+Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics
+Detection of Unknown Errors in Human-Centered Systems
+Enabling Uniform Computer Interaction Experience for Blind Users through Large Language Models
+Prototype Smart Home Environment With Biofeedback
+An Investigation of the Test-Retest Reliability of the miniPXI
+Heads Up eXperience (HUX): Always-On AI Companion for Human Computer Environment Interaction
+BEMTrace: Visualization-driven approach for deriving Building Energy Models from BIM
+Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy
+AccessShare: Co-designing Data Access and Sharing with Blind People
+Evaluating Human-AI Collaboration: A Review and Methodological Framework
+Les leaders facilitent-ils l'appropriation des syst{\`e}mes d'information collaboratifs dans les {\'e}quipes ?
+A Recipe for Success? Exploring Strategies for Improving Non-Visual Access to Cooking Instructions
+Evaluating Front-end & Back-end of Human Automation Interaction Applications A Hypothetical Benchmark
+CogNarr Ecosystem: Facilitating Group Cognition at Scale
+Enhancing Psychometric Analysis with Interactive ShinyItemAnalysis Modules
+Mitigating Cognitive Biases in Multi-Criteria Crowd Assessment
+The Design of a 3D Character Animation System for Digital Twins in the Metaverse
+Review on the Role of Virtual Reality in Reducing Mental Health Diseases Specifically Stress, Anxiety, and Depression
+To accept or not to accept? An IRT-TOE Framework to Understand Educators' Resistance to Generative AI in Higher Education
+Exploring Large Language Models to generate Easy to Read content
+Leveraging Foundation Models for Zero-Shot IoT Sensing
+Do Text-to-Vis Benchmarks Test Real Use of Visualisations?
+"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Conversational AI Multi-Agent Interoperability, Universal Open APIs for Agentic Natural Language Multimodal Communications
+ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding
+The influence of Automated Decision-Making systems in the context of street-level bureaucrats' practices
+Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
+On the Pros and Cons of Active Learning for Moral Preference Elicitation
+Engaging with Children's Artwork in Mixed Visual-Ability Families
+Design Frictions on Social Media: Balancing Reduced Mindless Scrolling and User Satisfaction
+Who Let the Guards Out: Visual Support for Patrolling Games
+Mind the Visual Discomfort: Assessing Event-Related Potentials as Indicators for Visual Strain in Head-Mounted Displays
+Quantifying Emotional Responses to Immutable Data Characteristics and Designer Choices in Data Visualizations
+Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives
+FemQuest -- An Interactive Multiplayer Game to Engage Girls in Programming
+TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+Effect of Duration and Delay on the Identifiability of VR Motion
+Effect of Data Degradation on Motion Re-Identification
+Several questions of visual generation in 2024
+Talking Wikidata: Communication patterns and their impact on community engagement in collaborative knowledge graphs
+IRIS: Wireless Ring for Vision-based Smart Home Interaction
+ComPeer: A Generative Conversational Agent for Proactive Peer Support
+iNNspector: Visual, Interactive Deep Model Debugging
+Discursive Patinas: Anchoring Discussions in Data Visualizations
+Micro Visualizations on a Smartwatch: Assessing Reading Performance While Walking
+TwIPS: A Large Language Model Powered Texting Application to Simplify Conversational Nuances for Autistic Users
+DesignChecker: Visual Design Support for Blind and Low Vision Web Developers
+Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing
+Accessibility evaluation of major assistive mobile applications available for the visually impaired
+The Human-GenAI Value Loop in Human-Centered Innovation: Beyond the Magical Narrative
+AI in Remote Patient Monitoring
+AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents
+Collective Attention in Human-AI Teams
+Untangling Cognitive Processes Underlying Knowledge Work
+A Survey of Accessible Explainable Artificial Intelligence Research
+LLM4PM: A case study on using Large Language Models for Process Modeling in Enterprise Organizations
+Tool-Assisted Learning of Computational Reductions
+EEG-SSM: Leveraging State-Space Model for Dementia Detection
+Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?

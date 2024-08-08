@@ -1,0 +1,96 @@
+Optimal price signal generation for demand-side energy management
+Assessing the Reliability Benefits of Energy Storage as a Transmission Asset
+Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner
+Long-Term Forecasts of Failures in Wind Turbines
+H-Watch: An Open, Connected Platform for AI-Enhanced COVID19 Infection Symptoms Monitoring and Contact Tracing
+RF Power Transmission for Self-sustaining Miniaturized IoT Devices
+On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems
+Hidden Cyber-Physical Contingency Identification, Classification and Evaluation in Modern Power Systems
+Multi-Task Learning for Few-Shot Online Adaptation under Signal Temporal Logic Specifications
+Data-driven Modeling for Grid Edge IBRs: A Digital Twin Perspective of User-Defined Models
+Long-Term Energy Management for Microgrid with Hybrid Hydrogen-Battery Energy Storage: A Prediction-Free Coordinated Optimization Framework
+CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment
+Machine Learning In-Sensors: Computation-enabled Intelligent Sensors For Next Generation of IoT
+Hyper parametric timed CTL
+Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models
+Decentralized and Uncoordinated Learning of Stable Matchings: A Game-Theoretic Approach
+Data-Driven Abstractions via Binary-Tree Gaussian Processes for Formal Verification
+Robust LQ Optimal Control for Wind Turbine Power Tracking Operation
+Impact of Geographical Separation on Spectrum Sharing Markets
+Distributed Adaptive Time-Varying Optimization with Global Asymptotic Convergence
+Embracing Fairness in Consumer Electricity Markets using an Automatic Market Maker
+Input Convex Neural Network-Assisted Optimal Power Flow in Distribution Networks: Modeling, Algorithm Design, and Applications
+Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis
+Learning to Provably Satisfy High Relative Degree Constraints for Black-Box Systems
+Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S
+Multivariable Extremum Seeking Control for Dynamic Maps through Sliding Modes and Periodic Switching Function
+Implementation of Formal Standard for Interoperability in M&S/System of Systems Integration with DEVS/SOA
+Accelerated forward-backward and Douglas-Rachford splitting dynamics
+An anisotropic traffic flow model with look-ahead effect for mixed autonomy traffic
+Haptic feedback of front car motion can improve driving control
+Generalized Ellipsoids
+Meta-Learning for Adaptive Control with Automated Mirror Descent
+As Transparent as Possible, System Implementation Governance Using Process Mining
+A Family of Switching Pursuit Strategies for a Multi-Pursuer Single-Evader Game
+Minimum Time Consensus of Multi-agent System under Fuel Constraints
+Culsans: An Efficient Snoop-based Coherency Unit for the CVA6 Open Source RISC-V application processor
+Design and Testing for Steel Support Axial Force Servo System
+ProRuka: A highly efficient HMI algorithm for controlling a novel prosthetic hand with 6-DOF using sonomyography
+Perspective on the Marine Simulator for Autonomous Vessel Development
+Passivity based Stability Assessment for Four types of Droops for DC Microgrids
+A Baseline Approach for Modeling and Characterization of Commercial Off-The-Shelf (COTS) Droop Controlled Converter
+Real Time Safety of Fixed-wing UAVs using Collision Cone Control Barrier Functions
+Symmetric Locality: Definition and Initial Results
+Taylor-Expansion-Based Robust Power Flow in Unbalanced Distribution Systems: A Hybrid Data-Aided Method
+Impact of Transmission Dynamics and Treatment Uptake, Frequency and Timing on the Cost-effectiveness of Directly Acting Antivirals for Hepatitis C Virus Infection
+Network-Based Epidemic Control Through Optimal Travel and Quarantine Management
+Adaptive Target Tracking Using Retrospective Cost Input Estimation
+Machine Learning for Equitable Load Shedding: Real-time Solution via Learning Binding Constraints
+State estimation for a class of nonlinear time-varying uncertain system under multiharmonic disturbance
+TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models
+A Modular Measurement Integrity Verification for Transformer Currents with Applications in Hardware in-the-Loop Digital Twin
+SAPG: Split and Aggregate Policy Gradients
+Time series forecasting with high stakes: A field study of the air cargo industry
+Emission Reduction in Urban Environments by Replacing Conventional City Buses with Electric Bus Technology: A Case Study of Pakistan
+Performance Study of Various Relay Nodes in 5G Wireless Network
+Efficient Shield Synthesis via State-Space Transformation
+A Differential Dynamic Programming Framework for Inverse Reinforcement Learning
+Imitation Learning for Intra-Day Power Grid Operation through Topology Actions
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Bayesian meta learning for trustworthy uncertainty quantification
+B-ISAC: Backscatter Integrated Sensing and Communication for 6G IoE Applications
+A Low-Frequency Vibration Experimental Platform for University Physics Experiment Designed by LabVIEW
+Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments
+Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation
+A Fault Prognostic System for the Turbine Guide Bearings of a Hydropower Plant Using Long-Short Term Memory (LSTM)
+A maturity framework for data driven maintenance
+Leader-Follower Formation and Tracking Control of Underactuated Surface Vessels
+Atmospheric Density-Compensating Model Predictive Control for Targeted Reentry of Drag-Modulated Spacecraft
+Piecewise constant tuning gain based singularity-free MRAC with application to aircraft control systems
+On the Number of Observation Nodes in Boolean Networks
+Finite-time and bumpless transfer control of asynchronously switched systems: An output feedback control approach
+Regret-Optimal Defense Against Stealthy Adversaries: A System Level Approach
+Robust Optimal Network Topology Switching for Zero Dynamics Attacks
+SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces
+Distributionally Robust Kalman Filtering over Finite and Infinite Horizon
+Optimal Control on Positive Cones
+Reinforcement Learning for Sustainable Energy: A Survey
+Matching Input and Output Devices and Physical Disabilities for Human-Robot Workstations
+PANDORA: The Open-Source, Structurally Elastic Humanoid Robot
+Integrating Posture Control in Speech Motor Models: A Parallel-Structured Simulation Approach
+On Asymptotic Analysis of Perturbed Sweeping Processes with Application to Optimization
+Multiphysics Modeling on Photoconductive Antennas for Terahertz Applications
+Phase transition in a kinetic mean-field game model of inertial self-propelled agents
+Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems
+Flexible and Cost-Effective Spherical to Cartesian Coordinate Conversion Using 3-D CORDIC Algorithm on FPGA
+Optimal Assignment and Motion Control in Two-Class Continuum Swarms
+Identification of a time-varying SIR Model for Covid-19
+Pose, Velocity and Landmark Position Estimation Using IMU and Bearing Measurements
+Control Informed Design of the IAC Autonomous Racecar for Operation at the Dynamic Envelope
+Satellite Internet of Things Research Report
+Robust Iterative Learning for Collaborative Road Profile Estimation and Active Suspension Control in Connected Vehicles
+Competitive Perimeter Defense in Tree Environments
+Optimal Control using Composite Bernstein Approximants
+Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind
+Time-Optimal Planning for Long-Range Quadrotor Flights: An Automatic Optimal Synthesis Approach
+Design, Key Techniques and System-Level Simulation for NB-IoT Networks

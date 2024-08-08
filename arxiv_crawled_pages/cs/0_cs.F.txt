@@ -1,0 +1,10 @@
+Hyper parametric timed CTL
+Data-Driven Abstractions via Binary-Tree Gaussian Processes for Formal Verification
+RE#: High Performance Derivative-Based Regex Matching with Intersection, Complement and Lookarounds
+Tight Bounds for the Number of Absent Scattered Factors
+Detecting and explaining (in)equivalence of context-free grammars
+Reachability for Multi-Priced Timed Automata with Positive and Negative Rates
+On the Minimisation of Deterministic and History-Deterministic Generalised (co)B\"uchi Automata
+The Existential Theory of the Reals as a Complexity Class: A Compendium
+Regular language quantum states
+A process algebraic framework for multi-agent dynamic epistemic systems

@@ -1,0 +1,86 @@
+A Waveguide Port Boundary Condition based on approximation space restriction for Finite Element Analysis
+Commutativity and spectral properties for a general class of Szasz-Mirakjan-Durrmeyer operators
+Stable Sparse Operator Inference for Nonlinear Structural Dynamics
+Mixed precision HODLR matrices
+A {\tau} Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations
+Precomputing approach for a two-scale phase transition model
+Stable Rank and Intrinsic Dimension of Real and Complex Matrices
+Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing $B^T \phi (A) B$
+On the mean-field limit of the Cucker-Smale model with Random Batch Method
+High-order quasi-interpolation with generalized Gaussian kernels restricted over tori
+Stratified regression Monte-Carlo scheme for semilinear PDEs and BSDEs with large scale parallelization on GPUs
+Quasi-Regression Monte-Carlo scheme for semi-linear PDEs and BSDEs with large scale parallelization on GPUs
+Tree-Cotree-Based Tearing and Interconnecting for 3D Magnetostatics: A Dual-Primal Approach
+The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras
+Lyapunov weights to convey the meaning of time in physics-informed neural networks
+Isogeometric-based Asymptotic Analysis on Multi-layered Thin Shells
+High-order limiting methods using maximum principle bounds derived from the Boltzmann equation I: Euler equations
+A priori error estimates for optimal control problems governed by the transient Stokes equations and subject to state constraints pointwise in time
+Error estimates for full discretization of Cahn--Hilliard equation with dynamic boundary conditions
+Robust Augmented Mixed Finite Element Methods for Stoke Interface Problems with Discontinuous Viscosity in Multiple Subdomains
+Patterns in soil organic carbon dynamics: integrating microbial activity, chemotaxis and data-driven approaches
+Adaptive planning for risk-aware predictive digital twins
+A convergent augmented SAV scheme for stochastic Cahn--Hilliard equations with dynamic boundary conditions describing contact line tension
+Optimizing Variational Physics-Informed Neural Networks Using Least Squares
+Homomorphic data compression for real time photon correlation analysis
+A Stochastic Precipitating Quasi-Geostrophic Model
+Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions
+Uncertainty Quantification under Noisy Constraints, with Applications to Raking
+Generalized Ellipsoids
+Optimal Algorithms for Quantifying Spectral Size with Applications to Quasicrystals
+GsPINN: A novel fast Green kernel solver based on symmetric Physics-Informed neural networks
+Reachable and observable sets for switched systems via generalized Lyapunov equations: application to switched descriptor systems
+Greedy Adaptive Local Recovery of Functions in Sobolev Spaces
+Convergence analysis of a helicity-preserving finite element discretisation for an incompressible magnetohydrodynamics system
+Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations
+Non-iterative complex variable solution on sequential shallow tunnelling in gravitational geomaterial with reasonable far-field displacement
+Data-driven Discovery of Delay Differential Equations with Discrete Delays
+Oscillation-free numerical schemes for Biot's model and their iterative coupling solution
+From Obstacle Problems to Neural Insights: Feed Forward Neural Network Modeling of Ice Thickness
+Weighted hyperbolic cross polynomial approximation
+Weak maximum principle of finite element methods for parabolic equations in polygonal domains
+Multilevel Tau preconditioners for symmetrized multilevel Toeplitz systems with applications to solving space fractional diffusion equations
+Convergent finite elements on arbitrary meshes, the WG method
+A new approximation method for solving stochastic differential equations
+Convergence of Random Batch Method with replacement for interacting particle systems
+Forms of representation of interpolation trigonometric splines
+Numerical Analysis for a Hyperbolic PDE-Constrained Optimization Problem in Acoustic Full Waveform Inversion
+Isovolumetric Energy Minimization for Ball-Shaped Volume-Preserving Parameterizations of 3-Manifolds
+Reflective block Kaczmarz algorithms for least squares
+Permuted preconditioning for extended saddle point problem arising from Neumann boundary control
+The jump filter in the discontinuous Galerkin method for hyperbolic conservation laws
+Regularity Analysis and High-Order Time Stepping Scheme for Quasilinear Subdiffusion
+A Novel Gaussian filter-based Pressure Correction Technique with Super Compact Scheme for Unsteady 3D Incompressible, Viscous Flows
+The Variable Time-stepping DLN-Ensemble Algorithms for Incompressible Navier-Stokes Equations
+Investigation of discontinuous Galerkin methods in adjoint gradient-based aerodynamic shape optimization
+Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems
+Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations
+On a generalization of Watson's trigonometric sum, some of its properties and its relationship to Dowker's sum
+A New Higher-Order Super Compact Finite Difference Scheme to Study Three-Dimensional Non-Newtonian Flows
+Learning-based geometric shape optimization of the Dirichlet energy
+Adaptive Parameter Selection in Nudging Based Data Assimilation
+Multi-Scenario and Stochastic Thermo-Electro-Mechanical Modeling of Failure in Power Transmission Lines
+On Godunov-type finite volume methods for seismic wave propagation
+Global Solver based on the Sperner-Lemma and Mazurkewicz-Knaster-Kuratowski-Lemma based proof of the Brouwer Fixed-Point Theorem
+Hierarchical Super-Localized Orthogonal Decomposition Method
+Decoupling multistep schemes for elliptic-parabolic problems
+On the precise quantification of the impact of a single discretionary lane change on surrounding traffic
+A variational front-tracking method for multiphase flow with triple junctions
+Efficiently and accurately simulating multi-dimensional M-coupled nonlinear Schr\"odinger equations with fourth-order time integrators and Fourier spectral method
+Restriction and interpolation operators for digital images and their boundaries
+Improved randomized neural network methods with boundary processing for solving elliptic equations
+A stabilized three fields formulation for Discrete Fracture Networks
+Non-intrusive model reduction of advection-dominated hyperbolic problems using neural network shift augmented manifold transformations
+Majorizing Stress Formula Two
+On reduced inertial PDE models for Cucker-Smale flocking dynamics
+A Lyapunov Analysis of Accelerated PDHG Algorithms
+Local Binary Pattern(LBP) Optimization for Feature Extraction
+Notes on symmetries and reductions of algebraic equations
+A robust and time-parallel preconditioner for parabolic reconstruction problems using Isogeometric Analysis
+3D Adaptive VEM with stabilization-free a posteriori error bounds
+Randomized greedy algorithms for neural network optimization
+A high-order, high-efficiency adaptive time filter algorithm for shale reservoir model based on coupled fluid flow with porous media flow
+Optimal Control using Composite Bernstein Approximants
+Computing an Aircraft's Gliding Range and Minimal Return Altitude in Presence of Obstacles and Wind
+Mixed Convection and Entropy Generation Analysis of CNT-Water Nanofluid in a Square Cavity with Cylinders and Flow Deflectors
+Automated transport separation using the neural shifted proper orthogonal decomposition

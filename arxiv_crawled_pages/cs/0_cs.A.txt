@@ -1,0 +1,37 @@
+Towards Error Correction for Computing in Racetrack Memory
+Blink: Fast Automated Design of Run-Time Power Monitors on FPGA-Based Computing Platforms
+EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models
+Functional ISS-Driven Verification of Superscalar RISC-V Processors
+Optical Computing for Deep Neural Network Acceleration: Foundations, Recent Developments, and Emerging Directions
+Machine Learning In-Sensors: Computation-enabled Intelligent Sensors For Next Generation of IoT
+Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic
+UpDown: Programmable fine-grained Events for Scalable Performance on Irregular Applications
+Configurable Multi-Port Memory Architecture for High-Speed Data Communication
+Evolutionary Approximation of Ternary Neurons for On-sensor Printed Neural Networks
+Exploring Liquid Neural Networks on Loihi-2
+Automated Physical Design Watermarking Leveraging Graph Neural Networks
+Switchboard: An Open-Source Framework for Modular Simulation of Large Hardware Systems
+A High-Throughput FPGA Accelerator for Lightweight CNNs With Balanced Dataflow
+Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board
+HENNC: Hardware Engine for Artificial Neural Network-based Chaotic Oscillators
+RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning
+RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction
+STT-RAM-based Hierarchical In-Memory Computing
+ARC: DVFS-Aware Asymmetric-Retention STT-RAM Caches for Energy-Efficient Multicore Processors
+SCART: Predicting STT-RAM Cache Retention Times Using Machine Learning
+Non-Overlapping Placement of Macro Cells based on Reinforcement Learning in Chip Design
+AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs
+Classification-Based Automatic HDL Code Generation Using LLMs
+Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design
+AICircuit: A Multi-Level Dataset and Benchmark for AI-Driven Analog Integrated Circuit Design
+Large Language Model for Verilog Generation with Golden Code Feedback
+LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits
+MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs
+Latency optimized Deep Neural Networks (DNNs): An Artificial Intelligence approach at the Edge using Multiprocessor System on Chip (MPSoC)
+Flexible and Cost-Effective Spherical to Cartesian Coordinate Conversion Using 3-D CORDIC Algorithm on FPGA
+MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning
+HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline
+An Energy-Efficient Artefact Detection Accelerator on FPGAs for Hyper-Spectral Satellite Imagery
+Sky$^\epsilon$-Tree: Embracing the Batch Updates of B$^\epsilon$-trees through Access Port Parallelism on Skyrmion Racetrack Memory
+SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits
+Exploring the Limitations of Kolmogorov-Arnold Networks in Classification: Insights to Software Training and Hardware Implementation

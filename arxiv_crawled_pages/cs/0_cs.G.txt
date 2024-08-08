@@ -1,0 +1,25 @@
+Does empirical evidence from healthy aging studies predict a practical difference between visualizations for different age groups?
+Accelerating Transfer Function Update for Distance Map based Volume Rendering
+Deformable 3D Shape Diffusion Model
+Seamless Parametrization in Penner Coordinates
+Fine-grained Metrics for Point Cloud Semantic Segmentation
+A Comparative Study of Neural Surface Reconstruction for Scientific Visualization
+Monocular Human-Object Reconstruction in the Wild
+StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset
+Physically-based Path Tracer using WebGPU and OpenPBR
+From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks
+colorspace: A Python Toolbox for Manipulating and Assessing Colors and Palettes
+Structure-Aware Simplification for Hypergraph Visualization
+FreeShell: A Context-Free 4D Printing Technique for Fabricating Complex 3D Triangle Mesh Shells
+WindPoly: Polygonal Mesh Reconstruction via Winding Numbers
+NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization
+A multilevel backbone extraction framework
+\textsc{Perm}: A Parametric Representation for Multi-Style 3D Hair Modeling
+Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
+WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds
+Predicting 3D Rigid Body Dynamics with Deep Residual Network
+Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models
+3D Hole Filling using Deep Learning Inpainting
+Drawing ellipses and elliptical arcs with piecewise cubic B\'ezier curve approximations
+Topology-Preserving Downsampling of Binary Images
+PatchEX: High-Quality Real-Time Temporal Supersampling through Patch-based Parallel Extrapolation

@@ -1,0 +1,31 @@
+An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification
+Self-Sovereign Identity for Consented and Content-Based Access to Medical Records using Blockchain
+LLM-Find: An Autonomous GIS Agent Framework for Geospatial Data Retrieval
+CultureVo: The Serious Game of Utilizing Gen AI for Enhancing Cultural Intelligence
+Exploring Liquid Neural Networks on Loihi-2
+Neuromorphic on-chip reservoir computing with spiking neural network architectures
+Mapping the Digital Healthcare Revolution
+Brain-inspired polymer dendrite networks for morphology-dependent computing hardware
+Rouser: Robust SNN training using adaptive threshold learning
+Quantum Machine Learning Architecture Search via Deep Reinforcement Learning
+To accept or not to accept? An IRT-TOE Framework to Understand Educators' Resistance to Generative AI in Higher Education
+Autonomous Bootstrapping of Quantum Dot Devices
+From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks
+Requirements on bit resolution in optical Ising machine implementations
+Reverse Map Projections as Equivariant Quantum Embeddings
+Introducing a new hyper-parameter for RAG: Context Window Utilization
+Nomadic Non-Public Networks for 6G: Use Cases and Key Performance Indicators
+Heads Up eXperience (HUX): Always-On AI Companion for Human Computer Environment Interaction
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Danish DPA Banned the Use of Google Chromebooks and Google Workspace in Schools in Helsingor Municipality
+Interactive Learning in Computer Science Education Supported by a Discord Chatbot
+THEA-Code: an Autoencoder-Based IDS-correcting Code for DNA Storage
+Topology Optimization of Random Memristors for Input-Aware Dynamic SNN
+Integration of Quantum Accelerators into HPC: Toward a Unified Quantum Platform
+TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals
+Q-gen: A Parameterized Quantum Circuit Generator
+SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment
+SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits
+IRIS: Wireless Ring for Vision-based Smart Home Interaction
+A Sensitivity Analysis of Cellular Automata and Heterogeneous Topology Networks: Partially-Local Cellular Automata and Homogeneous Homogeneous Random Boolean Networks
+Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields

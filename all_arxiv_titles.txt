@@ -855,7 +855,6 @@ Strong Embeddings of 3-connected Cubic Planar Graphs on Surfaces of non-negative
 An operator theory approach to the evanescent part of a two-parametric weak-stationary stochastic process
 \tau-tilting finiteness and \mathbfg-tameness: Incidence algebras of posets and concealed algebras
 A robust and time-parallel preconditioner for parabolic reconstruction problems using Isogeometric Analysis
-On the Symmetric Square Large Sieve for \mathrmPSL_2 (\mathbbZ [i]) \backslash \mathrmPSL_2 (\mathbbC)  and the Prime Geodesic Theorem for  \mathrmPSL_2 (\mathbbZ [i]) \backslash \mathbbH^3 
 A survey on big Ramsey structures
 Pfaffian structure of the eigenvector overlap for the symplectic Ginibre ensemble
 Asymptotic location and shape of the optimal favorable region in a Neumann spectral problem
@@ -6614,7 +6613,6 @@ Characterization of the RD50-MPW4 HV-CMOS pixel sensor
 Considerations on measuring spin-spin correlation of hyeprons in heavy-ion experiments
 TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics
 Confronting perturbative QCD with the hardest exclusive reactions: kaon electromagnetic form factors
-Observation of D^0\to b_1(1235)^- e^+\nu_e and evidence for D^+\to b_1(1235)^0 e^+\nu_e
 High-frequency gravitational waves detection with the BabyIAXO haloscopes
 Model-independent search for pair production of new bosons decaying into muons in proton-proton collisions at \sqrts = 13 TeV
 Results from ON-OFF analysis of the Neutrinos-Angra detector
@@ -6631,7 +6629,6 @@ Universal New Physics Latent Space
 Anomaly Detection Based on Machine Learning for the CMS Electromagnetic Calorimeter Online Data Quality Monitoring
 Accuracy versus precision in boosted top tagging with the ATLAS detector
 Particle production as a function of charged-particle flattenicity in pp collisions at \sqrts = 13 TeV
-Measurement of the \boldsymbole^+e^-\to K^+K^-\psi(2S) Cross Section at Center-of-Mass Energies from 4.699 to 4.951 GeV and Search for \boldsymbolZ_cs^\pm in the \boldsymbolZ_cs^\pm\to K^\pm\psi(2S) Decay
 Exploring the Quantum Universe: Pathways to Innovation and Discovery in Particle Physics
 Likely existence of bound states and the Efimov effect in the triple-J/\psi system
 Investigation of kaonic atom optical potential by the high precision data of kaonic ^3He and ^4He atoms
@@ -6651,7 +6648,6 @@ Probing exotic long-lived particles from the prompt side using the CONTUR method
 Neutrino Lorentz invariance violation from the CPT-even SME coefficients through a tensor interaction with cosmological scalar fields
 Collider and astrophysical signatures of light scalars with enhanced \tau couplings
 Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel Hardware-Agnostic Pattern Recognition Algorithm
-Measurement of D^0-\overlineD^0 mixing and search for CP violation with D^0\rightarrow K^+\pi^- decays
 Measurement of the ^8B Solar Neutrino Flux Using the Full SNO+ Water Phase
 Probing gluonic saturation in deeply virtual meson production beyond leading power
 Effects of Final State Interactions on Landau Singularities
@@ -9599,7 +9595,7 @@ Considerations on measuring spin-spin correlation of hyeprons in heavy-ion exper
 The Proton Charge Radius from Dimuon Photoproduction off the Proton
 Comment on Final CONUS results on coherent elastic neutrino nucleus scattering at the Brokdorf reactor
 Study of one-step and two-step neutron transfer in the reaction ^6Li + ^9Be
-Measurement of the Sequential 3\alpha Process in the Photodissociation of ^12\mathrmC
+Measurement of the Sequential alpha Process in the Photodissociation of ^12
 Magicity versus superfluidity around ^28O viewed from the study of ^30F
 Particle production as a function of charged-particle flattenicity in pp collisions at \sqrts = 13 TeV
 Likely existence of bound states and the Efimov effect in the triple-J/\psi system

@@ -1,0 +1,101 @@
+Grid-Based Decompositions for Spatial Data under Local Differential Privacy
+Self-Sovereign Identity for Consented and Content-Based Access to Medical Records using Blockchain
+Fingerprint Theft Using Smart Padlocks: Droplock Exploits and Defenses
+Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models
+LFFR: Logistic Function For (multi-output) Regression
+FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs
+Differentially Private Block-wise Gradient Shuffle for Deep Learning
+Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens
+DeepBaR: Fault Backdoor Attack on Deep Neural Network Layers
+Private Collaborative Edge Inference via Over-the-Air Computation
+Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent
+Watermarking Recommender Systems
+Distributed Symmetric Key Establishment: a Scalable Quantum-Safe Key Distribution Protocol
+SoK: Payment Channel Networks
+On the MacWilliams Theorem over Codes and Lattices
+Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification
+Automated Physical Design Watermarking Leveraging Graph Neural Networks
+Excavating Vulnerabilities Lurking in Multi-Factor Authentication Protocols: A Systematic Security Analysis
+From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks
+Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes
+Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks
+Enabling Contextual Soft Moderation on Social Media through Contrastive Textual Deviation
+Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks
+Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT
+Can LLMs be Fooled? Investigating Vulnerabilities in LLMs
+Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
+Blockchain for Large Language Model Security and Safety: A Holistic Survey
+Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise
+Private and Secure Fuzzy Name Matching
+Prichain II: CloudGuardian Cloud Security Proposal with Blockchain
+Integrated Communications and Security: RIS-Assisted Simultaneous Transmission and Generation of Secret Keys
+Lightweight Dataset for Decoy Development to Improve IoT Security
+Fast Private Location-based Information Retrieval Over the Torus
+Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning
+Efficiently and Effectively: A Two-stage Approach to Balance Plaintext and Encrypted Text for Traffic Classification
+Towards Detecting IoT Event Spoofing Attacks Using Time-Series Classification
+Segmented Private Data Aggregation in the Multi-message Shuffle Model
+Maximal Extractable Value Mitigation Approaches in Ethereum and Layer-2 Chains: A Comprehensive Survey
+Diffie-Hellman Picture Show: Key Exchange Stories from Commercial VoWiFi Deployments
+Breaking the Balance of Power: Commitment Attacks on Ethereum's Reward Mechanism
+An Alternative to Multi-Factor Authentication with a Triple-Identity Authentication Scheme
+Complete Security and Privacy for AI Inference in Decentralized Systems
+AndroCon: Conning Location Services in Android
+Seamless Website Fingerprinting in Multiple Environments
+The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+Enhancing cybersecurity defenses: a multicriteria decision-making approach to MITRE ATT&CK mitigation strategy
+EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection
+Learning Sparse Parity with Noise in Linear Samples
+Collaborative CP-NIZKs: Modular, Composable Proofs for Distributed Secrets
+Towards Clean-Label Backdoor Attacks in the Physical World
+A Survey of Malware Detection Using Deep Learning
+Task Offloading in Fog Computing with Deep Reinforcement Learning: Future Research Directions Based on Security and Efficiency Enhancements
+SWIFT: Semantic Watermarking for Image Forgery Thwarting
+Low-Latency Privacy-Preserving Deep Learning Design via Secure MPC
+Prompt Injection Attacks on Large Language Models in Oncology
+Towards A Post-Quantum Cryptography in Blockchain I: Basic Review on Theoretical Cryptography and Quantum Information Theory
+Towards a Novel Privacy-Preserving Distributed Multiparty Data Outsourcing Scheme for Cloud Computing with Quantum Key Distribution
+Strong Copyright Protection for Language Models via Adaptive Model Fusion
+F-KANs: Federated Kolmogorov-Arnold Networks
+BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning
+Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability
+Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction
+Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference
+Navigating the United States Legislative Landscape on Voice Privacy: Existing Laws, Proposed Bills, Protection for Children, and Synthetic Data for AI
+Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain
+Danish DPA Banned the Use of Google Chromebooks and Google Workspace in Schools in Helsingor Municipality
+Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy
+On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps
+A collaborative ensemble construction method for federated random forest
+Debiased Graph Poisoning Attack via Contrastive Surrogate Objective
+Reexamination of the realtime protection for user privacy in practical quantum private query
+Accuracy-Privacy Trade-off in the Mitigation of Membership Inference Attack in Federated Learning
+HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics
+Accurate and Scalable Detection and Investigation of Cyber Persistence Threats
+Java-Class-Hijack: Software Supply Chain Attack for Java based on Maven Dependency Resolution and Java Classloading
+A Public Dataset For the ZKsync Rollup
+VeriCHERI: Exhaustive Formal Security Verification of CHERI at the RTL
+Vulnerability Detection in Ethereum Smart Contracts via Machine Learning: A Qualitative Analysis
+Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks
+Capturing the security expert knowledge in feature selection for web application attack detection
+Effect of Duration and Delay on the Identifiability of VR Motion
+Effect of Data Degradation on Motion Re-Identification
+Privacy-Preserving Model-Distributed Inference at the Edge
+MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection
+Enhanced Privacy Bound for Shuffle Model with Personalized Privacy
+Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review
+On the Design of Ethereum Data Availability Sampling: A Comprehensive Simulation Study
+The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models
+Is the Digital Forensics and Incident Response Pipeline Ready for Text-Based Threats in LLM Era?
+PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation
+Utilizing Blockchain and Smart Contracts for Enhanced Fraud Prevention and Minimization in Health Insurance through Multi-Signature Claim Processing
+Towards the Blockchain Massive Adoption with Permissionless Storage
+SOK: Blockchain for Provenance
+Semi-Compressed CRYSTALS-Kyber
+Explaining the Model, Protecting Your Data: Revealing and Mitigating the Data Privacy Risks of Post-Hoc Model Explanations via Membership Inference
+Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal Models: An Empirical Analysis
+Exploring Scaling Trends in LLM Robustness
+Blockchain Takeovers in Web 3.0: An Empirical Study on the TRON-Steem Incident
+Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?
+The Power of Graph Sparsification in the Continual Release Model
+Quantifying the Blockchain Trilemma: A Comparative Analysis of Algorand, Ethereum 2.0, and Beyond

@@ -1,0 +1,54 @@
+On the Zero-Error Capacity of Semantic Channels with Input and Output Memories
+Air-to-Ground Cooperative OAM Communications
+Precoding Based Downlink OAM-MIMO Communications with Rate Splitting
+Joint Power Allocation and Placement Scheme for UAV-assisted IoT with QoS Guarantee
+Cooperative Orbital Angular Momentum Wireless Communications
+Integrated Sensing and Communication in IRS-assisted High-Mobility Systems: Design, Analysis and Optimization
+An additively optimal interpreter for approximating Kolmogorov prefix complexity
+Physical Modelling and Cancellation of External Passive Intermodulation in FDD MIMO
+Private Collaborative Edge Inference via Over-the-Air Computation
+An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming
+Secure Source Coding Resilient Against Compromised Users via an Access Structure
+Wireless Multi-User Interactive Virtual Reality in Metaverse with Edge-Device Collaborative Computing
+5G NR Positioning with OpenAirInterface: Tools and Methodologies
+Bayesian Optimization Framework for Channel Simulation-Based Base Station Placement and Transmission Power Design
+Non-Bayesian Social Learning with Multiview Observations
+The Entrapment Problem in Random Walk Decentralized Learning
+Propagation of Uncertainty with the Koopman Operator
+Uncertainty Propagation and Filtering via the Koopman Operator in Astrodynamics
+Graph Fourier Transform Enhancement through Envelope Extensions
+Quasi-optimum distance flag codes
+Robust Beamforming Design for Integrated Satellite-Terrestrial Maritime Communications in the Presence of Wave Fluctuation
+Beamforming Design for Max-Min Fairness Performance Balancing in ISAC Systems
+Suppressing Beam Squint Effect For Near-Field Wideband Communication Through Movable Antennas
+Error Correction Decoding Algorithms of RS Codes Based on An Earlier Termination Algorithm to Find The Error Locator Polynomial
+Model-based Super-resolution: Towards a Unified Framework for Super-resolution
+Leave-One-Out Analysis for Nonconvex Robust Matrix Completion with General Thresholding Functions
+Multi-dimensional Graph Linear Canonical Transform
+THEA-Code: an Autoencoder-Based IDS-correcting Code for DNA Storage
+To accept or not to accept? An IRT-TOE Framework to Understand Educators' Resistance to Generative AI in Higher Education
+Discrete Spectrum Analysis of Vector OFDM Signals
+Application of the Lov\'asz-Schrijver Lift-and-Project Operator to Compact Stable Set Integer Programs
+A Versatility Measure for Parametric Risk Models
+High-Dimensional Confidence Regions in Sparse MRI
+Joint Slot and Power Optimization for Grant Free Random Access with Unknown and Heterogeneous Device Activity
+Exploiting Device Heterogeneity in Grant-Free Random Access: A Data-Driven Approach
+Secrecy Performance Analysis of Integrated RF-UWOC IoT Networks Enabled by UAV and Underwater-RIS
+Signalling and Control in Nonlinear Stochastic Systems: An Information State Approach with Applications
+Mini-Batch Gradient-Based MCMC for Decentralized Massive MIMO Detection
+A Scalable Quantum Non-local Neural Network for Image Classification
+Log-Concave Coupling for Sampling Neural Net Posteriors
+A new family of binary sequences with a low correlation via elliptic curves
+Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels
+Conversational Dueling Bandits in Generalized Linear Models
+PIR Codes, Unequal-Data-Demand Codes, and the Griesmer Bound
+On de Bruijn Arrays Codes, Part I: Nonlinear Codes
+Two-Timescale Design for Movable Antenna Array-Enabled Multiuser Uplink Communications
+Authenticated partial correction over AV-MACs: toward characterization and coding
+Time-Shifted Alternating Gelfand-Pinsker Coding for Broadcast Channels
+Graph Linear Canonical Transform Based on CM-CC-CM Decomposition
+Scaling Training Data with Lossy Image Compression
+A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment
+Bad local minima exist in the stochastic block model
+Use-dependent Biases as Optimal Action under Information Bottleneck
+Transformers on Markov Data: Constant Depth Suffices
