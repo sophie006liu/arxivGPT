@@ -10,7 +10,7 @@ def fetch_html(url):
     return response.text
 
 """
-Takes HTML, finds list-tutle class object and returns article names
+Takes HTML, finds list-title class object and returns article names
 """
 def extract_article_names(soup):
     articles = []
@@ -22,7 +22,7 @@ def extract_article_names(soup):
     return articles
 
 def extract_category(url):
-    # Use regular expression to find the pattern that matches the category part of the URL
+    # Use regex to find the pattern that matches the category part of the URL
     match = re.search(r'/list/([^/]+)/recent', url)
     if match:
         return match.group(1)
@@ -49,9 +49,7 @@ def scrape_articles(base_url='https://arxiv.org/list/cs.IR/recent'):
 
     articles = extract_article_names(soup)
     
-    name = base_url[24:-8]
-    # Save articles to a file 
-    
+    name = base_url[24:-8] 
 
     with open(f"0_{name}.txt", "w", encoding='utf-8') as f:
         for article in articles:

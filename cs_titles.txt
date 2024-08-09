@@ -654,7 +654,6 @@ Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross A
 Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models
 LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification
 Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives
-KI-Bilder und die Widerst"andigkeit der Medienkonvergenz: Von prim"arer zu sekund"arer Intermedialit"at?
 ReCorD: Reasoning and Correcting Diffusion for HOI Generation
 Shapley Value-based Contrastive Alignment for Multimodal Information Extraction
 Improved symbolic drum style classification with grammar-based hierarchical representations

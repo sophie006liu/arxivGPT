@@ -20,3 +20,10 @@ it no longer repeats characters continuously, and we're seeing more spaces and v
 I did clean up the data more so that it leaves out titles with special characters
 "parametrich ph jed x p ph dinin k7 win pedininin d dy wininin dininin ph-n ph pth 2 majed"
 TODO: add bert embeddings, look it up it should include both tokenizing and embeddings
+
+8/8
+tried incorporating bert embeddings, having trouble understanding how the whole pipeline works
+
+8/9
+I GOT IT TO WORK!!!!!
+TODO: cleaning up code, and making the repository usable
